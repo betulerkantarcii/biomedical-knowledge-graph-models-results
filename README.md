@@ -1,4 +1,4 @@
-# 📂 **Biomedical Knowledge Graph Models Result Viewer**
+# 📂 **Biomedical Knowledge Graph Models Results Viewer**
 
 A Streamlit-based web application for visualizing and analyzing results from Biomedical Knowledge Graph models. The app dynamically loads specific CSV files based on user-selected criteria and provides an interactive interface for filtering and downloading model results.
 
