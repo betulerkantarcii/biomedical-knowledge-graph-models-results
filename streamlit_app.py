@@ -297,11 +297,12 @@ embedding = st.selectbox(
 
 
 # Check if the combination exists in the mapping
-selection_key = (model_name, test_dataset, frequency, negative_sampling, embedding)
+selection_key = (negative_sampling, model_name, frequency, embedding, test_dataset)
 
 if selection_key in csv_file_mapping:
     # Load the corresponding CSV file
     file_path = csv_file_mapping[selection_key]
+    file_path = "/workspaces/biomedical-knowledge-graph-models-results/" + file_path
     try:
         df = pd.read_csv(file_path)
         st.write(f"### Data from `{file_path}`:")
@@ -318,4 +319,4 @@ if selection_key in csv_file_mapping:
     except FileNotFoundError:
         st.error(f"File `{file_path}` not found. Please check the file path or upload the file.")
 else:
-    st.warning("No CSV file matches the selected combination. Please check your selections.")
+    st.warning(f"No CSV file matches the selected combination '{selection_key}'. Please check your selections.")
