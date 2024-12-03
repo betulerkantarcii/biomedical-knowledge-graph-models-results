@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 # Set page configuration
-st.set_page_config(page_title="Dynamic CSV Viewer", page_icon="📂")
-st.title("📂 Dynamic CSV Viewer with Filters")
+st.set_page_config(page_title="Biomedical Knowledge Graph Models Results Viewer", page_icon="📂")
+st.title("📂 Biomedical Knowledge Graph Models Results Viewer")
 
 # Define the mapping of dropdown selections to corresponding CSV files
 # File names follow the pattern: {negative_sampling}_{model}_{frequency1}_{frequency2}.csv
