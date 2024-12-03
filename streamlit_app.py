@@ -297,7 +297,7 @@ embedding = st.selectbox(
 
 
 # Check if the combination exists in the mapping
-selection_key = (negative_sampling, model_name, frequency, embedding)
+selection_key = (model_name, test_dataset, frequency, negative_sampling, embedding)
 
 if selection_key in csv_file_mapping:
     # Load the corresponding CSV file
