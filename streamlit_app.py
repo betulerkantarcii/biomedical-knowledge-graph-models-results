@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 
 # Set page configuration
 st.set_page_config(page_title="Biomedical Knowledge Graph Models Results Viewer", page_icon="📂")
@@ -303,6 +302,7 @@ selection_key = (negative_sampling, model_name, frequency, embedding, test_datas
 if selection_key in csv_file_mapping:
     # Load the corresponding CSV file
     file_path = csv_file_mapping[selection_key]
+    file_path = "/workspaces/biomedical-knowledge-graph-models-results/" + file_path
     try:
         df = pd.read_csv(file_path)
         st.write(f"### Data from `{file_path}`:")
@@ -326,6 +326,7 @@ if selection_key in csv_file_mapping:
                 .head(5)
             )
             st.write("### Top 5 relation common among top 10 rank in all models")
+            # Collect relevant files based on `test_dataset`
             # Collect relevant files based on `test_dataset`
             matching_files = [
                 path for key, path in csv_file_mapping.items() if key[-1] == test_dataset
@@ -364,16 +365,12 @@ if selection_key in csv_file_mapping:
                     st.write("### Top 5 Common Relationships Among Top 10 by Model Score Across Files")
                     st.dataframe(top_common)
 
-                    # Plot the common relationships
-                    fig = px.bar(
-                        top_common,
-                        x="count",
-                        y=top_common.apply(lambda x: f"{x.SUBJECT_NAME}-{x.OBJECT_NAME}", axis=1),
-                        orientation="h",
-                        labels={"y": "Combination", "count": "Total Occurrences"},
-                        title="Top 5 Common Relationships"
-                    )
-                    st.plotly_chart(fig, use_container_width=True)
+                    # Prepare data for the bar chart
+                    top_common["Combination"] = top_common["SUBJECT_NAME"] + " - " + top_common["OBJECT_NAME"]
+                    chart_data = top_common[["Combination", "count"]].set_index("Combination")
+
+                    # Plot the bar chart using Streamlit
+                    st.bar_chart(chart_data, use_container_width=True)
                 else:
                     st.warning("The required columns ('SUBJECT_NAME', 'OBJECT_NAME') are missing in the files.")
             
