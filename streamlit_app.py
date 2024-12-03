@@ -272,7 +272,7 @@ model_name = st.selectbox(
 
 test_dataset = st.selectbox(
     "Select Test Dataset:",
-    ["repoDB Unapproved", "Synthetic"],
+    ["Synthetic", "repoDB Unapproved"],
     help="Choose the test dataset type"
 )
 
@@ -290,7 +290,7 @@ negative_sampling = st.selectbox(
 
 embedding = st.selectbox(
     "Select Embedding:",
-    [50, 100, 200],
+    [100, 50, 200],
     help="Choose the embedding filter"
 )
 
@@ -307,14 +307,83 @@ if selection_key in csv_file_mapping:
         st.write(f"### Data from `{file_path}`:")
         st.dataframe(df, use_container_width=True)
         
-        # Option to download filtered data
-        csv = df.to_csv(index=False)
-        st.download_button(
-            label="Download Data as CSV",
-            data=csv,
-            file_name=file_path.split("/")[-1],
-            mime="text/csv",
-        )
+        # Filter specific columns and show in another table
+        desired_columns = st.multiselect("Select Columns to Display in a Separate Table", df.columns)
+        if desired_columns:
+            filtered_df = df[desired_columns]
+            st.write("### Filtered Data Table")
+            st.dataframe(filtered_df, use_container_width=True)
+
+        # Show the top 5 "SUBJECT_NAME"-"OBJECT_NAME" combinations
+        if "SUBJECT_NAME" in df.columns and "OBJECT_NAME" in df.columns:
+            top_combinations = (
+                df.head(10)
+                .groupby(["SUBJECT_NAME", "OBJECT_NAME"])
+                .size()
+                .reset_index(name="count")
+                .sort_values(by="count", ascending=False)
+                .head(5)
+            )
+            st.write("### Top 5 relation common among top 10 rank in all models")
+            # Collect relevant files based on `test_dataset`
+            matching_files = [
+                path for key, path in csv_file_mapping.items() if key[-1] == test_dataset
+            ]
+
+            # Process the relevant files
+            combined_data = []
+            for file in matching_files:
+                try:
+                    temp_df = pd.read_csv(file)
+                    # Ensure sorting by Model Score (descending) and select top 10 rows
+                    if "Model Score" in temp_df.columns:
+                        top_10 = temp_df.head(10)
+                        combined_data.append(top_10)
+                    else:
+                        st.warning(f"'Model Score' column not found in file: {file}")
+                except FileNotFoundError:
+                    st.warning(f"File `{file}` not found. Skipping...")
+
+            if combined_data:
+                # Combine all top 10 rows from all relevant files
+                combined_df = pd.concat(combined_data, ignore_index=True)
+
+                # Check if necessary columns exist
+                if "SUBJECT_NAME" in combined_df.columns and "OBJECT_NAME" in combined_df.columns:
+                    # Group by SUBJECT_NAME and OBJECT_NAME to count occurrences across files
+                    top_common = (
+                        combined_df
+                        .groupby(["SUBJECT_NAME", "OBJECT_NAME"])
+                        .size()
+                        .reset_index(name="count")
+                        .sort_values(by="count", ascending=False)
+                        .head(5)  # Get top 5 by highest count
+                    )
+
+                    st.write("### Top 5 Common Relationships Among Top 10 by Model Score Across Files")
+                    st.dataframe(top_common)
+
+                    # Plot the common relationships
+                    fig = px.bar(
+                        top_common,
+                        x="count",
+                        y=top_common.apply(lambda x: f"{x.SUBJECT_NAME}-{x.OBJECT_NAME}", axis=1),
+                        orientation="h",
+                        labels={"y": "Combination", "count": "Total Occurrences"},
+                        title="Top 5 Common Relationships"
+                    )
+                    st.plotly_chart(fig, use_container_width=True)
+                else:
+                    st.warning("The required columns ('SUBJECT_NAME', 'OBJECT_NAME') are missing in the files.")
+            
+            # Option to download filtered data
+            csv = df.to_csv(index=False)
+            st.download_button(
+                label="Download Data as CSV",
+                data=csv,
+                file_name=file_path.split("/")[-1],
+                mime="text/csv",
+            )
     except FileNotFoundError:
         st.error(f"File `{file_path}` not found. Please check the file path or upload the file.")
 else:
