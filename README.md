@@ -1,19 +1,36 @@
-# 🎫 Support tickets template
+# 📂 **Biomedical Knowledge Graph Models Result Viewer**
 
-A simple Streamlit app showing an internal tool that lets you create, manage, and visualize support tickets. 
+A Streamlit-based web application for visualizing and analyzing results from Biomedical Knowledge Graph models. The app dynamically loads specific CSV files based on user-selected criteria and provides an interactive interface for filtering and downloading model results.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://support-tickets-template.streamlit.app/)
+---
 
-### How to run it on your own machine
+## **Features**
+- **Dynamic Model Results Viewer**: Select and view results from various Knowledge Graph models.
+- **Dropdown Filters**: Filter data by:
+  - Negative Sampling Type
+  - Model Name
+  - Frequency Threshold
+  - Embedding Dimension
+- **Interactive Table**: Explore filtered results in a user-friendly table.
+- **CSV Download**: Download the filtered data for further analysis.
+- **Customizable**: Easily extend to include additional models, sampling types, frequencies, and embeddings.
 
-1. Install the requirements
+---
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## **Selection Criteria**
+The app selects CSV files based on the following dropdown options:
+1. **Negative Sampling**:
+   - `basic`, `custom`, `none`
+2. **Model Name**:
+   - `TransD`, `TransE`, `TransF`, `TransH`, `TransR`, `ProjE`, `Rescal`
+3. **Frequency Threshold**:
+   - `50`, `75`, `100`
+4. **Embedding Dimension**:
+   - `50`, `100`, `200`
 
-2. Run the app
+---
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## **File Naming Convention**
+CSV files must be named following this pattern:
+```bash
+{negative_sampling}_{model}_{frequency}_{embedding}.csv
