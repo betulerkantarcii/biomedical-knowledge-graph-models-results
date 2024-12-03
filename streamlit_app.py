@@ -302,7 +302,6 @@ selection_key = (negative_sampling, model_name, frequency, embedding, test_datas
 if selection_key in csv_file_mapping:
     # Load the corresponding CSV file
     file_path = csv_file_mapping[selection_key]
-    file_path = "/workspaces/biomedical-knowledge-graph-models-results/" + file_path
     try:
         df = pd.read_csv(file_path)
         st.write(f"### Data from `{file_path}`:")
