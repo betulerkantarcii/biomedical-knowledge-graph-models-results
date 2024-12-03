@@ -1,0 +1,1493 @@
+Triple,Model Score,SUBJECT_CUI,SUBJECT_NAME,PREDICATE,OBJECT_CUI,OBJECT_NAME
+"[16100, 9, 13051]",[6.350592798298749e-07],C1699926,fingolimod,TREATS,C0751964,"Multiple Sclerosis, Primary Progressive"
+"[2142, 9, 16060]",[4.402571391892707e-07],C0016278,flucytosine,TREATS,C1621958,Glioblastoma Multiforme
+"[16106, 9, 16060]",[3.893071323091135e-07],C1700874,axitinib,TREATS,C1621958,Glioblastoma Multiforme
+"[14734, 9, 15817]",[3.125201146758627e-07],C1269691,Escherichia coli asparaginase,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[15644, 9, 11481]",[2.872192510494642e-07],C1515388,Luteohormone,TREATS,C0520676,Premenstrual Dysphoric Disorder
+"[5678, 9, 3620]",[2.64335085375933e-07],C0042646,vidarabine,TREATS,C0027022,Myeloproliferative disease
+"[5686, 9, 15817]",[2.544013284477842e-07],C0042679,vincristine,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[269, 9, 16060]",[2.1936307348369155e-07],C0002563,aminolevulinic acid,TREATS,C1621958,Glioblastoma Multiforme
+"[1586, 9, 11563]",[2.1287677043346775e-07],C0011892,diamorphine,TREATS,C0524662,Opiate Addiction
+"[14163, 9, 3985]",[2.0484245055740757e-07],C0972314,etoricoxib,TREATS,C0030201,"Pain, Postoperative"
+"[7368, 9, 11767]",[1.902411668197601e-07],C0086444,dexrazoxane,TREATS,C0553580,Ewings sarcoma
+"[16533, 9, 13591]",[1.8256321254739305e-07],C1998098,panobinostat,TREATS,C0867389,Chronic graft-versus-host disease
+"[3481, 9, 15817]",[1.813382084492332e-07],C0025942,miconazole,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[5678, 9, 3261]",[1.7918111439030326e-07],C0042646,vidarabine,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[14358, 9, 11767]",[1.7372317984154506e-07],C1134452,MTC-DOX,TREATS,C0553580,Ewings sarcoma
+"[14603, 9, 15817]",[1.602296322289476e-07],C1176309,bortezomib,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[8837, 9, 136]",[1.5927547281080479e-07],C0205758,racepinephrine,TREATS,C0001627,Congenital adrenal hyperplasia
+"[5686, 9, 7056]",[1.5022271782072494e-07],C0042679,vincristine,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[18044, 9, 929]",[1.4330677799989644e-07],C4529301,bevacizumab-awwb,TREATS,C0007134,Renal Cell Carcinoma
+"[7504, 9, 1772]",[1.388859658391084e-07],C0113293,dexmedetomidine,TREATS,C0013404,Dyspnea
+"[5686, 9, 3261]",[1.3418554090094403e-07],C0042679,vincristine,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[9018, 9, 10314]",[1.3177769631056435e-07],C0218640,lenograstim,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[2141, 9, 5727]",[1.28163051726915e-07],C0016277,fluconazole,TREATS,C0042998,Vulvovaginitis
+"[7171, 9, 5715]",[1.273421901260008e-07],C0085149,tacrolimus,TREATS,C0042900,Vitiligo
+"[4026, 9, 3617]",[1.25710215570507e-07],C0030520,parathyroid hormone,TREATS,C0026987,Myelofibrosis
+"[11623, 9, 4132]",[1.1591605897365298e-07],C0529793,sildenafil,TREATS,C0031190,Persistent Fetal Circulation Syndrome
+"[12241, 9, 14064]",[1.123915467360348e-07],C0606070,tocofersolan,TREATS,C0949083,Hospital acquired pneumonia
+"[11666, 9, 3617]",[1.0240554360052556e-07],C0541315,everolimus,TREATS,C0026987,Myelofibrosis
+"[16048, 9, 3122]",[1.0231099878410532e-07],C1619629,deferasirox,TREATS,C0023480,"Leukemia, Myelomonocytic, Chronic"
+"[14350, 9, 7287]",[1.0130327154911356e-07],C1122087,adalimumab,TREATS,C0085652,Pyoderma Gangrenosum
+"[18742, 9, 3681]",[9.754707264164608e-08],C5834323,INT-230-6 COMPONENT CISPLATIN,TREATS,C0027498,Nausea and vomiting
+"[14669, 9, 7733]",[9.67583986266618e-08],C1258986,p-hydroxyphenolacetamide,TREATS,C0149931,Migraine Disorders
+"[11666, 9, 15817]",[9.583653337585929e-08],C0541315,everolimus,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[6649, 9, 3763]",[9.470547723822165e-08],C0070108,paregoric,TREATS,C0028043,Nicotine Dependence
+"[1197, 9, 454]",[9.384461208128414e-08],C0008845,citalopram,TREATS,C0003467,Anxiety
+"[15596, 9, 10314]",[9.34002670760492e-08],C1513105,Melphalanum,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[2141, 9, 2690]",[9.10391477759731e-08],C0016277,fluconazole,TREATS,C0020473,Hyperlipidemia
+"[1642, 9, 7739]",[9.024582681149695e-08],C0012306,hydromorphone,TREATS,C0150055,Chronic pain
+"[12286, 9, 12521]",[8.833449527401172e-08],C0663241,linezolid,TREATS,C0694549,Community acquired pneumonia
+"[17397, 9, 9813]",[8.766395609427491e-08],C3657270,nivolumab,TREATS,C0278987,Metastatic non-small cell lung cancer
+"[1416, 9, 16060]",[8.692407504895527e-08],C0010583,cyclophosphamide,TREATS,C1621958,Glioblastoma Multiforme
+"[1998, 9, 15817]",[8.453099553662469e-08],C0015133,etoposide,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[13763, 9, 3289]",[8.366245651814097e-08],C0879427,panitumumab,TREATS,C0024586,Malignant Carcinoid Syndrome
+"[14163, 9, 4340]",[8.261397965725337e-08],C0972314,etoricoxib,TREATS,C0032768,Postherpetic neuralgia
+"[14599, 9, 3122]",[8.059507194957405e-08],C1176020,sunitinib,TREATS,C0023480,"Leukemia, Myelomonocytic, Chronic"
+"[4364, 9, 4320]",[7.899264176103316e-08],C0032952,prednisone,TREATS,C0032533,Polymyalgia Rheumatica
+"[7219, 9, 5611]",[7.731743778549571e-08],C0085272,leuprorelin,TREATS,C0042133,Uterine Fibroids
+"[4424, 9, 9627]",[7.7177858770483e-08],C0033405,promethazine,TREATS,C0267176,Gastroparesis due to diabetes mellitus
+"[9018, 9, 4720]",[7.614582386850088e-08],C0218640,lenograstim,TREATS,C0035335,Retinoblastoma
+"[1981, 9, 8036]",[7.552967673518651e-08],C0015011,ethinylestradiol,TREATS,C0162836,Hidradenitis Suppurativa
+"[6525, 9, 3926]",[7.251608735714399e-08],C0066005,meropenem,TREATS,C0029443,Osteomyelitis
+"[18742, 9, 931]",[7.231768961446505e-08],C5834323,INT-230-6 COMPONENT CISPLATIN,TREATS,C0007138,"Carcinoma, Transitional Cell"
+"[17174, 9, 4311]",[7.200732454748504e-08],C3256601,calcium ascorbate anhydrous,TREATS,C0032463,Polycythemia Vera
+"[16106, 9, 9793]",[7.004369706464786e-08],C1700874,axitinib,TREATS,C0278678,Metastatic Renal Cell Cancer
+"[3459, 9, 136]",[6.917886707924481e-08],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0001627,Congenital adrenal hyperplasia
+"[14603, 9, 9254]",[6.791946560724682e-08],C1176309,bortezomib,TREATS,C0238462,Medullary carcinoma of thyroid
+"[17316, 9, 9300]",[6.784901529499621e-08],C3536880,nicotinic acid,TREATS,C0242339,Dyslipidemias
+"[3610, 9, 3617]",[6.767864135781565e-08],C0026933,mycophenolic acid,TREATS,C0026987,Myelofibrosis
+"[12538, 9, 14038]",[6.759309911785749e-08],C0699278,Polopiryna,TREATS,C0948008,Ischemic stroke
+"[14669, 9, 506]",[6.691590925811397e-08],C1258986,p-hydroxyphenolacetamide,TREATS,C0003873,Rheumatoid Arthritis
+"[11666, 9, 2688]",[6.609121072642665e-08],C0541315,everolimus,TREATS,C0020459,Hyperinsulinism
+"[5709, 9, 14064]",[6.488231463208649e-08],C0042874,Vitamin E,TREATS,C0949083,Hospital acquired pneumonia
+"[1660, 9, 5723]",[6.476101077623753e-08],C0012522,diphenhydramine,TREATS,C0042963,Vomiting
+"[15235, 9, 926]",[6.38324451074368e-08],C1367202,ipilimumab,TREATS,C0007129,Merkel cell carcinoma
+"[14544, 9, 3931]",[6.314550660135865e-08],C1165560,"calcium carbonate, precipitated",TREATS,C0029458,"Osteoporosis, Postmenopausal"
+"[6366, 9, 3681]",[6.260578544470263e-08],C0061851,ondansetron,TREATS,C0027498,Nausea and vomiting
+"[3659, 9, 3837]",[6.243601546884747e-08],C0027360,naltrexone,TREATS,C0028768,Obsessive-Compulsive Disorder
+"[1998, 9, 7056]",[6.131691776545267e-08],C0015133,etoposide,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[4562, 9, 7739]",[5.859037699451619e-08],C0034417,quinine,TREATS,C0150055,Chronic pain
+"[15200, 9, 3925]",[5.842316141979609e-08],C1337242,cinacalcet,TREATS,C0029442,Osteomalacia
+"[11666, 9, 16060]",[5.804740865755775e-08],C0541315,everolimus,TREATS,C1621958,Glioblastoma Multiforme
+"[14126, 9, 3148]",[5.6600459430455885e-08],C0962603,alefacept,TREATS,C0023646,Lichen Planus
+"[1416, 9, 15817]",[5.6584639196444186e-08],C0010583,cyclophosphamide,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[8837, 9, 3985]",[5.501065558632945e-08],C0205758,racepinephrine,TREATS,C0030201,"Pain, Postoperative"
+"[10704, 9, 4931]",[5.482023013314574e-08],C0379135,becaplermin,TREATS,C0037299,Skin Ulcer
+"[18257, 9, 10314]",[5.4510024938281276e-08],C4741328,rituximab-abbs,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[2748, 9, 9250]",[5.44906981758686e-08],C0020740,ibuprofen,TREATS,C0238425,Hemoglobin SS disease with crisis
+"[16412, 9, 15817]",[5.443232709012591e-08],C1881785,mercaptopurine anhydrous,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[8095, 9, 2113]",[5.4314455155690666e-08],C0168388,reboxetine,TREATS,C0016053,Fibromyalgia
+"[1124, 9, 9600]",[5.1570264503197905e-08],C0008318,colecalciferol,TREATS,C0264716,Chronic heart failure
+"[3970, 9, 8418]",[5.135102298936545e-08],C0030073,oxymorphone,TREATS,C0184567,Acute onset pain
+"[14453, 9, 9736]",[5.114943846251663e-08],C1142738,anidulafungin,TREATS,C0276653,Invasive Pulmonary Aspergillosis
+"[7171, 9, 15817]",[5.0857227762435286e-08],C0085149,tacrolimus,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[4364, 9, 929]",[5.022403470889003e-08],C0032952,prednisone,TREATS,C0007134,Renal Cell Carcinoma
+"[5118, 9, 4531]",[4.922409146956852e-08],C0038689,sulfamethoxazole,TREATS,C0034186,Pyelonephritis
+"[11702, 9, 3844]",[4.8545345521233685e-08],C0544368,hydrocortamate,TREATS,C0028840,Ocular Hypertension
+"[3361, 9, 3620]",[4.734824798902082e-08],C0025241,melphalan,TREATS,C0027022,Myeloproliferative disease
+"[14468, 9, 15817]",[4.6943767983975704e-08],C1145701,amphotericin B liposomal,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[3756, 9, 3621]",[4.6460218783295204e-08],C0027996,niacin,TREATS,C0027051,Myocardial Infarction
+"[10722, 9, 1551]",[4.587121082977319e-08],C0383429,alemtuzumab,TREATS,C0011644,Scleroderma
+"[13806, 9, 14064]",[4.54675479488742e-08],C0887557,sodium ascorbate,TREATS,C0949083,Hospital acquired pneumonia
+"[3459, 9, 11563]",[4.506269135617913e-08],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0524662,Opiate Addiction
+"[3139, 9, 76]",[4.4812850319431163e-08],C0023570,levodopa,TREATS,C0001206,Acromegaly
+"[7426, 9, 322]",[4.455601754216332e-08],C0092777,clofarabine,TREATS,C0002874,Aplastic Anemia
+"[1849, 9, 13576]",[4.35919886854208e-08],C0014027,enalaprilat,TREATS,C0860594,"Malignant melanoma, metastatic"
+"[9463, 9, 2690]",[4.318918911394576e-08],C0248719,telmisartan,TREATS,C0020473,Hyperlipidemia
+"[13341, 9, 3110]",[4.28588720069456e-08],C0795597,cytarabine liposome,TREATS,C0023449,Acute lymphocytic leukemia
+"[5841, 9, 3617]",[4.255917929185671e-08],C0049065,decitabine,TREATS,C0026987,Myelofibrosis
+"[6631, 9, 9871]",[4.198671632593687e-08],C0069717,oxaliplatin,TREATS,C0281361,Adenocarcinoma of pancreas
+"[2141, 9, 3088]",[4.193207203684324e-08],C0016277,fluconazole,TREATS,C0023283,"Leishmaniasis, Cutaneous"
+"[14601, 9, 3681]",[4.168196809928304e-08],C1176306,aprepitant,TREATS,C0027498,Nausea and vomiting
+"[1660, 9, 1546]",[4.1662406857767564e-08],C0012522,diphenhydramine,TREATS,C0011615,"Dermatitis, Atopic"
+"[1197, 9, 455]",[4.120069263535697e-08],C0008845,citalopram,TREATS,C0003469,Anxiety Disorders
+"[5250, 9, 9695]",[4.108015971837631e-08],C0039736,thalidomide,TREATS,C0272286,Thrombocytopenia due to platelet alloimmunization
+"[3527, 9, 10314]",[4.085019256194755e-08],C0026259,mitoxantrone,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[4756, 9, 17040]",[4.0766273912140605e-08],C0035608,rifampicin,TREATS,C2973725,Pulmonary arterial hypertension
+"[15662, 9, 10314]",[4.074842152590463e-08],C1516302,Carmustinum,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[8976, 9, 14837]",[4.0671938705827415e-08],C0209368,mycophenolate mofetil,TREATS,C1288351,Malignant Neoplasm (Morphology)
+"[4360, 9, 3763]",[4.059514679966014e-08],C0032912,prazosin,TREATS,C0028043,Nicotine Dependence
+"[16087, 9, 374]",[4.046934165558014e-08],C1690432,denosumab,TREATS,C0003125,Anorexia Nervosa
+"[6785, 9, 14733]",[4.036342104996038e-08],C0073379,riluzole,TREATS,C1269683,Major Depressive Disorder
+"[14603, 9, 304]",[4.003572584565518e-08],C1176309,bortezomib,TREATS,C0002726,Amyloidosis
+"[6649, 9, 11563]",[3.9766067772006863e-08],C0070108,paregoric,TREATS,C0524662,Opiate Addiction
+"[16533, 9, 15817]",[3.9580026367502796e-08],C1998098,panobinostat,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[3761, 9, 9300]",[3.900930778399925e-08],C0028027,nicotinamide,TREATS,C0242339,Dyslipidemias
+"[7426, 9, 15817]",[3.900127509837148e-08],C0092777,clofarabine,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[1718, 9, 16060]",[3.881847732145616e-08],C0013030,dopamine,TREATS,C1621958,Glioblastoma Multiforme
+"[4364, 9, 136]",[3.8664584423031556e-08],C0032952,prednisone,TREATS,C0001627,Congenital adrenal hyperplasia
+"[3204, 9, 16060]",[3.850018259754506e-08],C0023972,lomustine,TREATS,C1621958,Glioblastoma Multiforme
+"[14545, 9, 11582]",[3.807895865293176e-08],C1166065,"betaine, anhydrous",TREATS,C0524910,"Hepatitis C, Chronic"
+"[3336, 9, 10314]",[3.772581180783163e-08],C0025033,mechlorethamine,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[10052, 9, 9684]",[3.711854645871426e-08],C0290883,anastrozole,TREATS,C0271623,Hypogonadotropic hypogonadism
+"[16271, 9, 14733]",[3.660965575136288e-08],C1873633,lisdexamfetamine,TREATS,C1269683,Major Depressive Disorder
+"[1715, 9, 2261]",[3.6517469936825364e-08],C0013015,domperidone,TREATS,C0017168,Gastroesophageal reflux disease
+"[3362, 9, 9079]",[3.6250220603051275e-08],C0025242,memantine,TREATS,C0221765,Chronic schizophrenia
+"[3789, 9, 2690]",[3.613488175346902e-08],C0028193,nitroprusside,TREATS,C0020473,Hyperlipidemia
+"[6227, 9, 322]",[3.586120911336366e-08],C0059364,enocitabine,TREATS,C0002874,Aplastic Anemia
+"[3505, 9, 9661]",[3.5684188048890064e-08],C0026088,mifepristone,TREATS,C0270458,Severe major depression with psychotic features
+"[10046, 9, 9300]",[3.5481658500202684e-08],C0289313,rosiglitazone,TREATS,C0242339,Dyslipidemias
+"[4364, 9, 3261]",[3.519944513641349e-08],C0032952,prednisone,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[2753, 9, 4720]",[3.4635842638408576e-08],C0020823,ifosfamide,TREATS,C0035335,Retinoblastoma
+"[7426, 9, 3617]",[3.460780462205548e-08],C0092777,clofarabine,TREATS,C0026987,Myelofibrosis
+"[3428, 9, 454]",[3.4557295691683976e-08],C0025611,methamphetamine,TREATS,C0003467,Anxiety
+"[12320, 9, 16060]",[3.4414867400300864e-08],C0672708,vorinostat,TREATS,C1621958,Glioblastoma Multiforme
+"[11655, 9, 502]",[3.440187512637749e-08],C0538927,celecoxib,TREATS,C0003864,Arthritis
+"[16457, 9, 15817]",[3.42531585317829e-08],C1883309,thioguanine anhydrous,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[13341, 9, 10314]",[3.389377667417648e-08],C0795597,cytarabine liposome,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[18044, 9, 8952]",[3.385307678627214e-08],C4529301,bevacizumab-awwb,TREATS,C0206754,Neuroendocrine Tumors
+"[16055, 9, 3603]",[3.35837242460002e-08],C1619966,abatacept,TREATS,C0026896,Myasthenia Gravis
+"[810, 9, 3875]",[3.3500544560638446e-08],C0006405,buprenorphine,TREATS,C0029104,Opioid withdrawal
+"[2664, 9, 772]",[3.3312471003910105e-08],C0020316,hydroxocobalamin,TREATS,C0006114,Cerebral Edema
+"[14370, 9, 16060]",[3.26698170738382e-08],C1135135,erlotinib,TREATS,C1621958,Glioblastoma Multiforme
+"[2141, 9, 1393]",[3.2115625714368434e-08],C0016277,fluconazole,TREATS,C0010414,Infection by Cryptococcus neoformans
+"[9510, 9, 3581]",[3.20198232373059e-08],C0257685,zoledronic acid,TREATS,C0026769,Multiple Sclerosis
+"[14468, 9, 5727]",[3.1831611124744086e-08],C1145701,amphotericin B liposomal,TREATS,C0042998,Vulvovaginitis
+"[16166, 9, 506]",[3.16954960055682e-08],C1718383,teriflunomide,TREATS,C0003873,Rheumatoid Arthritis
+"[1606, 9, 4510]",[3.1581127046820257e-08],C0012091,diclofenac,TREATS,C0034065,Pulmonary Embolism
+"[10041, 9, 546]",[3.1079274265266577e-08],C0288171,irbesartan,TREATS,C0004238,Atrial Fibrillation
+"[1660, 9, 4002]",[3.10651095958292e-08],C0012522,diphenhydramine,TREATS,C0030305,Pancreatitis
+"[4562, 9, 4736]",[3.068770126901654e-08],C0034417,quinine,TREATS,C0035455,Rhinitis
+"[9452, 9, 3086]",[3.065666831503222e-08],C0246421,letrozole,TREATS,C0023269,leiomyosarcoma
+"[567, 9, 927]",[3.05519485266359e-08],C0004475,azacitidine,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[808, 9, 11393]",[3.047685126489341e-08],C0006400,bupivacaine,TREATS,C0474368,Labor Pain
+"[6790, 9, 11493]",[3.040873153281609e-08],C0073571,ropivacaine,TREATS,C0520909,Postoperative Nausea and Vomiting
+"[10030, 9, 11482]",[3.0311102960922653e-08],C0286651,atorvastatin,TREATS,C0520679,"Sleep Apnea, Obstructive"
+"[13996, 9, 214]",[3.027338379979483e-08],C0937917,bimatoprost,TREATS,C0002170,Alopecia
+"[1197, 9, 13889]",[3.02381124583917e-08],C0008845,citalopram,TREATS,C0917801,Sleeplessness
+"[12330, 9, 1266]",[3.018860894599129e-08],C0676831,basiliximab,TREATS,C0009324,Ulcerative Colitis
+"[13199, 9, 14837]",[2.941486698659901e-08],C0771204,anhydrous tacrolimus,TREATS,C1288351,Malignant Neoplasm (Morphology)
+"[1221, 9, 3581]",[2.9252591460249278e-08],C0009014,clonidine,TREATS,C0026769,Multiple Sclerosis
+"[16336, 9, 3983]",[2.9133053303098677e-08],C1880288,desvenlafaxine,TREATS,C0030193,Pain
+"[4424, 9, 4002]",[2.9125711620281436e-08],C0033405,promethazine,TREATS,C0030305,Pancreatitis
+"[14453, 9, 869]",[2.8947233943199535e-08],C1142738,anidulafungin,TREATS,C0006840,Candidiasis
+"[14135, 9, 4510]",[2.8885709824066907e-08],C0965129,rosuvastatin,TREATS,C0034065,Pulmonary Embolism
+"[18257, 9, 13543]",[2.8364524951030035e-08],C4741328,rituximab-abbs,TREATS,C0855112,Diffuse large B-cell lymphoma refractory
+"[7660, 9, 12521]",[2.83440098058918e-08],C0145106,teicoplanin,TREATS,C0694549,Community acquired pneumonia
+"[6692, 9, 3763]",[2.8291536224855918e-08],C0071097,pioglitazone,TREATS,C0028043,Nicotine Dependence
+"[784, 9, 11445]",[2.800396536883909e-08],C0006213,bromazepam,TREATS,C0497327,Dementia
+"[1124, 9, 4821]",[2.7932740565006497e-08],C0008318,colecalciferol,TREATS,C0036337,Schizoaffective Disorder
+"[882, 9, 1578]",[2.7619474707307745e-08],C0006931,capsaicin,TREATS,C0011849,Diabetes Mellitus
+"[789, 9, 4736]",[2.7487468301501394e-08],C0006246,brompheniramine,TREATS,C0035455,Rhinitis
+"[1416, 9, 9035]",[2.74856741810936e-08],C0010583,cyclophosphamide,TREATS,C0220756,"Niemann-Pick Disease, Type C"
+"[11613, 9, 3581]",[2.7342512254335816e-08],C0527316,donepezil,TREATS,C0026769,Multiple Sclerosis
+"[8095, 9, 3983]",[2.724028824729885e-08],C0168388,reboxetine,TREATS,C0030193,Pain
+"[58, 9, 3837]",[2.698444312443371e-08],C0001047,acetylcysteine,TREATS,C0028768,Obsessive-Compulsive Disorder
+"[6864, 9, 16060]",[2.6841007638722658e-08],C0076080,temozolomide,TREATS,C1621958,Glioblastoma Multiforme
+"[5922, 9, 5294]",[2.6710202050139742e-08],C0052416,arsenic trioxide,TREATS,C0040028,"Thrombocythemia, Essential"
+"[6908, 9, 3763]",[2.667889731355899e-08],C0076823,atomoxetine,TREATS,C0028043,Nicotine Dependence
+"[15596, 9, 3726]",[2.6511948192364798e-08],C1513105,Melphalanum,TREATS,C0027819,Neuroblastoma
+"[15965, 9, 1430]",[2.63080472961974e-08],C1565750,sitagliptin,TREATS,C0010674,Cystic Fibrosis
+"[16166, 9, 3230]",[2.5803437608828972e-08],C1718383,teriflunomide,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[9022, 9, 5723]",[2.5620824573024947e-08],C0220578,palonosetron,TREATS,C0042963,Vomiting
+"[3359, 9, 2951]",[2.5600877862075322e-08],C0025219,melatonin,TREATS,C0022104,Irritable Bowel Syndrome
+"[9451, 9, 3086]",[2.5187745222865487e-08],C0246415,docetaxel,TREATS,C0023269,leiomyosarcoma
+"[7491, 9, 9395]",[2.5036227313535164e-08],C0110038,clavulanate,TREATS,C0243001,Abdominal Abscess
+"[8977, 9, 1594]",[2.494699913313525e-08],C0209738,lamivudine,TREATS,C0011991,Diarrhea
+"[3139, 9, 3289]",[2.465970538878537e-08],C0023570,levodopa,TREATS,C0024586,Malignant Carcinoid Syndrome
+"[10690, 9, 3837]",[2.4419726685209753e-08],C0377265,levetiracetam,TREATS,C0028768,Obsessive-Compulsive Disorder
+"[13199, 9, 7056]",[2.438560997575223e-08],C0771204,anhydrous tacrolimus,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[13964, 9, 927]",[2.4157561284710027e-08],C0935916,fulvestrant,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[1718, 9, 7286]",[2.4056127756466594e-08],C0013030,dopamine,TREATS,C0085649,Peripheral edema
+"[10078, 9, 14713]",[2.391222508890678e-08],C0299792,aripiprazole,TREATS,C1263846,Attention deficit hyperactivity disorder
+"[15662, 9, 16060]",[2.3873861110246253e-08],C1516302,Carmustinum,TREATS,C1621958,Glioblastoma Multiforme
+"[10030, 9, 3711]",[2.3250009917319403e-08],C0286651,atorvastatin,TREATS,C0027726,Nephrotic Syndrome
+"[5242, 9, 7739]",[2.3235097401652638e-08],C0039663,dronabinol,TREATS,C0150055,Chronic pain
+"[9489, 9, 4288]",[2.3229924650536304e-08],C0253563,eptifibatide,TREATS,C0032285,Pneumonia
+"[16055, 9, 3581]",[2.2918420938822237e-08],C1619966,abatacept,TREATS,C0026769,Multiple Sclerosis
+"[11655, 9, 927]",[2.2795063614466926e-08],C0538927,celecoxib,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[18744, 9, 930]",[2.2573027891326092e-08],C5834393,NAB-PACLITAXEL COMPONENT PACLITAXEL,TREATS,C0007137,Squamous cell carcinoma
+"[6272, 9, 9300]",[2.255996989219966e-08],C0060179,fenofibric acid,TREATS,C0242339,Dyslipidemias
+"[18742, 9, 927]",[2.2556077894364535e-08],C5834323,INT-230-6 COMPONENT CISPLATIN,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[6864, 9, 4731]",[2.2444890390715955e-08],C0076080,temozolomide,TREATS,C0035412,Rhabdomyosarcoma
+"[5636, 9, 1551]",[2.2213065165033186e-08],C0042291,valproic acid,TREATS,C0011644,Scleroderma
+"[14135, 9, 2690]",[2.2010425482221763e-08],C0965129,rosuvastatin,TREATS,C0020473,Hyperlipidemia
+"[10078, 9, 4821]",[2.191980286170292e-08],C0299792,aripiprazole,TREATS,C0036337,Schizoaffective Disorder
+"[10747, 9, 3376]",[2.1866268795633914e-08],C0389169,doripenem,TREATS,C0025289,Meningitis
+"[3458, 9, 3736]",[2.1793516324919437e-08],C0025815,methylprednisolone,TREATS,C0027873,Neuromyelitis Optica
+"[3211, 9, 8418]",[2.178707880773345e-08],C0024002,lorazepam,TREATS,C0184567,Acute onset pain
+"[18744, 9, 931]",[2.165344348270537e-08],C5834393,NAB-PACLITAXEL COMPONENT PACLITAXEL,TREATS,C0007138,"Carcinoma, Transitional Cell"
+"[6159, 9, 5598]",[2.1556314067083804e-08],C0057277,prasterone sulfate,TREATS,C0042024,Urinary Incontinence
+"[16764, 9, 927]",[2.147683453301852e-08],C2699562,dasatinib anhydrous,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[16533, 9, 3249]",[2.145707078682335e-08],C1998098,panobinostat,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[2672, 9, 3581]",[2.145461941438498e-08],C0020402,hydroxycarbamide,TREATS,C0026769,Multiple Sclerosis
+"[16833, 9, 506]",[2.132053111836285e-08],C2721771,levofolinic acid,TREATS,C0003873,Rheumatoid Arthritis
+"[6008, 9, 1594]",[2.1151688400777857e-08],C0054201,budesonide,TREATS,C0011991,Diarrhea
+"[1660, 9, 9627]",[2.1142652073535828e-08],C0012522,diphenhydramine,TREATS,C0267176,Gastroparesis due to diabetes mellitus
+"[5444, 9, 4822]",[2.0962252378353696e-08],C0040778,tranylcypromine,TREATS,C0036341,Schizophrenia
+"[17134, 9, 3579]",[2.093466733299465e-08],C3192263,vemurafenib,TREATS,C0026764,Multiple Myeloma
+"[1416, 9, 926]",[2.0559070890158182e-08],C0010583,cyclophosphamide,TREATS,C0007129,Merkel cell carcinoma
+"[12700, 9, 15817]",[2.043482894009685e-08],C0717668,daunorubicin liposomal,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[1914, 9, 136]",[2.0331295758069245e-08],C0014563,epinephrine,TREATS,C0001627,Congenital adrenal hyperplasia
+"[3459, 9, 2492]",[2.0167293612871617e-08],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0018916,Hemangioma
+"[6784, 9, 7178]",[1.9961838404469745e-08],C0073374,rifaximin,TREATS,C0085166,Bacterial Vaginosis
+"[14453, 9, 526]",[1.9728213729308663e-08],C1142738,anidulafungin,TREATS,C0004030,Aspergillosis
+"[7504, 9, 11493]",[1.9536789963581214e-08],C0113293,dexmedetomidine,TREATS,C0520909,Postoperative Nausea and Vomiting
+"[14458, 9, 929]",[1.952524897319563e-08],C1144149,lenalidomide,TREATS,C0007134,Renal Cell Carcinoma
+"[3862, 9, 1430]",[1.9350459012912324e-08],C0028978,omeprazole,TREATS,C0010674,Cystic Fibrosis
+"[3756, 9, 5090]",[1.8648361077566733e-08],C0027996,niacin,TREATS,C0038454,Cerebrovascular accident
+"[4036, 9, 3088]",[1.8586032268785857e-08],C0030576,paromomycin,TREATS,C0023283,"Leishmaniasis, Cutaneous"
+"[12568, 9, 306]",[1.855510056714138e-08],C0700189,Lithonate,TREATS,C0002736,Amyotrophic Lateral Sclerosis
+"[3149, 9, 4118]",[1.854633424613894e-08],C0023660,lidocaine,TREATS,C0031099,Periodontitis
+"[7215, 9, 1430]",[1.8525057043916604e-08],C0085259,mupirocin,TREATS,C0010674,Cystic Fibrosis
+"[3658, 9, 3875]",[1.84078992049308e-08],C0027358,naloxone,TREATS,C0029104,Opioid withdrawal
+"[5236, 9, 1342]",[1.8330013062950457e-08],C0039629,tetracaine,TREATS,C0010032,Corneal Abrasions
+"[14126, 9, 13591]",[1.8155219549953472e-08],C0962603,alefacept,TREATS,C0867389,Chronic graft-versus-host disease
+"[4131, 9, 11445]",[1.8112736199782375e-08],C0031184,perphenazine,TREATS,C0497327,Dementia
+"[4363, 9, 2099]",[1.8112475075326984e-08],C0032950,prednisolone,TREATS,C0015967,Fever
+"[1416, 9, 3122]",[1.8072753960041155e-08],C0010583,cyclophosphamide,TREATS,C0023480,"Leukemia, Myelomonocytic, Chronic"
+"[12301, 9, 1585]",[1.783810077427006e-08],C0666743,infliximab,TREATS,C0011884,Diabetic Retinopathy
+"[15969, 9, 2309]",[1.7759951731477486e-08],C1566537,ranibizumab,TREATS,C0017601,Glaucoma
+"[3359, 9, 2261]",[1.7253363182589965e-08],C0025219,melatonin,TREATS,C0017168,Gastroesophageal reflux disease
+"[288, 9, 4531]",[1.6980346018158343e-08],C0002645,amoxicillin,TREATS,C0034186,Pyelonephritis
+"[2234, 9, 4821]",[1.6860111529126698e-08],C0016967,galantamine,TREATS,C0036337,Schizoaffective Disorder
+"[18744, 9, 927]",[1.6815492998034642e-08],C5834393,NAB-PACLITAXEL COMPONENT PACLITAXEL,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[1715, 9, 7813]",[1.6683975090359127e-08],C0013015,domperidone,TREATS,C0152020,Gastroparesis
+"[16533, 9, 927]",[1.6634599475651157e-08],C1998098,panobinostat,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[7171, 9, 3617]",[1.6495580013042854e-08],C0085149,tacrolimus,TREATS,C0026987,Myelofibrosis
+"[16087, 9, 506]",[1.649011061033434e-08],C1690432,denosumab,TREATS,C0003873,Rheumatoid Arthritis
+"[5272, 9, 15817]",[1.634886714896311e-08],C0039871,thiotepa,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[3459, 9, 506]",[1.6320655049639754e-08],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0003873,Rheumatoid Arthritis
+"[15644, 9, 9060]",[1.6243319578279625e-08],C1515388,Luteohormone,TREATS,C0221074,"Depression, Postpartum"
+"[6420, 9, 11582]",[1.6221880727584903e-08],C0063657,"insulin, neutral",TREATS,C0524910,"Hepatitis C, Chronic"
+"[1416, 9, 1551]",[1.6123415491620108e-08],C0010583,cyclophosphamide,TREATS,C0011644,Scleroderma
+"[11613, 9, 4033]",[1.5997315472304763e-08],C0527316,donepezil,TREATS,C0030567,Parkinson Disease
+"[14458, 9, 927]",[1.590805887019542e-08],C1144149,lenalidomide,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[10180, 9, 927]",[1.565212670584515e-08],C0304441,theophylline anhydrous,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[3218, 9, 16060]",[1.5618883963952612e-08],C0024071,lucanthone,TREATS,C1621958,Glioblastoma Multiforme
+"[10052, 9, 16621]",[1.561572560149216e-08],C0290883,anastrozole,TREATS,C2316304,Human epidermal growth factor 2 negative carcinoma of breast
+"[16537, 9, 1772]",[1.5595515989730302e-08],C1999375,ticagrelor,TREATS,C0013404,Dyspnea
+"[3758, 9, 11445]",[1.5461315783227292e-08],C0028008,nicergoline,TREATS,C0497327,Dementia
+"[3139, 9, 7286]",[1.541405403315821e-08],C0023570,levodopa,TREATS,C0085649,Peripheral edema
+"[9018, 9, 322]",[1.5371382389162136e-08],C0218640,lenograstim,TREATS,C0002874,Aplastic Anemia
+"[1965, 9, 1770]",[1.5358375904384047e-08],C0014912,estradiol,TREATS,C0013390,Dysmenorrhea
+"[3460, 9, 3581]",[1.5289066013224328e-08],C0025826,methyltestosterone,TREATS,C0026769,Multiple Sclerosis
+"[3756, 9, 3835]",[1.525327775198093e-08],C0027996,niacin,TREATS,C0028754,Obesity
+"[1999, 9, 3356]",[1.495265955497871e-08],C0015137,etretinate,TREATS,C0025202,melanoma
+"[6864, 9, 13576]",[1.480388434060842e-08],C0076080,temozolomide,TREATS,C0860594,"Malignant melanoma, metastatic"
+"[6631, 9, 7056]",[1.4767049805186616e-08],C0069717,oxaliplatin,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[14589, 9, 506]",[1.4628558808738035e-08],C1172734,natalizumab,TREATS,C0003873,Rheumatoid Arthritis
+"[6227, 9, 3119]",[1.4578781737384361e-08],C0059364,enocitabine,TREATS,C0023473,"Myeloid Leukemia, Chronic"
+"[16646, 9, 1579]",[1.4577560492057273e-08],C2348248,dexlansoprazole,TREATS,C0011854,"Diabetes Mellitus, Insulin-Dependent"
+"[5709, 9, 3621]",[1.4549696558674441e-08],C0042874,Vitamin E,TREATS,C0027051,Myocardial Infarction
+"[4026, 9, 2698]",[1.4215866706024372e-08],C0030520,parathyroid hormone,TREATS,C0020502,Hyperparathyroidism
+"[6080, 9, 3835]",[1.4096396050433668e-08],C0055573,choline salicylate,TREATS,C0028754,Obesity
+"[14358, 9, 3579]",[1.4043591178847237e-08],C1134452,MTC-DOX,TREATS,C0026764,Multiple Myeloma
+"[2172, 9, 11445]",[1.4004284842883408e-08],C0016367,flupentixol,TREATS,C0497327,Dementia
+"[6980, 9, 4822]",[1.393124016146885e-08],C0078844,zonisamide,TREATS,C0036341,Schizophrenia
+"[3503, 9, 3680]",[1.3886383598560315e-08],C0026056,midazolam,TREATS,C0027497,Nausea
+"[14455, 9, 1578]",[1.3799395404134884e-08],C1142985,ezetimibe,TREATS,C0011849,Diabetes Mellitus
+"[9022, 9, 3681]",[1.377680902692191e-08],C0220578,palonosetron,TREATS,C0027498,Nausea and vomiting
+"[55, 9, 2690]",[1.3727030179211397e-08],C0001041,acetylcholine,TREATS,C0020473,Hyperlipidemia
+"[2592, 9, 3666]",[1.3669741782962319e-08],C0019588,histamine,TREATS,C0027404,Narcolepsy
+"[7560, 9, 1430]",[1.3608112858776167e-08],C0126174,losartan,TREATS,C0010674,Cystic Fibrosis
+"[6555, 9, 3983]",[1.356453616097042e-08],C0066677,modafinil,TREATS,C0030193,Pain
+"[1606, 9, 3936]",[1.3562146072843007e-08],C0012091,diclofenac,TREATS,C0029878,Otitis Externa
+"[13199, 9, 3261]",[1.3450253355529185e-08],C0771204,anhydrous tacrolimus,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[1566, 9, 455]",[1.336970711918184e-08],C0011785,dexetimide,TREATS,C0003469,Anxiety Disorders
+"[10030, 9, 1578]",[1.3328324222072752e-08],C0286651,atorvastatin,TREATS,C0011849,Diabetes Mellitus
+"[10722, 9, 2617]",[1.3316206803892783e-08],C0383429,alemtuzumab,TREATS,C0019829,Hodgkin Disease
+"[16087, 9, 17273]",[1.3260944342619041e-08],C1690432,denosumab,TREATS,C3495559,Juvenile arthritis
+"[6826, 9, 11979]",[1.3245690766439111e-08],C0074710,pramipexole,TREATS,C0596170,Binge eating disorder
+"[185, 9, 4887]",[1.3085204031426656e-08],C0001962,ethanol,TREATS,C0036992,Short Bowel Syndrome
+"[808, 9, 11493]",[1.3060435399836479e-08],C0006400,bupivacaine,TREATS,C0520909,Postoperative Nausea and Vomiting
+"[3459, 9, 2099]",[1.3054105352239276e-08],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0015967,Fever
+"[6815, 9, 187]",[1.2911375968371885e-08],C0074393,sertraline,TREATS,C0001973,"Alcoholic Intoxication, Chronic"
+"[3012, 9, 1122]",[1.2891935519121489e-08],C0022614,ketamine,TREATS,C0008311,Cholangitis
+"[16646, 9, 532]",[1.272911909211416e-08],C2348248,dexlansoprazole,TREATS,C0004096,Asthma
+"[13991, 9, 3621]",[1.2711896424377755e-08],C0937846,esomeprazole,TREATS,C0027051,Myocardial Infarction
+"[1116, 9, 11445]",[1.250411063580259e-08],C0008290,chlorprothixene,TREATS,C0497327,Dementia
+"[12320, 9, 10314]",[1.242734004591739e-08],C0672708,vorinostat,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[4440, 9, 3985]",[1.238646873957805e-08],C0033497,propranolol,TREATS,C0030201,"Pain, Postoperative"
+"[10734, 9, 9600]",[1.2154686146459426e-08],C0386393,olmesartan medoxomil,TREATS,C0264716,Chronic heart failure
+"[7491, 9, 474]",[1.2006774241513085e-08],C0110038,clavulanate,TREATS,C0003615,Appendicitis
+"[3460, 9, 15270]",[1.1946719169486641e-08],C0025826,methyltestosterone,TREATS,C1384606,Dyspareunia
+"[3467, 9, 2463]",[1.1946241329496843e-08],C0025859,metoprolol,TREATS,C0018790,Cardiac Arrest
+"[3459, 9, 4069]",[1.1917393294424983e-08],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0030807,Pemphigus
+"[8086, 9, 1578]",[1.1903190433315558e-08],C0167117,exenatide,TREATS,C0011849,Diabetes Mellitus
+"[1197, 9, 4822]",[1.1736840832554662e-08],C0008845,citalopram,TREATS,C0036341,Schizophrenia
+"[4364, 9, 3281]",[1.1656472231891257e-08],C0032952,prednisone,TREATS,C0024530,Malaria
+"[4229, 9, 11445]",[1.1629441409866104e-08],C0031935,pimozide,TREATS,C0497327,Dementia
+"[6790, 9, 474]",[1.1599789573324415e-08],C0073571,ropivacaine,TREATS,C0003615,Appendicitis
+"[1998, 9, 3579]",[1.1586775983118969e-08],C0015133,etoposide,TREATS,C0026764,Multiple Myeloma
+"[15657, 9, 9254]",[1.1579238901049393e-08],C1516119,sorafenib,TREATS,C0238462,Medullary carcinoma of thyroid
+"[14603, 9, 506]",[1.153514972429548e-08],C1176309,bortezomib,TREATS,C0003873,Rheumatoid Arthritis
+"[1660, 9, 1363]",[1.1488422657635056e-08],C0012522,diphenhydramine,TREATS,C0010200,Coughing
+"[816, 9, 1907]",[1.144258909846485e-08],C0006462,buspirone,TREATS,C0014544,Epilepsy
+"[2177, 9, 11445]",[1.1401782629150148e-08],C0016377,flurbiprofen,TREATS,C0497327,Dementia
+"[3756, 9, 4489]",[1.1396480203984538e-08],C0027996,niacin,TREATS,C0033860,Psoriasis
+"[1660, 9, 4736]",[1.1280707923333466e-08],C0012522,diphenhydramine,TREATS,C0035455,Rhinitis
+"[4234, 9, 3926]",[1.125196558149355e-08],C0031955,piperacillin,TREATS,C0029443,Osteomyelitis
+"[13806, 9, 5294]",[1.1251890974506296e-08],C0887557,sodium ascorbate,TREATS,C0040028,"Thrombocythemia, Essential"
+"[14544, 9, 1594]",[1.1240458341887916e-08],C1165560,"calcium carbonate, precipitated",TREATS,C0011991,Diarrhea
+"[3514, 9, 1540]",[1.0984878784370267e-08],C0026187,minocycline,TREATS,C0011581,Depressive disorder
+"[1642, 9, 8418]",[1.0748675727256796e-08],C0012306,hydromorphone,TREATS,C0184567,Acute onset pain
+"[39, 9, 2492]",[1.073278532714994e-08],C0000946,acebutolol,TREATS,C0018916,Hemangioma
+"[11600, 9, 3261]",[1.0690271778912575e-08],C0525079,bendamustine,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[1187, 9, 9662]",[1.066786303738354e-08],C0008783,cimetidine,TREATS,C0270549,Generalized Anxiety Disorder
+"[4363, 9, 2492]",[1.064692423113911e-08],C0032950,prednisolone,TREATS,C0018916,Hemangioma
+"[3665, 9, 5070]",[1.0596652444405663e-08],C0027396,naproxen,TREATS,C0038358,Gastric ulcer
+"[16542, 9, 7739]",[1.0573817377235173e-08],C2001271,tapentadol,TREATS,C0150055,Chronic pain
+"[12538, 9, 539]",[1.056861087533889e-08],C0699278,Polopiryna,TREATS,C0004153,Atherosclerosis
+"[16764, 9, 16060]",[1.0553324436557432e-08],C2699562,dasatinib anhydrous,TREATS,C1621958,Glioblastoma Multiforme
+"[14370, 9, 4731]",[1.0520686544168711e-08],C1135135,erlotinib,TREATS,C0035412,Rhabdomyosarcoma
+"[1727, 9, 4731]",[1.0518818704952082e-08],C0013089,doxorubicin,TREATS,C0035412,Rhabdomyosarcoma
+"[1205, 9, 2468]",[1.04477386742019e-08],C0008932,clenbuterol,TREATS,C0018801,Heart failure
+"[5636, 9, 3356]",[1.0439738851175662e-08],C0042291,valproic acid,TREATS,C0025202,melanoma
+"[9467, 9, 4340]",[1.0396854044358861e-08],C0249458,valaciclovir,TREATS,C0032768,Postherpetic neuralgia
+"[17351, 9, 2951]",[1.0287185325807968e-08],C3541367,levomilnacipran,TREATS,C0022104,Irritable Bowel Syndrome
+"[1260, 9, 11582]",[1.0214773027428237e-08],C0009262,colchicine,TREATS,C0524910,"Hepatitis C, Chronic"
+"[7657, 9, 16060]",[1.0208225376118207e-08],C0144576,paclitaxel,TREATS,C1621958,Glioblastoma Multiforme
+"[14669, 9, 5387]",[1.016524375785366e-08],C1258986,p-hydroxyphenolacetamide,TREATS,C0040460,Toothache
+"[1712, 9, 5245]",[1.0146481876915914e-08],C0012963,dobutamine,TREATS,C0039685,Tetralogy of Fallot
+"[16055, 9, 5214]",[1.0104210801387126e-08],C1619966,abatacept,TREATS,C0039483,Giant Cell Arteritis
+"[18742, 9, 930]",[1.0102292336000573e-08],C5834323,INT-230-6 COMPONENT CISPLATIN,TREATS,C0007137,Squamous cell carcinoma
+"[14000, 9, 2469]",[1.0065116740065605e-08],C0937950,darbepoetin alfa,TREATS,C0018802,Congestive heart failure
+"[6784, 9, 4775]",[1.0059725497058025e-08],C0073374,rifaximin,TREATS,C0035854,Rosacea
+"[1654, 9, 5598]",[1.000319738153621e-08],C0012403,dimethyl sulfoxide,TREATS,C0042024,Urinary Incontinence
+"[3458, 9, 11563]",[9.914015386414121e-09],C0025815,methylprednisolone,TREATS,C0524662,Opiate Addiction
+"[5118, 9, 3926]",[9.911982346011428e-09],C0038689,sulfamethoxazole,TREATS,C0029443,Osteomyelitis
+"[8976, 9, 3726]",[9.891549801466226e-09],C0209368,mycophenolate mofetil,TREATS,C0027819,Neuroblastoma
+"[10793, 9, 5608]",[9.86230563881918e-09],C0393022,rituximab,TREATS,C0042109,Urticaria
+"[14358, 9, 15817]",[9.821236268692246e-09],C1134452,MTC-DOX,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[14942, 9, 1907]",[9.76696234999963e-09],C1311233,Harkoseride,TREATS,C0014544,Epilepsy
+"[7536, 9, 4821]",[9.748347906679555e-09],C0123091,quetiapine,TREATS,C0036337,Schizoaffective Disorder
+"[7504, 9, 4033]",[9.730007910491167e-09],C0113293,dexmedetomidine,TREATS,C0030567,Parkinson Disease
+"[1260, 9, 546]",[9.691008884260555e-09],C0009262,colchicine,TREATS,C0004238,Atrial Fibrillation
+"[691, 9, 3581]",[9.643303044981621e-09],C0005632,bisacodyl,TREATS,C0026769,Multiple Sclerosis
+"[6633, 9, 4822]",[9.641990317277305e-09],C0069751,oxcarbazepine,TREATS,C0036341,Schizophrenia
+"[15235, 9, 9793]",[9.589154359446184e-09],C1367202,ipilimumab,TREATS,C0278678,Metastatic Renal Cell Cancer
+"[12320, 9, 927]",[9.588024596496325e-09],C0672708,vorinostat,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[3505, 9, 1540]",[9.561089697740499e-09],C0026088,mifepristone,TREATS,C0011581,Depressive disorder
+"[787, 9, 12851]",[9.47646938698199e-09],C0006230,bromocriptine,TREATS,C0730285,Macular edema due to diabetes mellitus
+"[808, 9, 3915]",[9.396281086537783e-09],C0006400,bupivacaine,TREATS,C0029408,Degenerative polyarthritis
+"[1566, 9, 1540]",[9.37910993314972e-09],C0011785,dexetimide,TREATS,C0011581,Depressive disorder
+"[14118, 9, 517]",[9.311738047301787e-09],C0961485,eplerenone,TREATS,C0003962,Ascites
+"[6864, 9, 926]",[9.297310477052179e-09],C0076080,temozolomide,TREATS,C0007129,Merkel cell carcinoma
+"[1566, 9, 13889]",[9.2952916475042e-09],C0011785,dexetimide,TREATS,C0917801,Sleeplessness
+"[8976, 9, 322]",[9.238701359493007e-09],C0209368,mycophenolate mofetil,TREATS,C0002874,Aplastic Anemia
+"[3459, 9, 3579]",[9.215139762375202e-09],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0026764,Multiple Myeloma
+"[1606, 9, 5070]",[9.189558447530999e-09],C0012091,diclofenac,TREATS,C0038358,Gastric ulcer
+"[3780, 9, 3088]",[9.076949858410899e-09],C0028128,nitric oxide,TREATS,C0023283,"Leishmaniasis, Cutaneous"
+"[10747, 9, 474]",[9.061473349447624e-09],C0389169,doripenem,TREATS,C0003615,Appendicitis
+"[15662, 9, 322]",[9.034638814853224e-09],C1516302,Carmustinum,TREATS,C0002874,Aplastic Anemia
+"[9510, 9, 3726]",[8.987501409762899e-09],C0257685,zoledronic acid,TREATS,C0027819,Neuroblastoma
+"[2234, 9, 11445]",[8.971043463645856e-09],C0016967,galantamine,TREATS,C0497327,Dementia
+"[9451, 9, 3983]",[8.943114693238385e-09],C0246415,docetaxel,TREATS,C0030193,Pain
+"[3503, 9, 3983]",[8.939968765275808e-09],C0026056,midazolam,TREATS,C0030193,Pain
+"[9508, 9, 12851]",[8.938084050669204e-09],C0257343,tamsulosin,TREATS,C0730285,Macular edema due to diabetes mellitus
+"[10707, 9, 3579]",[8.933419337608939e-09],C0379200,ibandronic acid,TREATS,C0026764,Multiple Myeloma
+"[8837, 9, 3835]",[8.913913163155485e-09],C0205758,racepinephrine,TREATS,C0028754,Obesity
+"[5116, 9, 3281]",[8.880504331898464e-09],C0038679,sulfadoxine,TREATS,C0024530,Malaria
+"[4364, 9, 15817]",[8.853378474782403e-09],C0032952,prednisone,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[3610, 9, 3230]",[8.782516047745048e-09],C0026933,mycophenolic acid,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[11601, 9, 14779]",[8.781189997364436e-09],C0525227,brimonidine,TREATS,C1275684,Meibomian gland dysfunction
+"[5118, 9, 1430]",[8.75629613261708e-09],C0038689,sulfamethoxazole,TREATS,C0010674,Cystic Fibrosis
+"[574, 9, 3926]",[8.748551216797296e-09],C0004521,aztreonam,TREATS,C0029443,Osteomyelitis
+"[6895, 9, 9813]",[8.733677780980997e-09],C0076612,thymalfasin,TREATS,C0278987,Metastatic non-small cell lung cancer
+"[1965, 9, 3930]",[8.72508199023514e-09],C0014912,estradiol,TREATS,C0029456,Osteoporosis
+"[15596, 9, 3579]",[8.724198252707538e-09],C1513105,Melphalanum,TREATS,C0026764,Multiple Myeloma
+"[7548, 9, 3726]",[8.720857813671046e-09],C0123931,irinotecan,TREATS,C0027819,Neuroblastoma
+"[2170, 9, 11445]",[8.703323395309326e-09],C0016365,fluoxetine,TREATS,C0497327,Dementia
+"[10044, 9, 5090]",[8.696507514116547e-09],C0288672,abciximab,TREATS,C0038454,Cerebrovascular accident
+"[5780, 9, 1594]",[8.61374616079047e-09],C0043474,zidovudine,TREATS,C0011991,Diarrhea
+"[12705, 9, 11872]",[8.50421688625147e-09],C0717758,etanercept,TREATS,C0578870,Chronic Spontaneous Urticaria
+"[17859, 9, 3579]",[8.385645067221503e-09],C4292380,Coumafene,TREATS,C0026764,Multiple Myeloma
+"[3446, 9, 11445]",[8.371242365967646e-09],C0025678,methotrimeprazine,TREATS,C0497327,Dementia
+"[5678, 9, 1551]",[8.24943846566839e-09],C0042646,vidarabine,TREATS,C0011644,Scleroderma
+"[5452, 9, 4775]",[8.2143447599492e-09],C0040845,tretinoin,TREATS,C0035854,Rosacea
+"[4424, 9, 4736]",[8.137559959209284e-09],C0033405,promethazine,TREATS,C0035455,Rhinitis
+"[2169, 9, 1594]",[8.116598060325941e-09],C0016360,fluorouracil,TREATS,C0011991,Diarrhea
+"[2169, 9, 929]",[8.071479484783595e-09],C0016360,fluorouracil,TREATS,C0007134,Renal Cell Carcinoma
+"[3458, 9, 929]",[8.068199441879642e-09],C0025815,methylprednisolone,TREATS,C0007134,Renal Cell Carcinoma
+"[3791, 9, 11393]",[8.065699219628186e-09],C0028215,nitrous oxide,TREATS,C0474368,Labor Pain
+"[3658, 9, 1319]",[8.029362064121415e-09],C0027358,naloxone,TREATS,C0009806,Constipation
+"[7598, 9, 3835]",[7.954821690248082e-09],C0136123,perindopril,TREATS,C0028754,Obesity
+"[13153, 9, 3936]",[7.935206269849004e-09],C0770565,dexamethasone phosphate,TREATS,C0029878,Otitis Externa
+"[10030, 9, 532]",[7.914443322931675e-09],C0286651,atorvastatin,TREATS,C0004096,Asthma
+"[6823, 9, 1430]",[7.906240995225744e-09],C0074554,simvastatin,TREATS,C0010674,Cystic Fibrosis
+"[16412, 9, 3110]",[7.895106790556383e-09],C1881785,mercaptopurine anhydrous,TREATS,C0023449,Acute lymphocytic leukemia
+"[8979, 9, 16695]",[7.847404503991129e-09],C0210657,pemetrexed,TREATS,C2585890,Nonsquamous nonsmall cell neoplasm of lung
+"[8976, 9, 3249]",[7.846261418364975e-09],C0209368,mycophenolate mofetil,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[817, 9, 4720]",[7.746715269263404e-09],C0006463,busulfan,TREATS,C0035335,Retinoblastoma
+"[9022, 9, 3680]",[7.735400764374845e-09],C0220578,palonosetron,TREATS,C0027497,Nausea
+"[4756, 9, 3249]",[7.725811990155762e-09],C0035608,rifampicin,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[15596, 9, 322]",[7.702791293695554e-09],C1513105,Melphalanum,TREATS,C0002874,Aplastic Anemia
+"[2086, 9, 11393]",[7.69919328291735e-09],C0015846,fentanyl,TREATS,C0474368,Labor Pain
+"[12301, 9, 5064]",[7.626975495611532e-09],C0666743,infliximab,TREATS,C0038325,Stevens-Johnson Syndrome
+"[2173, 9, 4489]",[7.586420380789605e-09],C0016368,fluphenazine,TREATS,C0033860,Psoriasis
+"[3359, 9, 7902]",[7.535088997201456e-09],C0025219,melatonin,TREATS,C0155626,Acute myocardial infarction
+"[11666, 9, 539]",[7.44755457304791e-09],C0541315,everolimus,TREATS,C0004153,Atherosclerosis
+"[2665, 9, 927]",[7.3626309493590725e-09],C0020336,hydroxychloroquine,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[10052, 9, 927]",[7.329527207389219e-09],C0290883,anastrozole,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[6767, 9, 811]",[7.324366002592342e-09],C0072980,sirolimus,TREATS,C0006413,Burkitt Lymphoma
+"[7109, 9, 2469]",[7.25447257821088e-09],C0081876,pantoprazole,TREATS,C0018802,Congestive heart failure
+"[12688, 9, 8418]",[7.252855205308606e-09],C0701928,Special K drug,TREATS,C0184567,Acute onset pain
+"[2169, 9, 926]",[7.245997579730101e-09],C0016360,fluorouracil,TREATS,C0007129,Merkel cell carcinoma
+"[5678, 9, 3726]",[7.220266162732969e-09],C0042646,vidarabine,TREATS,C0027819,Neuroblastoma
+"[1468, 9, 4527]",[7.16698078662148e-09],C0010961,danazol,TREATS,C0034155,"Purpura, Thrombotic Thrombocytopenic"
+"[6767, 9, 2688]",[7.134058233049245e-09],C0072980,sirolimus,TREATS,C0020459,Hyperinsulinism
+"[3808, 9, 11445]",[7.130481094463903e-09],C0028420,nortriptyline,TREATS,C0497327,Dementia
+"[2672, 9, 5090]",[7.100791066250167e-09],C0020402,hydroxycarbamide,TREATS,C0038454,Cerebrovascular accident
+"[5922, 9, 3579]",[7.0855072920039675e-09],C0052416,arsenic trioxide,TREATS,C0026764,Multiple Myeloma
+"[13341, 9, 3579]",[7.061684570430771e-09],C0795597,cytarabine liposome,TREATS,C0026764,Multiple Myeloma
+"[6815, 9, 11445]",[6.982342259931329e-09],C0074393,sertraline,TREATS,C0497327,Dementia
+"[5277, 9, 5057]",[6.975591659852398e-09],C0039925,thiopental,TREATS,C0038220,Status Epilepticus
+"[4756, 9, 1430]",[6.965927390467641e-09],C0035608,rifampicin,TREATS,C0010674,Cystic Fibrosis
+"[1998, 9, 3249]",[6.957009190955432e-09],C0015133,etoposide,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[653, 9, 2682]",[6.919417927520044e-09],C0005301,betahistine,TREATS,C0020443,Hypercholesterolemia
+"[13153, 9, 1380]",[6.9161436577758195e-09],C0770565,dexamethasone phosphate,TREATS,C0010346,Crohn Disease
+"[7036, 9, 1551]",[6.912256544922002e-09],C0079594,iloprost,TREATS,C0011644,Scleroderma
+"[3665, 9, 8418]",[6.896165416492295e-09],C0027396,naproxen,TREATS,C0184567,Acute onset pain
+"[6654, 9, 4489]",[6.88767887169206e-09],C0070217,penamecillin,TREATS,C0033860,Psoriasis
+"[12275, 9, 4822]",[6.876688551926691e-09],C0649350,rivastigmine,TREATS,C0036341,Schizophrenia
+"[2751, 9, 15817]",[6.857390211223446e-09],C0020789,idarubicin,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[3012, 9, 454]",[6.857138412641461e-09],C0022614,ketamine,TREATS,C0003467,Anxiety
+"[817, 9, 3230]",[6.813414277218044e-09],C0006463,busulfan,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[8067, 9, 3356]",[6.7316192620126e-09],C0165032,imiquimod,TREATS,C0025202,melanoma
+"[3424, 9, 17040]",[6.729756307777279e-09],C0025598,metformin,TREATS,C2973725,Pulmonary arterial hypertension
+"[7491, 9, 9677]",[6.680937136849252e-09],C0110038,clavulanate,TREATS,C0271429,Acute otitis media
+"[14603, 9, 3230]",[6.669020891081345e-09],C1176309,bortezomib,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[3017, 9, 814]",[6.628512849715662e-09],C0022635,ketoprofen,TREATS,C0006444,Bursitis
+"[1848, 9, 13576]",[6.606825309063424e-09],C0014025,enalapril,TREATS,C0860594,"Malignant melanoma, metastatic"
+"[13362, 9, 3249]",[6.573780630958481e-09],C0796392,bevacizumab,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[5459, 9, 4822]",[6.554821574411562e-09],C0040879,triazolam,TREATS,C0036341,Schizophrenia
+"[3848, 9, 3249]",[6.543251274138129e-09],C0028902,ofloxacin,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[1416, 9, 3574]",[6.487550052725055e-09],C0010583,cyclophosphamide,TREATS,C0026709,Mucopolysaccharidosis VI
+"[4979, 9, 8952]",[6.472818725455909e-09],C0037659,somatostatin,TREATS,C0206754,Neuroendocrine Tumors
+"[47, 9, 7739]",[6.4725589332681466e-09],C0000981,acetazolamide,TREATS,C0150055,Chronic pain
+"[18044, 9, 5617]",[6.449570655320258e-09],C4529301,bevacizumab-awwb,TREATS,C0042164,Uveitis
+"[1088, 9, 4822]",[6.3728964327935955e-09],C0008161,chloral hydrate,TREATS,C0036341,Schizophrenia
+"[2170, 9, 687]",[6.35007735283466e-09],C0016365,fluoxetine,TREATS,C0005586,Bipolar Disorder
+"[567, 9, 3983]",[6.216750669807425e-09],C0004475,azacitidine,TREATS,C0030193,Pain
+"[2234, 9, 4822]",[6.087732096204945e-09],C0016967,galantamine,TREATS,C0036341,Schizophrenia
+"[6554, 9, 4822]",[6.06289907167934e-09],C0066673,moclobemide,TREATS,C0036341,Schizophrenia
+"[6060, 9, 7733]",[5.92158944101584e-09],C0055147,cetirizine,TREATS,C0149931,Migraine Disorders
+"[5491, 9, 1430]",[5.8664468838287576e-09],C0041041,trimethoprim,TREATS,C0010674,Cystic Fibrosis
+"[288, 9, 9395]",[5.851830131575753e-09],C0002645,amoxicillin,TREATS,C0243001,Abdominal Abscess
+"[3012, 9, 4002]",[5.834887240041553e-09],C0022614,ketamine,TREATS,C0030305,Pancreatitis
+"[8976, 9, 506]",[5.833820537759493e-09],C0209368,mycophenolate mofetil,TREATS,C0003873,Rheumatoid Arthritis
+"[11666, 9, 4069]",[5.803106439827843e-09],C0541315,everolimus,TREATS,C0030807,Pemphigus
+"[13341, 9, 322]",[5.730102614620591e-09],C0795597,cytarabine liposome,TREATS,C0002874,Aplastic Anemia
+"[3876, 9, 11445]",[5.710453887530775e-09],C0029105,opipramol,TREATS,C0497327,Dementia
+"[5454, 9, 4736]",[5.7102962358612785e-09],C0040864,triamcinolone,TREATS,C0035455,Rhinitis
+"[3761, 9, 539]",[5.709131389863842e-09],C0028027,nicotinamide,TREATS,C0004153,Atherosclerosis
+"[4562, 9, 4917]",[5.6376308066319325e-09],C0034417,quinine,TREATS,C0037199,Sinusitis
+"[1982, 9, 4720]",[5.6345266230550806e-09],C0015020,amifostine,TREATS,C0035335,Retinoblastoma
+"[7197, 9, 4822]",[5.599928520894082e-09],C0085208,bupropion,TREATS,C0036341,Schizophrenia
+"[4364, 9, 1594]",[5.5895634787361814e-09],C0032952,prednisone,TREATS,C0011991,Diarrhea
+"[4364, 9, 3983]",[5.586472617835625e-09],C0032952,prednisone,TREATS,C0030193,Pain
+"[276, 9, 7733]",[5.581947348787253e-09],C0002600,amitriptyline,TREATS,C0149931,Migraine Disorders
+"[14458, 9, 3261]",[5.545178538568507e-09],C1144149,lenalidomide,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[5709, 9, 2682]",[5.537116098963679e-09],C0042874,Vitamin E,TREATS,C0020443,Hypercholesterolemia
+"[3445, 9, 5608]",[5.53619639021008e-09],C0025677,methotrexate,TREATS,C0042109,Urticaria
+"[12301, 9, 5214]",[5.533109526112412e-09],C0666743,infliximab,TREATS,C0039483,Giant Cell Arteritis
+"[1937, 9, 7813]",[5.53077494913623e-09],C0014806,erythromycin,TREATS,C0152020,Gastroparesis
+"[3467, 9, 3835]",[5.508674405518832e-09],C0025859,metoprolol,TREATS,C0028754,Obesity
+"[6272, 9, 1123]",[5.47944756235097e-09],C0060179,fenofibric acid,TREATS,C0008312,Primary Biliary Cholangitis
+"[14942, 9, 5057]",[5.4736610799466234e-09],C1311233,Harkoseride,TREATS,C0038220,Status Epilepticus
+"[1914, 9, 4118]",[5.452407414452409e-09],C0014563,epinephrine,TREATS,C0031099,Periodontitis
+"[4979, 9, 3726]",[5.4105915303637175e-09],C0037659,somatostatin,TREATS,C0027819,Neuroblastoma
+"[9006, 9, 5300]",[5.329203744963706e-09],C0216278,tinzaparin,TREATS,C0040053,Thrombosis
+"[14603, 9, 3110]",[5.297021488104292e-09],C1176309,bortezomib,TREATS,C0023449,Acute lymphocytic leukemia
+"[2176, 9, 11445]",[5.219497722919186e-09],C0016375,flurazepam,TREATS,C0497327,Dementia
+"[2753, 9, 4731]",[5.185488927139659e-09],C0020823,ifosfamide,TREATS,C0035412,Rhabdomyosarcoma
+"[288, 9, 2099]",[5.176246098415049e-09],C0002645,amoxicillin,TREATS,C0015967,Fever
+"[16533, 9, 15044]",[5.169049188680219e-09],C1998098,panobinostat,TREATS,C1328504,Hormone refractory prostate cancer
+"[2182, 9, 929]",[5.167678285289412e-09],C0016410,folic acid,TREATS,C0007134,Renal Cell Carcinoma
+"[3149, 9, 814]",[5.1364890119032225e-09],C0023660,lidocaine,TREATS,C0006444,Bursitis
+"[6909, 9, 4356]",[5.094055399723629e-09],C0076829,topiramate,TREATS,C0032897,Prader-Willi Syndrome
+"[5414, 9, 4375]",[5.08155473255556e-09],C0040610,tramadol,TREATS,C0033038,Premature Ejaculation
+"[13969, 9, 15817]",[5.057260832330712e-09],C0935989,imatinib,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[15483, 9, 1578]",[5.038219619279971e-09],C1456408,liraglutide,TREATS,C0011849,Diabetes Mellitus
+"[3211, 9, 11445]",[5.03570607435222e-09],C0024002,lorazepam,TREATS,C0497327,Dementia
+"[2150, 9, 12851]",[4.944434195408576e-09],C0016298,fluocinolone acetonide,TREATS,C0730285,Macular edema due to diabetes mellitus
+"[6710, 9, 687]",[4.92413398944791e-09],C0071304,isradipine,TREATS,C0005586,Bipolar Disorder
+"[6649, 9, 8418]",[4.886592908093235e-09],C0070108,paregoric,TREATS,C0184567,Acute onset pain
+"[6766, 9, 546]",[4.806357090103575e-09],C0072973,ramipril,TREATS,C0004238,Atrial Fibrillation
+"[10017, 9, 11445]",[4.7781369971744425e-09],C0284941,acamprosate,TREATS,C0497327,Dementia
+"[3659, 9, 1266]",[4.728424318756197e-09],C0027360,naltrexone,TREATS,C0009324,Ulcerative Colitis
+"[180, 9, 2469]",[4.702400691058983e-09],C0001927,salbutamol,TREATS,C0018802,Congestive heart failure
+"[4109, 9, 938]",[4.669407083213173e-09],C0031013,perhexiline,TREATS,C0007194,Hypertrophic Cardiomyopathy
+"[530, 9, 3581]",[4.657306984512388e-09],C0004057,acetylsalicylic acid,TREATS,C0026769,Multiple Sclerosis
+"[1563, 9, 10314]",[4.622121796415968e-09],C0011777,dexamethasone,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[9018, 9, 3579]",[4.582650703355284e-09],C0218640,lenograstim,TREATS,C0026764,Multiple Myeloma
+"[10707, 9, 3983]",[4.569368883267089e-09],C0379200,ibandronic acid,TREATS,C0030193,Pain
+"[9444, 9, 4033]",[4.529922659202157e-09],C0245561,duloxetine,TREATS,C0030567,Parkinson Disease
+"[16055, 9, 3230]",[4.520122498519186e-09],C1619966,abatacept,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[14118, 9, 546]",[4.519706386929556e-09],C0961485,eplerenone,TREATS,C0004238,Atrial Fibrillation
+"[6767, 9, 9793]",[4.4951549149629955e-09],C0072980,sirolimus,TREATS,C0278678,Metastatic Renal Cell Cancer
+"[6692, 9, 532]",[4.485725124681039e-09],C0071097,pioglitazone,TREATS,C0004096,Asthma
+"[13763, 9, 927]",[4.482766158275808e-09],C0879427,panitumumab,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[5452, 9, 8952]",[4.454270730036569e-09],C0040845,tretinoin,TREATS,C0206754,Neuroendocrine Tumors
+"[4543, 9, 4489]",[4.428987843141385e-09],C0034263,pyridoxal,TREATS,C0033860,Psoriasis
+"[4176, 9, 4822]",[4.4223291695288935e-09],C0031507,phenytoin,TREATS,C0036341,Schizophrenia
+"[9450, 9, 4822]",[4.33215285866595e-09],C0246330,tolcapone,TREATS,C0036341,Schizophrenia
+"[14158, 9, 1430]",[4.251815788336444e-09],C0971579,vardenafil,TREATS,C0010674,Cystic Fibrosis
+"[5730, 9, 14038]",[4.240622519802173e-09],C0043031,warfarin,TREATS,C0948008,Ischemic stroke
+"[1419, 9, 3763]",[4.237516115779272e-09],C0010590,cycloserine,TREATS,C0028043,Nicotine Dependence
+"[10017, 9, 4822]",[4.2317296333749255e-09],C0284941,acamprosate,TREATS,C0036341,Schizophrenia
+"[5278, 9, 11445]",[4.225840122273894e-09],C0039943,thioridazine,TREATS,C0497327,Dementia
+"[11666, 9, 927]",[4.182528101637217e-09],C0541315,everolimus,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[3459, 9, 532]",[4.128900332744934e-09],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0004096,Asthma
+"[5678, 9, 3579]",[4.108375861733293e-09],C0042646,vidarabine,TREATS,C0026764,Multiple Myeloma
+"[1416, 9, 3119]",[4.054674818121384e-09],C0010583,cyclophosphamide,TREATS,C0023473,"Myeloid Leukemia, Chronic"
+"[6650, 9, 11445]",[4.022500554867747e-09],C0070122,paroxetine,TREATS,C0497327,Dementia
+"[12301, 9, 929]",[3.994278241492566e-09],C0666743,infliximab,TREATS,C0007134,Renal Cell Carcinoma
+"[12301, 9, 644]",[3.946815319011421e-09],C0666743,infliximab,TREATS,C0005138,Berylliosis
+"[10788, 9, 3983]",[3.921891256197796e-09],C0392938,zoledronate,TREATS,C0030193,Pain
+"[5940, 9, 3088]",[3.878007692748042e-09],C0052796,azithromycin,TREATS,C0023283,"Leishmaniasis, Cutaneous"
+"[5709, 9, 1266]",[3.824718763922874e-09],C0042874,Vitamin E,TREATS,C0009324,Ulcerative Colitis
+"[686, 9, 11445]",[3.813710236499901e-09],C0005578,biperiden,TREATS,C0497327,Dementia
+"[1124, 9, 1266]",[3.794288438996318e-09],C0008318,colecalciferol,TREATS,C0009324,Ulcerative Colitis
+"[4363, 9, 11393]",[3.782846924593741e-09],C0032950,prednisolone,TREATS,C0474368,Labor Pain
+"[1914, 9, 3835]",[3.7809360087237565e-09],C0014563,epinephrine,TREATS,C0028754,Obesity
+"[17689, 9, 506]",[3.7725214063755175e-09],C4048232,N(5)-Formyltetrahydrofolate,TREATS,C0003873,Rheumatoid Arthritis
+"[11702, 9, 1266]",[3.765278755452073e-09],C0544368,hydrocortamate,TREATS,C0009324,Ulcerative Colitis
+"[9444, 9, 11445]",[3.6791854007844904e-09],C0245561,duloxetine,TREATS,C0497327,Dementia
+"[11587, 9, 1594]",[3.6000384895373827e-09],C0525005,nelfinavir,TREATS,C0011991,Diarrhea
+"[6784, 9, 1380]",[3.540211013230987e-09],C0073374,rifaximin,TREATS,C0010346,Crohn Disease
+"[3662, 9, 1866]",[3.514860846820511e-09],C0027368,nandrolone,TREATS,C0014175,Endometriosis
+"[14341, 9, 1867]",[3.5105205409280416e-09],C1120106,ertapenem,TREATS,C0014179,Endometritis
+"[1416, 9, 1380]",[3.4675273763440373e-09],C0010583,cyclophosphamide,TREATS,C0010346,Crohn Disease
+"[6555, 9, 4822]",[3.4409501914467455e-09],C0066677,modafinil,TREATS,C0036341,Schizophrenia
+"[3761, 9, 5090]",[3.382007784935581e-09],C0028027,nicotinamide,TREATS,C0038454,Cerebrovascular accident
+"[6652, 9, 546]",[3.3731621940091827e-09],C0070166,clopidogrel,TREATS,C0004238,Atrial Fibrillation
+"[3458, 9, 2492]",[3.3214107020285155e-09],C0025815,methylprednisolone,TREATS,C0018916,Hemangioma
+"[6826, 9, 2113]",[3.295196782104881e-09],C0074710,pramipexole,TREATS,C0016053,Fibromyalgia
+"[260, 9, 2469]",[3.245831825537948e-09],C0002502,amiloride,TREATS,C0018802,Congestive heart failure
+"[3659, 9, 1380]",[3.2032749786026216e-09],C0027360,naltrexone,TREATS,C0010346,Crohn Disease
+"[288, 9, 474]",[3.2005864625261893e-09],C0002645,amoxicillin,TREATS,C0003615,Appendicitis
+"[6909, 9, 4822]",[3.1771787423195974e-09],C0076829,topiramate,TREATS,C0036341,Schizophrenia
+"[14151, 9, 4822]",[3.1749749496157165e-09],C0969677,alpha tocopherol,TREATS,C0036341,Schizophrenia
+"[12301, 9, 17273]",[3.1432114688811907e-09],C0666743,infliximab,TREATS,C3495559,Juvenile arthritis
+"[16271, 9, 4822]",[3.0741542644818765e-09],C1873633,lisdexamfetamine,TREATS,C0036341,Schizophrenia
+"[13212, 9, 3930]",[3.0209332813058154e-09],C0771311,alendronic acid,TREATS,C0029456,Osteoporosis
+"[9018, 9, 2468]",[2.9854465566359067e-09],C0218640,lenograstim,TREATS,C0018801,Heart failure
+"[2176, 9, 4822]",[2.9413937951972002e-09],C0016375,flurazepam,TREATS,C0036341,Schizophrenia
+"[3761, 9, 3621]",[2.9267177570346803e-09],C0028027,nicotinamide,TREATS,C0027051,Myocardial Infarction
+"[1420, 9, 11582]",[2.910860885663169e-09],C0010592,ciclosporin,TREATS,C0524910,"Hepatitis C, Chronic"
+"[14599, 9, 517]",[2.903288054412201e-09],C1176020,sunitinib,TREATS,C0003962,Ascites
+"[817, 9, 3726]",[2.9012843238973574e-09],C0006463,busulfan,TREATS,C0027819,Neuroblastoma
+"[3454, 9, 241]",[2.8903897053567107e-09],C0025746,methylthioninium chloride,TREATS,C0002395,Alzheimer's Disease
+"[11666, 9, 3119]",[2.8887023884038854e-09],C0541315,everolimus,TREATS,C0023473,"Myeloid Leukemia, Chronic"
+"[1002, 9, 687]",[2.874874782676784e-09],C0007561,ceftriaxone,TREATS,C0005586,Bipolar Disorder
+"[6909, 9, 11445]",[2.8671574003880096e-09],C0076829,topiramate,TREATS,C0497327,Dementia
+"[6102, 9, 11445]",[2.853345115738648e-09],C0055891,clobazam,TREATS,C0497327,Dementia
+"[11666, 9, 931]",[2.8472453283967525e-09],C0541315,everolimus,TREATS,C0007138,"Carcinoma, Transitional Cell"
+"[1420, 9, 7902]",[2.8357303172299453e-09],C0010592,ciclosporin,TREATS,C0155626,Acute myocardial infarction
+"[9493, 9, 1380]",[2.8254647510550512e-09],C0254119,interferon beta-1a,TREATS,C0010346,Crohn Disease
+"[11600, 9, 3119]",[2.8086999392940015e-09],C0525079,bendamustine,TREATS,C0023473,"Myeloid Leukemia, Chronic"
+"[1124, 9, 1578]",[2.763077322498475e-09],C0008318,colecalciferol,TREATS,C0011849,Diabetes Mellitus
+"[10052, 9, 3835]",[2.741316951215822e-09],C0290883,anastrozole,TREATS,C0028754,Obesity
+"[1901, 9, 4917]",[2.7279400960367184e-09],C0014479,ephedrine,TREATS,C0037199,Sinusitis
+"[3457, 9, 5085]",[2.708111290772308e-09],C0025810,methylphenidate,TREATS,C0038436,Post-Traumatic Stress Disorder
+"[7219, 9, 3835]",[2.67074229398645e-09],C0085272,leuprorelin,TREATS,C0028754,Obesity
+"[4440, 9, 13576]",[2.6048616597051932e-09],C0033497,propranolol,TREATS,C0860594,"Malignant melanoma, metastatic"
+"[5272, 9, 3119]",[2.5689066429634977e-09],C0039871,thiotepa,TREATS,C0023473,"Myeloid Leukemia, Chronic"
+"[4073, 9, 5708]",[2.55777798940926e-09],C0030817,penicillamine,TREATS,C0042870,Vitamin D Deficiency
+"[1566, 9, 14733]",[2.545382571383925e-09],C0011785,dexetimide,TREATS,C1269683,Major Depressive Disorder
+"[15981, 9, 3835]",[2.5161250860605833e-09],C1569608,varenicline,TREATS,C0028754,Obesity
+"[816, 9, 2468]",[2.5135484804650332e-09],C0006462,buspirone,TREATS,C0018801,Heart failure
+"[816, 9, 11445]",[2.4990223224108377e-09],C0006462,buspirone,TREATS,C0497327,Dementia
+"[6159, 9, 3281]",[2.4730775205483724e-09],C0057277,prasterone sulfate,TREATS,C0024530,Malaria
+"[3514, 9, 1430]",[2.429897616451626e-09],C0026187,minocycline,TREATS,C0010674,Cystic Fibrosis
+"[1982, 9, 3726]",[2.390076359048976e-09],C0015020,amifostine,TREATS,C0027819,Neuroblastoma
+"[12320, 9, 4822]",[2.3812105620635293e-09],C0672708,vorinostat,TREATS,C0036341,Schizophrenia
+"[14350, 9, 532]",[2.359071826774084e-09],C1122087,adalimumab,TREATS,C0004096,Asthma
+"[13199, 9, 15817]",[2.319131553463194e-09],C0771204,anhydrous tacrolimus,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[11666, 9, 3579]",[2.3147967986858475e-09],C0541315,everolimus,TREATS,C0026764,Multiple Myeloma
+"[5444, 9, 11445]",[2.3031976326137737e-09],C0040778,tranylcypromine,TREATS,C0497327,Dementia
+"[1420, 9, 9695]",[2.2836672552983828e-09],C0010592,ciclosporin,TREATS,C0272286,Thrombocytopenia due to platelet alloimmunization
+"[13991, 9, 14039]",[2.2625146200994095e-09],C0937846,esomeprazole,TREATS,C0948089,Acute Coronary Syndrome
+"[13991, 9, 1363]",[2.260028164613459e-09],C0937846,esomeprazole,TREATS,C0010200,Coughing
+"[14544, 9, 3930]",[2.2492301354759547e-09],C1165560,"calcium carbonate, precipitated",TREATS,C0029456,Osteoporosis
+"[13852, 9, 3835]",[2.2198887172919513e-09],C0907402,insulin glargine,TREATS,C0028754,Obesity
+"[1566, 9, 14039]",[2.219083361509888e-09],C0011785,dexetimide,TREATS,C0948089,Acute Coronary Syndrome
+"[2753, 9, 3726]",[2.217777961277534e-09],C0020823,ifosfamide,TREATS,C0027819,Neuroblastoma
+"[13991, 9, 3680]",[2.2098598506659073e-09],C0937846,esomeprazole,TREATS,C0027497,Nausea
+"[12316, 9, 927]",[2.2043553649098158e-09],C0671970,capecitabine,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[1718, 9, 8418]",[2.2003954214255828e-09],C0013030,dopamine,TREATS,C0184567,Acute onset pain
+"[3424, 9, 9662]",[2.190010839342449e-09],C0025598,metformin,TREATS,C0270549,Generalized Anxiety Disorder
+"[6420, 9, 9684]",[2.1601633815038213e-09],C0063657,"insulin, neutral",TREATS,C0271623,Hypogonadotropic hypogonadism
+"[3100, 9, 927]",[2.1290926799366616e-09],C0023413,leucovorin,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[14370, 9, 3726]",[2.113935471115269e-09],C1135135,erlotinib,TREATS,C0027819,Neuroblastoma
+"[10690, 9, 187]",[2.0922121812816385e-09],C0377265,levetiracetam,TREATS,C0001973,"Alcoholic Intoxication, Chronic"
+"[1088, 9, 11445]",[2.084661110401953e-09],C0008161,chloral hydrate,TREATS,C0497327,Dementia
+"[16055, 9, 215]",[2.0822312762902584e-09],C1619966,abatacept,TREATS,C0002171,Alopecia Areata
+"[3474, 9, 4822]",[2.081151695421113e-09],C0025912,mianserin,TREATS,C0036341,Schizophrenia
+"[5730, 9, 539]",[2.0740231754245997e-09],C0043031,warfarin,TREATS,C0004153,Atherosclerosis
+"[13153, 9, 9677]",[2.044341140816641e-09],C0770565,dexamethasone phosphate,TREATS,C0271429,Acute otitis media
+"[5242, 9, 4822]",[2.0335084727207686e-09],C0039663,dronabinol,TREATS,C0036341,Schizophrenia
+"[6767, 9, 3726]",[2.0260506605751516e-09],C0072980,sirolimus,TREATS,C0027819,Neuroblastoma
+"[10046, 9, 1866]",[1.9989687682908652e-09],C0289313,rosiglitazone,TREATS,C0014175,Endometriosis
+"[6692, 9, 3835]",[1.9928783068223765e-09],C0071097,pioglitazone,TREATS,C0028754,Obesity
+"[13969, 9, 927]",[1.9888173330429026e-09],C0935989,imatinib,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[6096, 9, 3579]",[1.9734522904713003e-09],C0055856,clarithromycin,TREATS,C0026764,Multiple Myeloma
+"[4424, 9, 11445]",[1.949675088042113e-09],C0033405,promethazine,TREATS,C0497327,Dementia
+"[2672, 9, 2709]",[1.9460277833616146e-09],C0020402,hydroxycarbamide,TREATS,C0020542,Pulmonary Hypertension
+"[4008, 9, 4822]",[1.9411299234661783e-09],C0030350,papaverine,TREATS,C0036341,Schizophrenia
+"[8086, 9, 241]",[1.9106964899151535e-09],C0167117,exenatide,TREATS,C0002395,Alzheimer's Disease
+"[3210, 9, 1266]",[1.9048707056157355e-09],C0023992,loperamide,TREATS,C0009324,Ulcerative Colitis
+"[3211, 9, 3983]",[1.8791328493250603e-09],C0024002,lorazepam,TREATS,C0030193,Pain
+"[185, 9, 3581]",[1.873769361893096e-09],C0001962,ethanol,TREATS,C0026769,Multiple Sclerosis
+"[1563, 9, 304]",[1.863089682530017e-09],C0011777,dexamethasone,TREATS,C0002726,Amyloidosis
+"[1124, 9, 3581]",[1.8500536658194733e-09],C0008318,colecalciferol,TREATS,C0026769,Multiple Sclerosis
+"[13199, 9, 3579]",[1.7773913452145962e-09],C0771204,anhydrous tacrolimus,TREATS,C0026764,Multiple Myeloma
+"[17174, 9, 546]",[1.765030677169932e-09],C3256601,calcium ascorbate anhydrous,TREATS,C0004238,Atrial Fibrillation
+"[1219, 9, 11445]",[1.751216616163731e-09],C0009011,clonazepam,TREATS,C0497327,Dementia
+"[6554, 9, 11445]",[1.7456073253541149e-09],C0066673,moclobemide,TREATS,C0497327,Dementia
+"[10722, 9, 3579]",[1.7167325339073614e-09],C0383429,alemtuzumab,TREATS,C0026764,Multiple Myeloma
+"[2197, 9, 3281]",[1.6816663617191807e-09],C0016610,fosfomycin,TREATS,C0024530,Malaria
+"[14370, 9, 930]",[1.6590413487449496e-09],C1135135,erlotinib,TREATS,C0007137,Squamous cell carcinoma
+"[12538, 9, 3579]",[1.6164912741700732e-09],C0699278,Polopiryna,TREATS,C0026764,Multiple Myeloma
+"[11665, 9, 3579]",[1.6102401634299213e-09],C0541155,colesevelam,TREATS,C0026764,Multiple Myeloma
+"[13199, 9, 3249]",[1.5976527878436286e-09],C0771204,anhydrous tacrolimus,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[9450, 9, 3726]",[1.5741876691066636e-09],C0246330,tolcapone,TREATS,C0027819,Neuroblastoma
+"[15235, 9, 3579]",[1.5642547257499473e-09],C1367202,ipilimumab,TREATS,C0026764,Multiple Myeloma
+"[14603, 9, 9793]",[1.5452865653742265e-09],C1176309,bortezomib,TREATS,C0278678,Metastatic Renal Cell Cancer
+"[14605, 9, 17040]",[1.5362626726300732e-09],C1176316,tadalafil,TREATS,C2973725,Pulmonary arterial hypertension
+"[13991, 9, 5070]",[1.5236015782349455e-09],C0937846,esomeprazole,TREATS,C0038358,Gastric ulcer
+"[16764, 9, 3119]",[1.5164332012318482e-09],C2699562,dasatinib anhydrous,TREATS,C0023473,"Myeloid Leukemia, Chronic"
+"[6272, 9, 3835]",[1.5091037308678779e-09],C0060179,fenofibric acid,TREATS,C0028754,Obesity
+"[3778, 9, 4822]",[1.5016926591115975e-09],C0028126,nitrazepam,TREATS,C0036341,Schizophrenia
+"[1095, 9, 1430]",[1.496888613061742e-09],C0008196,chlorhexidine,TREATS,C0010674,Cystic Fibrosis
+"[4157, 9, 4822]",[1.4813027471305418e-09],C0031412,phenobarbital,TREATS,C0036341,Schizophrenia
+"[7100, 9, 4822]",[1.4674919057711122e-09],C0080356,valproate,TREATS,C0036341,Schizophrenia
+"[6433, 9, 241]",[1.4346830390365994e-09],C0064113,itraconazole,TREATS,C0002395,Alzheimer's Disease
+"[1419, 9, 4822]",[1.4243261015067787e-09],C0010590,cycloserine,TREATS,C0036341,Schizophrenia
+"[7100, 9, 3726]",[1.4187523378339506e-09],C0080356,valproate,TREATS,C0027819,Neuroblastoma
+"[3514, 9, 3581]",[1.377709168970398e-09],C0026187,minocycline,TREATS,C0026769,Multiple Sclerosis
+"[7171, 9, 3579]",[1.3764676065619597e-09],C0085149,tacrolimus,TREATS,C0026764,Multiple Myeloma
+"[8837, 9, 532]",[1.3580048197070482e-09],C0205758,racepinephrine,TREATS,C0004096,Asthma
+"[13153, 9, 927]",[1.3483166805272617e-09],C0770565,dexamethasone phosphate,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[1196, 9, 3983]",[1.3326441061778382e-09],C0008838,cisplatin,TREATS,C0030193,Pain
+"[1726, 9, 11445]",[1.3272977161804533e-09],C0013085,doxepin,TREATS,C0497327,Dementia
+"[4424, 9, 1546]",[1.3203291793217886e-09],C0033405,promethazine,TREATS,C0011615,"Dermatitis, Atopic"
+"[3474, 9, 11445]",[1.3135635912320254e-09],C0025912,mianserin,TREATS,C0497327,Dementia
+"[5150, 9, 927]",[1.294530704853969e-09],C0038880,suramin,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[4795, 9, 3835]",[1.283734674117909e-09],C0036079,salicylic acid,TREATS,C0028754,Obesity
+"[5452, 9, 3726]",[1.256370341096158e-09],C0040845,tretinoin,TREATS,C0027819,Neuroblastoma
+"[6272, 9, 3579]",[1.2393747139682887e-09],C0060179,fenofibric acid,TREATS,C0026764,Multiple Myeloma
+"[14599, 9, 927]",[1.2310805708182215e-09],C1176020,sunitinib,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[6649, 9, 7739]",[1.2211787137061947e-09],C0070108,paregoric,TREATS,C0150055,Chronic pain
+"[1982, 9, 5480]",[1.2131479154575686e-09],C0015020,amifostine,TREATS,C0040997,Trigeminal Neuralgia
+"[1124, 9, 3230]",[1.1936279742386091e-09],C0008318,colecalciferol,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[276, 9, 11445]",[1.1595673310438315e-09],C0002600,amitriptyline,TREATS,C0497327,Dementia
+"[5447, 9, 11445]",[1.133800608954516e-09],C0040805,trazodone,TREATS,C0497327,Dementia
+"[6767, 9, 539]",[1.131945315258065e-09],C0072980,sirolimus,TREATS,C0004153,Atherosclerosis
+"[7426, 9, 3579]",[1.0904236402708989e-09],C0092777,clofarabine,TREATS,C0026764,Multiple Myeloma
+"[6823, 9, 13053]",[1.086806755701275e-09],C0074554,simvastatin,TREATS,C0751967,"Multiple Sclerosis, Relapsing-Remitting"
+"[2973, 9, 241]",[1.0791540994148363e-09],C0022265,isotretinoin,TREATS,C0002395,Alzheimer's Disease
+"[1246, 9, 187]",[1.0743375078448025e-09],C0009170,cocaine,TREATS,C0001973,"Alcoholic Intoxication, Chronic"
+"[6060, 9, 532]",[1.0676491912775532e-09],C0055147,cetirizine,TREATS,C0004096,Asthma
+"[10690, 9, 4822]",[1.065286414636546e-09],C0377265,levetiracetam,TREATS,C0036341,Schizophrenia
+"[789, 9, 1363]",[1.046290831752117e-09],C0006246,brompheniramine,TREATS,C0010200,Coughing
+"[3761, 9, 3835]",[1.0155775109765841e-09],C0028027,nicotinamide,TREATS,C0028754,Obesity
+"[5229, 9, 2468]",[1.0029495012275902e-09],C0039601,testosterone,TREATS,C0018801,Heart failure
+"[6979, 9, 11445]",[9.973419867748134e-10],C0078839,zolpidem,TREATS,C0497327,Dementia
+"[13114, 9, 2469]",[9.824590030405034e-10],C0766326,dronedarone,TREATS,C0018802,Congestive heart failure
+"[1416, 9, 3356]",[9.823352131732577e-10],C0010583,cyclophosphamide,TREATS,C0025202,melanoma
+"[13345, 9, 2468]",[9.612496354449718e-10],C0795635,insulin human,TREATS,C0018801,Heart failure
+"[3012, 9, 687]",[9.405336509615836e-10],C0022614,ketamine,TREATS,C0005586,Bipolar Disorder
+"[3503, 9, 4822]",[9.365928033133741e-10],C0026056,midazolam,TREATS,C0036341,Schizophrenia
+"[4979, 9, 3579]",[9.352532082118614e-10],C0037659,somatostatin,TREATS,C0026764,Multiple Myeloma
+"[14468, 9, 869]",[9.183245830435283e-10],C1145701,amphotericin B liposomal,TREATS,C0006840,Candidiasis
+"[13991, 9, 4033]",[8.992810940355866e-10],C0937846,esomeprazole,TREATS,C0030567,Parkinson Disease
+"[6815, 9, 1248]",[8.875415957732002e-10],C0074393,sertraline,TREATS,C0009186,Coccidioidomycosis
+"[3211, 9, 1907]",[8.856373412413632e-10],C0024002,lorazepam,TREATS,C0014544,Epilepsy
+"[6305, 9, 12851]",[8.752871205608415e-10],C0060507,fluocinolone,TREATS,C0730285,Macular edema due to diabetes mellitus
+"[6260, 9, 3579]",[8.484798419416961e-10],C0059865,etodolac,TREATS,C0026764,Multiple Myeloma
+"[6823, 9, 539]",[8.265294559883785e-10],C0074554,simvastatin,TREATS,C0004153,Atherosclerosis
+"[2535, 9, 3726]",[8.240770288381327e-10],C0019134,heparin,TREATS,C0027819,Neuroblastoma
+"[6966, 9, 4822]",[8.170745191549145e-10],C0078569,venlafaxine,TREATS,C0036341,Schizophrenia
+"[5940, 9, 14779]",[8.052380984224783e-10],C0052796,azithromycin,TREATS,C1275684,Meibomian gland dysfunction
+"[10722, 9, 3230]",[7.768670151619972e-10],C0383429,alemtuzumab,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[2182, 9, 506]",[7.678650493225803e-10],C0016410,folic acid,TREATS,C0003873,Rheumatoid Arthritis
+"[6326, 9, 4822]",[7.65814078818039e-10],C0060926,gabapentin,TREATS,C0036341,Schizophrenia
+"[6909, 9, 4033]",[7.599751938869304e-10],C0076829,topiramate,TREATS,C0030567,Parkinson Disease
+"[5709, 9, 1380]",[7.462943596436844e-10],C0042874,Vitamin E,TREATS,C0010346,Crohn Disease
+"[10030, 9, 4489]",[7.422893411046516e-10],C0286651,atorvastatin,TREATS,C0033860,Psoriasis
+"[7543, 9, 532]",[7.235848031861281e-10],C0123677,insulin aspart,TREATS,C0004096,Asthma
+"[14454, 9, 9300]",[7.133811319448569e-10],C1142933,rimonabant,TREATS,C0242339,Dyslipidemias
+"[18253, 9, 4489]",[6.80886458326313e-10],C4740830,adalimumab-adaz,TREATS,C0033860,Psoriasis
+"[4364, 9, 1549]",[6.749250047732858e-10],C0032952,prednisone,TREATS,C0011633,Dermatomyositis
+"[5898, 9, 9600]",[6.703162469534618e-10],C0051696,amlodipine,TREATS,C0264716,Chronic heart failure
+"[5138, 9, 11445]",[6.637150828936456e-10],C0038803,sulpiride,TREATS,C0497327,Dementia
+"[4364, 9, 1928]",[6.611049485627518e-10],C0032952,prednisone,TREATS,C0014733,Erysipelas
+"[11666, 9, 506]",[6.510617600596902e-10],C0541315,everolimus,TREATS,C0003873,Rheumatoid Arthritis
+"[16048, 9, 3726]",[6.212135805760965e-10],C1619629,deferasirox,TREATS,C0027819,Neuroblastoma
+"[13153, 9, 3579]",[6.170224331469853e-10],C0770565,dexamethasone phosphate,TREATS,C0026764,Multiple Myeloma
+"[17397, 9, 3579]",[6.146215758562334e-10],C3657270,nivolumab,TREATS,C0026764,Multiple Myeloma
+"[1472, 9, 3281]",[5.981483641726015e-10],C0010980,dapsone,TREATS,C0024530,Malaria
+"[3359, 9, 4822]",[5.915685163948581e-10],C0025219,melatonin,TREATS,C0036341,Schizophrenia
+"[6631, 9, 927]",[5.459377949712518e-10],C0069717,oxaliplatin,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[1260, 9, 532]",[5.399108937709229e-10],C0009262,colchicine,TREATS,C0004096,Asthma
+"[4440, 9, 5085]",[5.386748824776078e-10],C0033497,propranolol,TREATS,C0038436,Post-Traumatic Stress Disorder
+"[1598, 9, 2715]",[5.33904143118491e-10],C0012022,diazoxide,TREATS,C0020557,Hypertriglyceridemia
+"[13199, 9, 1380]",[5.272200453987352e-10],C0771204,anhydrous tacrolimus,TREATS,C0010346,Crohn Disease
+"[3459, 9, 1380]",[5.226069577091152e-10],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0010346,Crohn Disease
+"[4363, 9, 1430]",[5.206236552979249e-10],C0032950,prednisolone,TREATS,C0010674,Cystic Fibrosis
+"[6979, 9, 4822]",[5.090158849974102e-10],C0078839,zolpidem,TREATS,C0036341,Schizophrenia
+"[11600, 9, 3579]",[4.923965679637377e-10],C0525079,bendamustine,TREATS,C0026764,Multiple Myeloma
+"[12316, 9, 926]",[4.724700075620092e-10],C0671970,capecitabine,TREATS,C0007129,Merkel cell carcinoma
+"[7100, 9, 11445]",[4.667451425355296e-10],C0080356,valproate,TREATS,C0497327,Dementia
+"[7491, 9, 4127]",[4.6488413119050165e-10],C0110038,clavulanate,TREATS,C0031154,Peritonitis
+"[3458, 9, 3579]",[4.4525394482519687e-10],C0025815,methylprednisolone,TREATS,C0026764,Multiple Myeloma
+"[18696, 9, 11445]",[4.4211040384212197e-10],C5709333,NRL-1,TREATS,C0497327,Dementia
+"[2366, 9, 4822]",[4.301106137916122e-10],C0017890,glycine,TREATS,C0036341,Schizophrenia
+"[7657, 9, 930]",[4.2665049271306543e-10],C0144576,paclitaxel,TREATS,C0007137,Squamous cell carcinoma
+"[14135, 9, 3281]",[4.106487927479918e-10],C0965129,rosuvastatin,TREATS,C0024530,Malaria
+"[3801, 9, 4033]",[3.8644049071834274e-10],C0028351,norepinephrine,TREATS,C0030567,Parkinson Disease
+"[518, 9, 3579]",[3.7075265080233066e-10],C0003968,ascorbic acid,TREATS,C0026764,Multiple Myeloma
+"[6767, 9, 927]",[3.6070899045448357e-10],C0072980,sirolimus,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[4090, 9, 3579]",[3.5754840754798067e-10],C0030896,pentostatin,TREATS,C0026764,Multiple Myeloma
+"[3424, 9, 9300]",[3.420758121208678e-10],C0025598,metformin,TREATS,C0242339,Dyslipidemias
+"[13806, 9, 546]",[3.324695518891474e-10],C0887557,sodium ascorbate,TREATS,C0004238,Atrial Fibrillation
+"[6767, 9, 4069]",[3.2034105923450795e-10],C0072980,sirolimus,TREATS,C0030807,Pemphigus
+"[3780, 9, 17040]",[3.18702675361493e-10],C0028128,nitric oxide,TREATS,C2973725,Pulmonary arterial hypertension
+"[13345, 9, 532]",[3.1139454903517105e-10],C0795635,insulin human,TREATS,C0004096,Asthma
+"[6823, 9, 1578]",[2.8285176978393167e-10],C0074554,simvastatin,TREATS,C0011849,Diabetes Mellitus
+"[1361, 9, 3835]",[2.623281314395598e-10],C0010192,tetracosactide,TREATS,C0028754,Obesity
+"[1563, 9, 9308]",[2.5345842091795134e-10],C0011777,dexamethasone,TREATS,C0242383,Age related macular degeneration
+"[3505, 9, 241]",[2.300127449617051e-10],C0026088,mifepristone,TREATS,C0002395,Alzheimer's Disease
+"[2169, 9, 3983]",[2.162659357152208e-10],C0016360,fluorouracil,TREATS,C0030193,Pain
+"[810, 9, 3915]",[1.8078041841285142e-10],C0006405,buprenorphine,TREATS,C0029408,Degenerative polyarthritis
+"[12280, 9, 4822]",[1.792342940731828e-10],C0657912,pregabalin,TREATS,C0036341,Schizophrenia
+"[7182, 9, 5070]",[1.7474185987076396e-10],C0085174,misoprostol,TREATS,C0038358,Gastric ulcer
+"[6558, 9, 4917]",[1.7185149137066702e-10],C0066700,mometasone furoate,TREATS,C0037199,Sinusitis
+"[5832, 9, 187]",[1.6520163015343314e-10],C0048044,vigabatrin,TREATS,C0001973,"Alcoholic Intoxication, Chronic"
+"[2182, 9, 4489]",[1.5377732420773782e-10],C0016410,folic acid,TREATS,C0033860,Psoriasis
+"[1218, 9, 4822]",[1.4448348073514694e-10],C0009010,clomipramine,TREATS,C0036341,Schizophrenia
+"[2535, 9, 3579]",[1.352788714381603e-10],C0019134,heparin,TREATS,C0026764,Multiple Myeloma
+"[13362, 9, 3579]",[1.2046130759557627e-10],C0796392,bevacizumab,TREATS,C0026764,Multiple Myeloma
+"[3761, 9, 3726]",[7.235245735870421e-11],C0028027,nicotinamide,TREATS,C0027819,Neuroblastoma
+"[6326, 9, 11445]",[5.6246854396313495e-11],C0060926,gabapentin,TREATS,C0497327,Dementia
+"[1496, 9, 3281]",[5.231792776783095e-11],C0011185,prasterone,TREATS,C0024530,Malaria
+"[3761, 9, 4489]",[4.721378843441926e-11],C0028027,nicotinamide,TREATS,C0033860,Psoriasis
+"[11643, 9, 532]",[3.596427322616336e-11],C0536495,moxifloxacin,TREATS,C0004096,Asthma
+"[3460, 9, 2468]",[3.385746544237733e-11],C0025826,methyltestosterone,TREATS,C0018801,Heart failure
+"[8976, 9, 3579]",[3.2363056678974544e-11],C0209368,mycophenolate mofetil,TREATS,C0026764,Multiple Myeloma
+"[6450, 9, 11445]",[3.1075378381650864e-11],C0064636,lamotrigine,TREATS,C0497327,Dementia
+"[13345, 9, 3835]",[2.4951062049805017e-11],C0795635,insulin human,TREATS,C0028754,Obesity
+"[11623, 9, 2469]",[2.424700717984507e-11],C0529793,sildenafil,TREATS,C0018802,Congestive heart failure
+"[3956, 9, 11445]",[2.2379320618881593e-11],C0029997,oxazepam,TREATS,C0497327,Dementia
+"[1914, 9, 532]",[1.9611104407069035e-11],C0014563,epinephrine,TREATS,C0004096,Asthma
+"[18696, 9, 4822]",[1.851840902844515e-11],C5709333,NRL-1,TREATS,C0036341,Schizophrenia
+"[3801, 9, 214]",[-6.527112184073758e-12],C0028351,norepinephrine,TREATS,C0002170,Alopecia
+"[276, 9, 13889]",[-1.262984161698455e-11],C0002600,amitriptyline,TREATS,C0917801,Sleeplessness
+"[2086, 9, 8418]",[-8.762590653077496e-11],C0015846,fentanyl,TREATS,C0184567,Acute onset pain
+"[5272, 9, 3726]",[-9.545803036914435e-11],C0039871,thiotepa,TREATS,C0027819,Neuroblastoma
+"[7536, 9, 11445]",[-1.0007772388576086e-10],C0123091,quetiapine,TREATS,C0497327,Dementia
+"[15512, 9, 930]",[-1.0225834068400275e-10],C1506770,lapatinib,TREATS,C0007137,Squamous cell carcinoma
+"[5447, 9, 4822]",[-1.0689366058969085e-10],C0040805,trazodone,TREATS,C0036341,Schizophrenia
+"[3458, 9, 1430]",[-1.133307198086797e-10],C0025815,methylprednisolone,TREATS,C0010674,Cystic Fibrosis
+"[3843, 9, 4356]",[-1.5535245312392476e-10],C0028833,octreotide,TREATS,C0032897,Prader-Willi Syndrome
+"[518, 9, 546]",[-1.6970574945318617e-10],C0003968,ascorbic acid,TREATS,C0004238,Atrial Fibrillation
+"[9018, 9, 3621]",[-1.8969625870113305e-10],C0218640,lenograstim,TREATS,C0027051,Myocardial Infarction
+"[6787, 9, 241]",[-1.9120105498870998e-10],C0073393,risperidone,TREATS,C0002395,Alzheimer's Disease
+"[3424, 9, 930]",[-1.922630665784908e-10],C0025598,metformin,TREATS,C0007137,Squamous cell carcinoma
+"[15512, 9, 3356]",[-1.938512961263683e-10],C1506770,lapatinib,TREATS,C0025202,melanoma
+"[6652, 9, 539]",[-1.9779347604220732e-10],C0070166,clopidogrel,TREATS,C0004153,Atherosclerosis
+"[5670, 9, 14038]",[-2.0758728069836252e-10],C0042523,verapamil,TREATS,C0948008,Ischemic stroke
+"[12280, 9, 11445]",[-2.1172218145348864e-10],C0657912,pregabalin,TREATS,C0497327,Dementia
+"[10788, 9, 3579]",[-2.142494237578063e-10],C0392938,zoledronate,TREATS,C0026764,Multiple Myeloma
+"[567, 9, 3579]",[-2.147167998955979e-10],C0004475,azacitidine,TREATS,C0026764,Multiple Myeloma
+"[3876, 9, 4822]",[-2.473630189570031e-10],C0029105,opipramol,TREATS,C0036341,Schizophrenia
+"[6048, 9, 1907]",[-2.475648297473043e-10],C0054836,carvedilol,TREATS,C0014544,Epilepsy
+"[15981, 9, 4822]",[-2.5281143845035103e-10],C1569608,varenicline,TREATS,C0036341,Schizophrenia
+"[1238, 9, 11445]",[-2.648278818462302e-10],C0009079,clozapine,TREATS,C0497327,Dementia
+"[16055, 9, 1380]",[-3.0290830954626813e-10],C1619966,abatacept,TREATS,C0010346,Crohn Disease
+"[1981, 9, 1866]",[-3.158147077186868e-10],C0015011,ethinylestradiol,TREATS,C0014175,Endometriosis
+"[3459, 9, 11393]",[-3.167651696500684e-10],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0474368,Labor Pain
+"[4558, 9, 929]",[-3.333463505228451e-10],C0034403,mepacrine,TREATS,C0007134,Renal Cell Carcinoma
+"[1207, 9, 3281]",[-3.5024921851700697e-10],C0008947,clindamycin,TREATS,C0024530,Malaria
+"[5898, 9, 2690]",[-3.584870178485744e-10],C0051696,amlodipine,TREATS,C0020473,Hyperlipidemia
+"[1146, 9, 2715]",[-3.68536201555969e-10],C0008405,choline,TREATS,C0020557,Hypertriglyceridemia
+"[3665, 9, 502]",[-3.761361777598893e-10],C0027396,naproxen,TREATS,C0003864,Arthritis
+"[47, 9, 2468]",[-3.843297069483498e-10],C0000981,acetazolamide,TREATS,C0018801,Heart failure
+"[4364, 9, 539]",[-4.4303061219608253e-10],C0032952,prednisone,TREATS,C0004153,Atherosclerosis
+"[3801, 9, 2737]",[-4.5715070617902143e-10],C0028351,norepinephrine,TREATS,C0020651,"Hypotension, Orthostatic"
+"[1416, 9, 927]",[-4.693855304438443e-10],C0010583,cyclophosphamide,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[8976, 9, 7056]",[-4.803076825155017e-10],C0209368,mycophenolate mofetil,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[784, 9, 4822]",[-5.006879355562432e-10],C0006213,bromazepam,TREATS,C0036341,Schizophrenia
+"[1563, 9, 929]",[-5.097139932352945e-10],C0011777,dexamethasone,TREATS,C0007134,Renal Cell Carcinoma
+"[14454, 9, 1580]",[-5.113520717969777e-10],C1142933,rimonabant,TREATS,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent"
+"[272, 9, 7056]",[-5.223835808365607e-10],C0002583,aminopterin,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[7446, 9, 11445]",[-5.226326038609841e-10],C0103045,amisulpride,TREATS,C0497327,Dementia
+"[185, 9, 3591]",[-5.333750108249546e-10],C0001962,ethanol,TREATS,C0026838,Muscle Spasticity
+"[58, 9, 3230]",[-5.481576303978386e-10],C0001047,acetylcysteine,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[1108, 9, 3579]",[-5.523391743977868e-10],C0008269,chloroquine,TREATS,C0026764,Multiple Myeloma
+"[14942, 9, 4822]",[-5.974860606272614e-10],C1311233,Harkoseride,TREATS,C0036341,Schizophrenia
+"[808, 9, 5387]",[-6.279320396984645e-10],C0006400,bupivacaine,TREATS,C0040460,Toothache
+"[14605, 9, 2468]",[-6.323692680609838e-10],C1176316,tadalafil,TREATS,C0018801,Heart failure
+"[3467, 9, 12851]",[-6.454725642868198e-10],C0025859,metoprolol,TREATS,C0730285,Macular edema due to diabetes mellitus
+"[3359, 9, 2468]",[-6.697683518908093e-10],C0025219,melatonin,TREATS,C0018801,Heart failure
+"[4440, 9, 12498]",[-6.754749537485338e-10],C0033497,propranolol,TREATS,C0686347,Tardive Dyskinesia
+"[16764, 9, 3579]",[-6.836029520229658e-10],C2699562,dasatinib anhydrous,TREATS,C0026764,Multiple Myeloma
+"[11643, 9, 241]",[-6.950049424858662e-10],C0536495,moxifloxacin,TREATS,C0002395,Alzheimer's Disease
+"[5940, 9, 708]",[-7.192193507421507e-10],C0052796,azithromycin,TREATS,C0005743,Blepharoconjunctivitis
+"[3359, 9, 1546]",[-7.558396686313529e-10],C0025219,melatonin,TREATS,C0011615,"Dermatitis, Atopic"
+"[9486, 9, 532]",[-7.936394874619168e-10],C0252643,bosentan,TREATS,C0004096,Asthma
+"[3424, 9, 546]",[-8.131655349075118e-10],C0025598,metformin,TREATS,C0004238,Atrial Fibrillation
+"[4363, 9, 3579]",[-8.227679648697972e-10],C0032950,prednisolone,TREATS,C0026764,Multiple Myeloma
+"[2592, 9, 7733]",[-8.333738144017389e-10],C0019588,histamine,TREATS,C0149931,Migraine Disorders
+"[6631, 9, 3726]",[-8.345621971272976e-10],C0069717,oxaliplatin,TREATS,C0027819,Neuroblastoma
+"[256, 9, 698]",[-8.640976822960056e-10],C0002475,mitomycin,TREATS,C0005684,Malignant neoplasm of urinary bladder
+"[6227, 9, 3579]",[-8.68483063243275e-10],C0059364,enocitabine,TREATS,C0026764,Multiple Myeloma
+"[10722, 9, 3726]",[-8.703439080548492e-10],C0383429,alemtuzumab,TREATS,C0027819,Neuroblastoma
+"[4363, 9, 11563]",[-8.747622071147987e-10],C0032950,prednisolone,TREATS,C0524662,Opiate Addiction
+"[6474, 9, 506]",[-8.807822804435261e-10],C0065180,loratadine,TREATS,C0003873,Rheumatoid Arthritis
+"[1420, 9, 3726]",[-8.932797279648241e-10],C0010592,ciclosporin,TREATS,C0027819,Neuroblastoma
+"[13199, 9, 3726]",[-9.074726525781784e-10],C0771204,anhydrous tacrolimus,TREATS,C0027819,Neuroblastoma
+"[2535, 9, 813]",[-9.150463720075663e-10],C0019134,heparin,TREATS,C0006434,Burn injury
+"[2673, 9, 4822]",[-9.470346729045787e-10],C0020404,hydroxyzine,TREATS,C0036341,Schizophrenia
+"[3139, 9, 2735]",[-9.54903489613912e-10],C0023570,levodopa,TREATS,C0020649,Hypotension
+"[6767, 9, 3119]",[-9.902136888229052e-10],C0072980,sirolimus,TREATS,C0023473,"Myeloid Leukemia, Chronic"
+"[6317, 9, 241]",[-9.98541360708316e-10],C0060657,formoterol,TREATS,C0002395,Alzheimer's Disease
+"[6767, 9, 930]",[-1.0102044756266082e-09],C0072980,sirolimus,TREATS,C0007137,Squamous cell carcinoma
+"[11643, 9, 3726]",[-1.0195196908924231e-09],C0536495,moxifloxacin,TREATS,C0027819,Neuroblastoma
+"[12259, 9, 3579]",[-1.0197005462231346e-09],C0620902,6-O-methylerythromycin A,TREATS,C0026764,Multiple Myeloma
+"[17386, 9, 14038]",[-1.022899653868592e-09],C3653122,cromoglicic acid,TREATS,C0948008,Ischemic stroke
+"[12568, 9, 687]",[-1.0407672501600018e-09],C0700189,Lithonate,TREATS,C0005586,Bipolar Disorder
+"[4545, 9, 12498]",[-1.041496999754088e-09],C0034272,pyridoxine,TREATS,C0686347,Tardive Dyskinesia
+"[4157, 9, 11445]",[-1.0433750530225439e-09],C0031412,phenobarbital,TREATS,C0497327,Dementia
+"[886, 9, 11445]",[-1.0445737608222316e-09],C0006949,carbamazepine,TREATS,C0497327,Dementia
+"[1563, 9, 3835]",[-1.0579691567258465e-09],C0011777,dexamethasone,TREATS,C0028754,Obesity
+"[229, 9, 11445]",[-1.065542321043722e-09],C0002333,alprazolam,TREATS,C0497327,Dementia
+"[3212, 9, 3356]",[-1.0845107034640478e-09],C0024027,lovastatin,TREATS,C0025202,melanoma
+"[6060, 9, 4069]",[-1.0896230584478417e-09],C0055147,cetirizine,TREATS,C0030807,Pemphigus
+"[3843, 9, 3726]",[-1.1141263467351337e-09],C0028833,octreotide,TREATS,C0027819,Neuroblastoma
+"[3780, 9, 4288]",[-1.114985548333891e-09],C0028128,nitric oxide,TREATS,C0032285,Pneumonia
+"[7491, 9, 4917]",[-1.1496560370360953e-09],C0110038,clavulanate,TREATS,C0037199,Sinusitis
+"[10078, 9, 11445]",[-1.1523065834850854e-09],C0299792,aripiprazole,TREATS,C0497327,Dementia
+"[6517, 9, 11445]",[-1.1526419818608247e-09],C0065879,megestrol acetate,TREATS,C0497327,Dementia
+"[9451, 9, 930]",[-1.1548169087660654e-09],C0246415,docetaxel,TREATS,C0007137,Squamous cell carcinoma
+"[58, 9, 5085]",[-1.1927960841262575e-09],C0001047,acetylcysteine,TREATS,C0038436,Post-Traumatic Stress Disorder
+"[11600, 9, 15817]",[-1.2052447928567744e-09],C0525079,bendamustine,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[6450, 9, 4822]",[-1.2409944183389143e-09],C0064636,lamotrigine,TREATS,C0036341,Schizophrenia
+"[16018, 9, 5617]",[-1.2671057536550734e-09],C1608841,ustekinumab,TREATS,C0042164,Uveitis
+"[2329, 9, 3835]",[-1.276563743601855e-09],C0017687,glucagon,TREATS,C0028754,Obesity
+"[14603, 9, 927]",[-1.302602803399111e-09],C1176309,bortezomib,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[3963, 9, 3915]",[-1.3076895122310361e-09],C0030049,oxycodone,TREATS,C0029408,Degenerative polyarthritis
+"[13341, 9, 3119]",[-1.3546289645560705e-09],C0795597,cytarabine liposome,TREATS,C0023473,"Myeloid Leukemia, Chronic"
+"[1712, 9, 532]",[-1.3670493625994595e-09],C0012963,dobutamine,TREATS,C0004096,Asthma
+"[11666, 9, 930]",[-1.373786195912885e-09],C0541315,everolimus,TREATS,C0007137,Squamous cell carcinoma
+"[14370, 9, 4489]",[-1.3930503417469708e-09],C1135135,erlotinib,TREATS,C0033860,Psoriasis
+"[12280, 9, 2568]",[-1.3960342881702559e-09],C0657912,pregabalin,TREATS,C0019360,Herpes zoster disease
+"[9018, 9, 3726]",[-1.4037330187122166e-09],C0218640,lenograstim,TREATS,C0027819,Neuroblastoma
+"[1420, 9, 3579]",[-1.4074779119965797e-09],C0010592,ciclosporin,TREATS,C0026764,Multiple Myeloma
+"[9444, 9, 4822]",[-1.407744920634002e-09],C0245561,duloxetine,TREATS,C0036341,Schizophrenia
+"[5709, 9, 539]",[-1.4235055356692783e-09],C0042874,Vitamin E,TREATS,C0004153,Atherosclerosis
+"[15965, 9, 1579]",[-1.4324277319843759e-09],C1565750,sitagliptin,TREATS,C0011854,"Diabetes Mellitus, Insulin-Dependent"
+"[7536, 9, 9662]",[-1.454792064592425e-09],C0123091,quetiapine,TREATS,C0270549,Generalized Anxiety Disorder
+"[12822, 9, 927]",[-1.4563469319384126e-09],C0728747,trastuzumab,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[5845, 9, 11445]",[-1.4679875093293049e-09],C0049506,mirtazapine,TREATS,C0497327,Dementia
+"[8108, 9, 11445]",[-1.4715305640677911e-09],C0171023,olanzapine,TREATS,C0497327,Dementia
+"[17351, 9, 2113]",[-1.4965636507824343e-09],C3541367,levomilnacipran,TREATS,C0016053,Fibromyalgia
+"[3762, 9, 11493]",[-1.5123153840335135e-09],C0028040,nicotine,TREATS,C0520909,Postoperative Nausea and Vomiting
+"[5670, 9, 2468]",[-1.567199925389673e-09],C0042523,verapamil,TREATS,C0018801,Heart failure
+"[3149, 9, 5090]",[-1.5867153146942314e-09],C0023660,lidocaine,TREATS,C0038454,Cerebrovascular accident
+"[14344, 9, 526]",[-1.5870004199669552e-09],C1120386,micafungin,TREATS,C0004030,Aspergillosis
+"[3346, 9, 3230]",[-1.6001198144266482e-09],C0025147,medroxyprogesterone,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[4424, 9, 1363]",[-1.6372445621470888e-09],C0033405,promethazine,TREATS,C0010200,Coughing
+"[685, 9, 546]",[-1.6506005451333294e-09],C0005575,biotin,TREATS,C0004238,Atrial Fibrillation
+"[3445, 9, 322]",[-1.6675243408315055e-09],C0025677,methotrexate,TREATS,C0002874,Aplastic Anemia
+"[5730, 9, 2709]",[-1.6863122009880271e-09],C0043031,warfarin,TREATS,C0020542,Pulmonary Hypertension
+"[3862, 9, 4033]",[-1.690719786395789e-09],C0028978,omeprazole,TREATS,C0030567,Parkinson Disease
+"[4403, 9, 3835]",[-1.695342977114933e-09],C0033228,fenofibrate,TREATS,C0028754,Obesity
+"[15969, 9, 5617]",[-1.7007093511267612e-09],C1566537,ranibizumab,TREATS,C0042164,Uveitis
+"[4090, 9, 10314]",[-1.7015502340456123e-09],C0030896,pentostatin,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[3780, 9, 7902]",[-1.707424424068904e-09],C0028128,nitric oxide,TREATS,C0155626,Acute myocardial infarction
+"[17174, 9, 3579]",[-1.7276819974654245e-09],C3256601,calcium ascorbate anhydrous,TREATS,C0026764,Multiple Myeloma
+"[3149, 9, 7739]",[-1.7386568851307516e-09],C0023660,lidocaine,TREATS,C0150055,Chronic pain
+"[258, 9, 1430]",[-1.753014733374414e-09],C0002499,amikacin,TREATS,C0010674,Cystic Fibrosis
+"[3784, 9, 4531]",[-1.8046037997265785e-09],C0028156,nitrofurantoin,TREATS,C0034186,Pyelonephritis
+"[14589, 9, 3579]",[-1.8231065546103764e-09],C1172734,natalizumab,TREATS,C0026764,Multiple Myeloma
+"[14454, 9, 4822]",[-1.8233098364461853e-09],C1142933,rimonabant,TREATS,C0036341,Schizophrenia
+"[1192, 9, 1380]",[-1.837805796434111e-09],C0008809,ciprofloxacin,TREATS,C0010346,Crohn Disease
+"[1197, 9, 5085]",[-1.8525829759141743e-09],C0008845,citalopram,TREATS,C0038436,Post-Traumatic Stress Disorder
+"[1124, 9, 3835]",[-1.872552779502712e-09],C0008318,colecalciferol,TREATS,C0028754,Obesity
+"[1124, 9, 532]",[-1.894449264128184e-09],C0008318,colecalciferol,TREATS,C0004096,Asthma
+"[13199, 9, 539]",[-1.9221906288890978e-09],C0771204,anhydrous tacrolimus,TREATS,C0004153,Atherosclerosis
+"[3460, 9, 3930]",[-1.940751115370176e-09],C0025826,methyltestosterone,TREATS,C0029456,Osteoporosis
+"[6767, 9, 3579]",[-1.942638050422829e-09],C0072980,sirolimus,TREATS,C0026764,Multiple Myeloma
+"[2169, 9, 8952]",[-1.9569568188160247e-09],C0016360,fluorouracil,TREATS,C0206754,Neuroendocrine Tumors
+"[1563, 9, 7734]",[-1.958682771530107e-09],C0011777,dexamethasone,TREATS,C0149948,Acute otitis externa
+"[16542, 9, 3915]",[-1.960965612113341e-09],C2001271,tapentadol,TREATS,C0029408,Degenerative polyarthritis
+"[10046, 9, 1578]",[-1.9946135854098657e-09],C0289313,rosiglitazone,TREATS,C0011849,Diabetes Mellitus
+"[3212, 9, 506]",[-2.0041928117109364e-09],C0024027,lovastatin,TREATS,C0003873,Rheumatoid Arthritis
+"[12700, 9, 3119]",[-2.038936575132766e-09],C0717668,daunorubicin liposomal,TREATS,C0023473,"Myeloid Leukemia, Chronic"
+"[6796, 9, 2468]",[-2.0461143890315725e-09],C0073633,ranolazine,TREATS,C0018801,Heart failure
+"[5872, 9, 532]",[-2.0681940604561078e-09],C0050940,lansoprazole,TREATS,C0004096,Asthma
+"[4176, 9, 11445]",[-2.1055854837470633e-09],C0031507,phenytoin,TREATS,C0497327,Dementia
+"[817, 9, 3579]",[-2.1277726247603823e-09],C0006463,busulfan,TREATS,C0026764,Multiple Myeloma
+"[3459, 9, 3581]",[-2.1295283314515245e-09],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0026769,Multiple Sclerosis
+"[5493, 9, 11445]",[-2.1300616825925545e-09],C0041056,trimipramine,TREATS,C0497327,Dementia
+"[567, 9, 930]",[-2.136747667691452e-09],C0004475,azacitidine,TREATS,C0007137,Squamous cell carcinoma
+"[7202, 9, 4822]",[-2.1741390909824077e-09],C0085228,fluvoxamine,TREATS,C0036341,Schizophrenia
+"[4205, 9, 2715]",[-2.1992734300368966e-09],C0031716,phosphorylcholine,TREATS,C0020557,Hypertriglyceridemia
+"[7219, 9, 3579]",[-2.20951101859157e-09],C0085272,leuprorelin,TREATS,C0026764,Multiple Myeloma
+"[2753, 9, 7056]",[-2.261026033067992e-09],C0020823,ifosfamide,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[8095, 9, 4822]",[-2.2839907742877585e-09],C0168388,reboxetine,TREATS,C0036341,Schizophrenia
+"[2765, 9, 4822]",[-2.290742484589714e-09],C0020934,imipramine,TREATS,C0036341,Schizophrenia
+"[14605, 9, 3579]",[-2.312425362305248e-09],C1176316,tadalafil,TREATS,C0026764,Multiple Myeloma
+"[6908, 9, 4822]",[-2.321951519945742e-09],C0076823,atomoxetine,TREATS,C0036341,Schizophrenia
+"[6909, 9, 2715]",[-2.3337440868687054e-09],C0076829,topiramate,TREATS,C0020557,Hypertriglyceridemia
+"[2434, 9, 11445]",[-2.357821493603751e-09],C0018546,haloperidol,TREATS,C0497327,Dementia
+"[5922, 9, 4311]",[-2.3586164132893828e-09],C0052416,arsenic trioxide,TREATS,C0032463,Polycythemia Vera
+"[6966, 9, 11445]",[-2.4037378754115934e-09],C0078569,venlafaxine,TREATS,C0497327,Dementia
+"[13199, 9, 322]",[-2.418725664199428e-09],C0771204,anhydrous tacrolimus,TREATS,C0002874,Aplastic Anemia
+"[6796, 9, 14039]",[-2.4298998368976754e-09],C0073633,ranolazine,TREATS,C0948089,Acute Coronary Syndrome
+"[13991, 9, 1430]",[-2.4491224603906403e-09],C0937846,esomeprazole,TREATS,C0010674,Cystic Fibrosis
+"[1563, 9, 15817]",[-2.4558302058608206e-09],C0011777,dexamethasone,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[14303, 9, 3621]",[-2.4776594109710004e-09],C1098510,fondaparinux,TREATS,C0027051,Myocardial Infarction
+"[10690, 9, 11445]",[-2.4950683741309376e-09],C0377265,levetiracetam,TREATS,C0497327,Dementia
+"[2363, 9, 5480]",[-2.5038824347234367e-09],C0017861,glycerol,TREATS,C0040997,Trigeminal Neuralgia
+"[272, 9, 927]",[-2.516614916459048e-09],C0002583,aminopterin,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[13109, 9, 3579]",[-2.5170923123596367e-09],C0765273,bexarotene,TREATS,C0026764,Multiple Myeloma
+"[6864, 9, 3726]",[-2.5185853402831526e-09],C0076080,temozolomide,TREATS,C0027819,Neuroblastoma
+"[3211, 9, 4822]",[-2.5474997666918853e-09],C0024002,lorazepam,TREATS,C0036341,Schizophrenia
+"[3276, 9, 532]",[-2.5588928753705886e-09],C0024480,magnesium sulfate,TREATS,C0004096,Asthma
+"[2765, 9, 11445]",[-2.5611475162889974e-09],C0020934,imipramine,TREATS,C0497327,Dementia
+"[8095, 9, 11445]",[-2.5753930099625677e-09],C0168388,reboxetine,TREATS,C0497327,Dementia
+"[5213, 9, 4822]",[-2.5864150821064413e-09],C0039468,temazepam,TREATS,C0036341,Schizophrenia
+"[9429, 9, 3726]",[-2.5882123111387045e-09],C0244656,fosphenytoin,TREATS,C0027819,Neuroblastoma
+"[8067, 9, 15797]",[-2.596534098842085e-09],C0165032,imiquimod,TREATS,C1527383,Morphea
+"[3644, 9, 532]",[-2.6314173062758073e-09],C0027235,ipratropium,TREATS,C0004096,Asthma
+"[10747, 9, 4127]",[-2.6567192890070146e-09],C0389169,doripenem,TREATS,C0031154,Peritonitis
+"[4403, 9, 3579]",[-2.6642124062448147e-09],C0033228,fenofibrate,TREATS,C0026764,Multiple Myeloma
+"[4090, 9, 2617]",[-2.6648590001343564e-09],C0030896,pentostatin,TREATS,C0019829,Hodgkin Disease
+"[14135, 9, 9319]",[-2.6692692500773774e-09],C0965129,rosuvastatin,TREATS,C0242488,Acute Lung Injury
+"[13345, 9, 1578]",[-2.708419932773154e-09],C0795635,insulin human,TREATS,C0011849,Diabetes Mellitus
+"[3610, 9, 3579]",[-2.720201841555081e-09],C0026933,mycophenolic acid,TREATS,C0026764,Multiple Myeloma
+"[12705, 9, 3930]",[-2.727452708128908e-09],C0717758,etanercept,TREATS,C0029456,Osteoporosis
+"[3276, 9, 3983]",[-2.7341475750120026e-09],C0024480,magnesium sulfate,TREATS,C0030193,Pain
+"[1000, 9, 517]",[-2.74755751483724e-09],C0007559,ceftazidime,TREATS,C0003962,Ascites
+"[11647, 9, 3835]",[-2.748526073403923e-09],C0537270,insulin detemir,TREATS,C0028754,Obesity
+"[3809, 9, 3249]",[-2.7570428162704275e-09],C0028426,noscapine,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[5250, 9, 5617]",[-2.762073680884214e-09],C0039736,thalidomide,TREATS,C0042164,Uveitis
+"[1563, 9, 3681]",[-2.823967282239437e-09],C0011777,dexamethasone,TREATS,C0027498,Nausea and vomiting
+"[2665, 9, 929]",[-2.8392959094958314e-09],C0020336,hydroxychloroquine,TREATS,C0007134,Renal Cell Carcinoma
+"[5869, 9, 3356]",[-2.8488156278427823e-09],C0050559,acitretin,TREATS,C0025202,melanoma
+"[3424, 9, 927]",[-2.8575610766523596e-09],C0025598,metformin,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[6979, 9, 4033]",[-2.8701554466437074e-09],C0078839,zolpidem,TREATS,C0030567,Parkinson Disease
+"[5250, 9, 1866]",[-2.8993023537537965e-09],C0039736,thalidomide,TREATS,C0014175,Endometriosis
+"[6767, 9, 506]",[-2.9027269476955553e-09],C0072980,sirolimus,TREATS,C0003873,Rheumatoid Arthritis
+"[4076, 9, 4489]",[-2.9312574589823726e-09],C0030830,procaine benzylpenicillin,TREATS,C0033860,Psoriasis
+"[3503, 9, 14733]",[-2.935728549147143e-09],C0026056,midazolam,TREATS,C1269683,Major Depressive Disorder
+"[14599, 9, 3114]",[-2.9663844713923027e-09],C1176020,sunitinib,TREATS,C0023461,"Leukemia, Mast-Cell"
+"[6991, 9, 3726]",[-2.9691609171322852e-09],C0079083,carboplatin,TREATS,C0027819,Neuroblastoma
+"[3308, 9, 4822]",[-2.9699358528034736e-09],C0024778,maprotiline,TREATS,C0036341,Schizophrenia
+"[14358, 9, 3726]",[-2.989654301899236e-09],C1134452,MTC-DOX,TREATS,C0027819,Neuroblastoma
+"[1416, 9, 14837]",[-3.020351524440912e-09],C0010583,cyclophosphamide,TREATS,C1288351,Malignant Neoplasm (Morphology)
+"[3791, 9, 687]",[-3.0208680001919674e-09],C0028215,nitrous oxide,TREATS,C0005586,Bipolar Disorder
+"[12320, 9, 3579]",[-3.0325990607593667e-09],C0672708,vorinostat,TREATS,C0026764,Multiple Myeloma
+"[3012, 9, 1907]",[-3.044531959872643e-09],C0022614,ketamine,TREATS,C0014544,Epilepsy
+"[7660, 9, 3926]",[-3.049160923751515e-09],C0145106,teicoplanin,TREATS,C0029443,Osteomyelitis
+"[6420, 9, 1578]",[-3.0686870822194123e-09],C0063657,"insulin, neutral",TREATS,C0011849,Diabetes Mellitus
+"[6008, 9, 4917]",[-3.1089402163786417e-09],C0054201,budesonide,TREATS,C0037199,Sinusitis
+"[3659, 9, 4822]",[-3.119303038090493e-09],C0027360,naltrexone,TREATS,C0036341,Schizophrenia
+"[2673, 9, 11445]",[-3.168791673502369e-09],C0020404,hydroxyzine,TREATS,C0497327,Dementia
+"[12241, 9, 1380]",[-3.179658758512005e-09],C0606070,tocofersolan,TREATS,C0010346,Crohn Disease
+"[808, 9, 474]",[-3.2120071047359033e-09],C0006400,bupivacaine,TREATS,C0003615,Appendicitis
+"[817, 9, 322]",[-3.2242741809795916e-09],C0006463,busulfan,TREATS,C0002874,Aplastic Anemia
+"[1563, 9, 10914]",[-3.27374216624321e-09],C0011777,dexamethasone,TREATS,C0401160,Chemotherapy-induced nausea and vomiting
+"[6366, 9, 4822]",[-3.334855946945936e-09],C0061851,ondansetron,TREATS,C0036341,Schizophrenia
+"[14942, 9, 11445]",[-3.3502178808930694e-09],C1311233,Harkoseride,TREATS,C0497327,Dementia
+"[6823, 9, 687]",[-3.362780720550518e-09],C0074554,simvastatin,TREATS,C0005586,Bipolar Disorder
+"[13153, 9, 5618]",[-3.4122318304241617e-09],C0770565,dexamethasone phosphate,TREATS,C0042165,Anterior uveitis
+"[5213, 9, 11445]",[-3.4745433197258535e-09],C0039468,temazepam,TREATS,C0497327,Dementia
+"[1914, 9, 3983]",[-3.5001992415573113e-09],C0014563,epinephrine,TREATS,C0030193,Pain
+"[12301, 9, 12851]",[-3.5085072624951863e-09],C0666743,infliximab,TREATS,C0730285,Macular edema due to diabetes mellitus
+"[3308, 9, 11445]",[-3.5820579835643684e-09],C0024778,maprotiline,TREATS,C0497327,Dementia
+"[12241, 9, 1266]",[-3.6430005678766975e-09],C0606070,tocofersolan,TREATS,C0009324,Ulcerative Colitis
+"[6826, 9, 306]",[-3.6460601204879595e-09],C0074710,pramipexole,TREATS,C0002736,Amyotrophic Lateral Sclerosis
+"[4103, 9, 11445]",[-3.650311386493854e-09],C0030969,perazine,TREATS,C0497327,Dementia
+"[11623, 9, 4033]",[-3.6703495798207086e-09],C0529793,sildenafil,TREATS,C0030567,Parkinson Disease
+"[7418, 9, 4489]",[-3.6966694150208923e-09],C0087162,vitamin B6,TREATS,C0033860,Psoriasis
+"[686, 9, 4822]",[-3.7123553120466113e-09],C0005578,biperiden,TREATS,C0036341,Schizophrenia
+"[4364, 9, 5214]",[-3.77251474503737e-09],C0032952,prednisone,TREATS,C0039483,Giant Cell Arteritis
+"[817, 9, 3574]",[-3.778103607743333e-09],C0006463,busulfan,TREATS,C0026709,Mucopolysaccharidosis VI
+"[5242, 9, 5085]",[-3.779329293962519e-09],C0039663,dronabinol,TREATS,C0038436,Post-Traumatic Stress Disorder
+"[11643, 9, 9677]",[-3.81009979122382e-09],C0536495,moxifloxacin,TREATS,C0271429,Acute otitis media
+"[6420, 9, 532]",[-3.8625640463862965e-09],C0063657,"insulin, neutral",TREATS,C0004096,Asthma
+"[6649, 9, 3983]",[-3.88669185724666e-09],C0070108,paregoric,TREATS,C0030193,Pain
+"[3758, 9, 4822]",[-3.9711682831011785e-09],C0028008,nicergoline,TREATS,C0036341,Schizophrenia
+"[808, 9, 7156]",[-3.97243837824135e-09],C0006400,bupivacaine,TREATS,C0085096,Peripheral Vascular Diseases
+"[6555, 9, 4033]",[-4.003947395858631e-09],C0066677,modafinil,TREATS,C0030567,Parkinson Disease
+"[2535, 9, 4288]",[-4.011773580003819e-09],C0019134,heparin,TREATS,C0032285,Pneumonia
+"[1563, 9, 9677]",[-4.031286415795421e-09],C0011777,dexamethasone,TREATS,C0271429,Acute otitis media
+"[13199, 9, 11582]",[-4.068871017892661e-09],C0771204,anhydrous tacrolimus,TREATS,C0524910,"Hepatitis C, Chronic"
+"[1416, 9, 7056]",[-4.071872172772828e-09],C0010583,cyclophosphamide,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[3554, 9, 3763]",[-4.0864756023495374e-09],C0026549,morphine,TREATS,C0028043,Nicotine Dependence
+"[6767, 9, 931]",[-4.1324934585418305e-09],C0072980,sirolimus,TREATS,C0007138,"Carcinoma, Transitional Cell"
+"[3791, 9, 3983]",[-4.134765418939423e-09],C0028215,nitrous oxide,TREATS,C0030193,Pain
+"[3362, 9, 4822]",[-4.164076194967947e-09],C0025242,memantine,TREATS,C0036341,Schizophrenia
+"[2366, 9, 3579]",[-4.164116162996834e-09],C0017890,glycine,TREATS,C0026764,Multiple Myeloma
+"[6815, 9, 13889]",[-4.197551639606445e-09],C0074393,sertraline,TREATS,C0917801,Sleeplessness
+"[2316, 9, 1578]",[-4.201569758777168e-09],C0017628,glibenclamide,TREATS,C0011849,Diabetes Mellitus
+"[6787, 9, 4005]",[-4.202876713321757e-09],C0073393,risperidone,TREATS,C0030319,Panic Disorder
+"[1207, 9, 3926]",[-4.220534144394605e-09],C0008947,clindamycin,TREATS,C0029443,Osteomyelitis
+"[6767, 9, 3617]",[-4.236905937204938e-09],C0072980,sirolimus,TREATS,C0026987,Myelofibrosis
+"[3458, 9, 11393]",[-4.27608526365475e-09],C0025815,methylprednisolone,TREATS,C0474368,Labor Pain
+"[276, 9, 4822]",[-4.2855310411482606e-09],C0002600,amitriptyline,TREATS,C0036341,Schizophrenia
+"[10722, 9, 7056]",[-4.309813395053652e-09],C0383429,alemtuzumab,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[6796, 9, 546]",[-4.360480865273075e-09],C0073633,ranolazine,TREATS,C0004238,Atrial Fibrillation
+"[8976, 9, 1594]",[-4.453028168427409e-09],C0209368,mycophenolate mofetil,TREATS,C0011991,Diarrhea
+"[10046, 9, 3281]",[-4.454017155097745e-09],C0289313,rosiglitazone,TREATS,C0024530,Malaria
+"[3503, 9, 1907]",[-4.465982694767945e-09],C0026056,midazolam,TREATS,C0014544,Epilepsy
+"[808, 9, 7739]",[-4.4777213048519116e-09],C0006400,bupivacaine,TREATS,C0150055,Chronic pain
+"[14000, 9, 2468]",[-4.493671212912886e-09],C0937950,darbepoetin alfa,TREATS,C0018801,Heart failure
+"[6420, 9, 3835]",[-4.650255291949179e-09],C0063657,"insulin, neutral",TREATS,C0028754,Obesity
+"[6991, 9, 3249]",[-4.692559674168706e-09],C0079083,carboplatin,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[6652, 9, 346]",[-4.771016470783707e-09],C0070166,clopidogrel,TREATS,C0002962,Angina Pectoris
+"[6823, 9, 241]",[-4.82914774835308e-09],C0074554,simvastatin,TREATS,C0002395,Alzheimer's Disease
+"[11654, 9, 2469]",[-4.872129366617628e-09],C0538727,icodextrin,TREATS,C0018802,Congestive heart failure
+"[6152, 9, 517]",[-4.883648596631929e-09],C0057144,daptomycin,TREATS,C0003962,Ascites
+"[14458, 9, 3983]",[-4.899149530501745e-09],C1144149,lenalidomide,TREATS,C0030193,Pain
+"[5229, 9, 3581]",[-4.9207198316025824e-09],C0039601,testosterone,TREATS,C0026769,Multiple Sclerosis
+"[9486, 9, 4132]",[-4.924178398368895e-09],C0252643,bosentan,TREATS,C0031190,Persistent Fetal Circulation Syndrome
+"[11613, 9, 4822]",[-4.936428155133399e-09],C0527316,donepezil,TREATS,C0036341,Schizophrenia
+"[3458, 9, 2099]",[-4.959217925204484e-09],C0025815,methylprednisolone,TREATS,C0015967,Fever
+"[4205, 9, 3835]",[-5.0024366871070924e-09],C0031716,phosphorylcholine,TREATS,C0028754,Obesity
+"[15662, 9, 3579]",[-5.011584924830004e-09],C1516302,Carmustinum,TREATS,C0026764,Multiple Myeloma
+"[2178, 9, 11445]",[-5.023546911786525e-09],C0016383,fluspirilene,TREATS,C0497327,Dementia
+"[1726, 9, 4822]",[-5.0689239472490044e-09],C0013085,doxepin,TREATS,C0036341,Schizophrenia
+"[2748, 9, 1288]",[-5.076941089754428e-09],C0020740,ibuprofen,TREATS,C0009443,Common Cold
+"[236, 9, 383]",[-5.088244048323531e-09],C0002371,algeldrate,TREATS,C0003175,Anthrax disease
+"[5250, 9, 2617]",[-5.1139936729782676e-09],C0039736,thalidomide,TREATS,C0019829,Hodgkin Disease
+"[12286, 9, 3926]",[-5.191581387009592e-09],C0663241,linezolid,TREATS,C0029443,Osteomyelitis
+"[13806, 9, 3579]",[-5.355772714210616e-09],C0887557,sodium ascorbate,TREATS,C0026764,Multiple Myeloma
+"[18257, 9, 3249]",[-5.375372147398139e-09],C4741328,rituximab-abbs,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[3445, 9, 3119]",[-5.429082960972664e-09],C0025677,methotrexate,TREATS,C0023473,"Myeloid Leukemia, Chronic"
+"[2366, 9, 2565]",[-5.4292690343515915e-09],C0017890,glycine,TREATS,C0019345,Herpes Labialis
+"[3359, 9, 11445]",[-5.429396932044028e-09],C0025219,melatonin,TREATS,C0497327,Dementia
+"[6991, 9, 16060]",[-5.434820593563927e-09],C0079083,carboplatin,TREATS,C1621958,Glioblastoma Multiforme
+"[1566, 9, 5085]",[-5.461366026082715e-09],C0011785,dexetimide,TREATS,C0038436,Post-Traumatic Stress Disorder
+"[15645, 9, 3930]",[-5.46777778609453e-09],C1515405,Virosterone,TREATS,C0029456,Osteoporosis
+"[6102, 9, 4822]",[-5.508243638985277e-09],C0055891,clobazam,TREATS,C0036341,Schizophrenia
+"[13153, 9, 12851]",[-5.533267177781909e-09],C0770565,dexamethasone phosphate,TREATS,C0730285,Macular edema due to diabetes mellitus
+"[2366, 9, 9793]",[-5.564353422471413e-09],C0017890,glycine,TREATS,C0278678,Metastatic Renal Cell Cancer
+"[12241, 9, 539]",[-5.5779141305833946e-09],C0606070,tocofersolan,TREATS,C0004153,Atherosclerosis
+"[2170, 9, 4822]",[-5.682581072363746e-09],C0016365,fluoxetine,TREATS,C0036341,Schizophrenia
+"[6008, 9, 1266]",[-5.791265689225611e-09],C0054201,budesonide,TREATS,C0009324,Ulcerative Colitis
+"[15981, 9, 187]",[-5.860850027517017e-09],C1569608,varenicline,TREATS,C0001973,"Alcoholic Intoxication, Chronic"
+"[1416, 9, 9793]",[-5.895155474888725e-09],C0010583,cyclophosphamide,TREATS,C0278678,Metastatic Renal Cell Cancer
+"[12675, 9, 3926]",[-5.937272007372485e-09],C0700930,Cefamezine,TREATS,C0029443,Osteomyelitis
+"[11666, 9, 3726]",[-5.9426432663656215e-09],C0541315,everolimus,TREATS,C0027819,Neuroblastoma
+"[2173, 9, 11445]",[-6.0238565247061615e-09],C0016368,fluphenazine,TREATS,C0497327,Dementia
+"[2329, 9, 4887]",[-6.03135497101448e-09],C0017687,glucagon,TREATS,C0036992,Short Bowel Syndrome
+"[5670, 9, 4917]",[-6.035507649215788e-09],C0042523,verapamil,TREATS,C0037199,Sinusitis
+"[3503, 9, 1772]",[-6.044685196826549e-09],C0026056,midazolam,TREATS,C0013404,Dyspnea
+"[2234, 9, 5085]",[-6.103780592070507e-09],C0016967,galantamine,TREATS,C0038436,Post-Traumatic Stress Disorder
+"[11651, 9, 869]",[-6.114208694896206e-09],C0537894,caspofungin,TREATS,C0006840,Candidiasis
+"[6815, 9, 4822]",[-6.114721617933583e-09],C0074393,sertraline,TREATS,C0036341,Schizophrenia
+"[6650, 9, 4822]",[-6.149113662701211e-09],C0070122,paroxetine,TREATS,C0036341,Schizophrenia
+"[16874, 9, 4822]",[-6.18640516591995e-09],C2746078,linagliptin,TREATS,C0036341,Schizophrenia
+"[13153, 9, 11493]",[-6.297785848374815e-09],C0770565,dexamethasone phosphate,TREATS,C0520909,Postoperative Nausea and Vomiting
+"[4364, 9, 1752]",[-6.3067528977001075e-09],C0032952,prednisone,TREATS,C0013264,"Muscular Dystrophy, Duchenne"
+"[2664, 9, 4489]",[-6.325149293218146e-09],C0020316,hydroxocobalamin,TREATS,C0033860,Psoriasis
+"[11643, 9, 3926]",[-6.4052398940361854e-09],C0536495,moxifloxacin,TREATS,C0029443,Osteomyelitis
+"[8976, 9, 9695]",[-6.424185627906809e-09],C0209368,mycophenolate mofetil,TREATS,C0272286,Thrombocytopenia due to platelet alloimmunization
+"[12538, 9, 3621]",[-6.511533090503008e-09],C0699278,Polopiryna,TREATS,C0027051,Myocardial Infarction
+"[1419, 9, 3983]",[-6.576225342058706e-09],C0010590,cycloserine,TREATS,C0030193,Pain
+"[288, 9, 4127]",[-6.6953123045720986e-09],C0002645,amoxicillin,TREATS,C0031154,Peritonitis
+"[3976, 9, 1266]",[-6.697107757247522e-09],C0030125,aminosalicylic acid,TREATS,C0009324,Ulcerative Colitis
+"[14135, 9, 5665]",[-6.72246791566522e-09],C0965129,rosuvastatin,TREATS,C0042487,Venous Thrombosis
+"[3458, 9, 3603]",[-6.739892643992107e-09],C0025815,methylprednisolone,TREATS,C0026896,Myasthenia Gravis
+"[1124, 9, 4822]",[-6.764812265913633e-09],C0008318,colecalciferol,TREATS,C0036341,Schizophrenia
+"[13109, 9, 4822]",[-6.768688276537205e-09],C0765273,bexarotene,TREATS,C0036341,Schizophrenia
+"[7673, 9, 3726]",[-6.770521032706256e-09],C0146224,topotecan,TREATS,C0027819,Neuroblastoma
+"[1660, 9, 11445]",[-6.812296504676851e-09],C0012522,diphenhydramine,TREATS,C0497327,Dementia
+"[6420, 9, 1580]",[-6.838988930724099e-09],C0063657,"insulin, neutral",TREATS,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent"
+"[10722, 9, 1380]",[-6.874443236881689e-09],C0383429,alemtuzumab,TREATS,C0010346,Crohn Disease
+"[7182, 9, 3387]",[-6.940876762229209e-09],C0085174,misoprostol,TREATS,C0025323,Menorrhagia
+"[6631, 9, 8952]",[-6.958647436050569e-09],C0069717,oxaliplatin,TREATS,C0206754,Neuroendocrine Tumors
+"[3445, 9, 3726]",[-7.050920736162425e-09],C0025677,methotrexate,TREATS,C0027819,Neuroblastoma
+"[3659, 9, 7813]",[-7.052193495837855e-09],C0027360,naltrexone,TREATS,C0152020,Gastroparesis
+"[13838, 9, 506]",[-7.06909153436186e-09],C0893761,lacosamide,TREATS,C0003873,Rheumatoid Arthritis
+"[9018, 9, 3247]",[-7.139326019256487e-09],C0218640,lenograstim,TREATS,C0024299,Lymphoma
+"[1217, 9, 9684]",[-7.1489116848511e-09],C0009008,clomifene,TREATS,C0271623,Hypogonadotropic hypogonadism
+"[14638, 9, 927]",[-7.229233656147471e-09],C1257689,Aminophyllin,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[5640, 9, 2099]",[-7.236921284459186e-09],C0042313,vancomycin,TREATS,C0015967,Fever
+"[1221, 9, 3983]",[-7.27268822942051e-09],C0009014,clonidine,TREATS,C0030193,Pain
+"[13362, 9, 929]",[-7.27810878231594e-09],C0796392,bevacizumab,TREATS,C0007134,Renal Cell Carcinoma
+"[2975, 9, 1546]",[-7.313468941561041e-09],C0022322,ivermectin,TREATS,C0011615,"Dermatitis, Atopic"
+"[103, 9, 7796]",[-7.33965377364143e-09],C0001443,adenosine,TREATS,C0151744,Myocardial Ischemia
+"[7657, 9, 926]",[-7.4380892556291656e-09],C0144576,paclitaxel,TREATS,C0007129,Merkel cell carcinoma
+"[17802, 9, 532]",[-7.469064478016207e-09],C4255853,Glycopyrrolate cation,TREATS,C0004096,Asthma
+"[4363, 9, 929]",[-7.490958964240235e-09],C0032950,prednisolone,TREATS,C0007134,Renal Cell Carcinoma
+"[15235, 9, 927]",[-7.530909229558347e-09],C1367202,ipilimumab,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[3761, 9, 4731]",[-7.532152679345927e-09],C0028027,nicotinamide,TREATS,C0035412,Rhabdomyosarcoma
+"[5493, 9, 4822]",[-7.53380291484973e-09],C0041056,trimipramine,TREATS,C0036341,Schizophrenia
+"[3974, 9, 187]",[-7.553684788774717e-09],C0030095,oxytocin,TREATS,C0001973,"Alcoholic Intoxication, Chronic"
+"[4176, 9, 3726]",[-7.581474115170295e-09],C0031507,phenytoin,TREATS,C0027819,Neuroblastoma
+"[6823, 9, 3621]",[-7.827850367903011e-09],C0074554,simvastatin,TREATS,C0027051,Myocardial Infarction
+"[4481, 9, 1363]",[-8.033736342838438e-09],C0033798,pseudoephedrine,TREATS,C0010200,Coughing
+"[6646, 9, 2723]",[-8.037503995694806e-09],C0070093,teriparatide,TREATS,C0020598,Hypocalcemia
+"[10796, 9, 3983]",[-8.044142241203645e-09],C0393080,voriconazole,TREATS,C0030193,Pain
+"[6692, 9, 11582]",[-8.057353007018264e-09],C0071097,pioglitazone,TREATS,C0524910,"Hepatitis C, Chronic"
+"[13969, 9, 17040]",[-8.073202550917813e-09],C0935989,imatinib,TREATS,C2973725,Pulmonary arterial hypertension
+"[13969, 9, 2709]",[-8.133191009562779e-09],C0935989,imatinib,TREATS,C0020542,Pulmonary Hypertension
+"[5491, 9, 3926]",[-8.151561203817437e-09],C0041041,trimethoprim,TREATS,C0029443,Osteomyelitis
+"[12280, 9, 7739]",[-8.226817449497048e-09],C0657912,pregabalin,TREATS,C0150055,Chronic pain
+"[2535, 9, 4883]",[-8.315810262615742e-09],C0019134,heparin,TREATS,C0036980,"Shock, Cardiogenic"
+"[6815, 9, 1393]",[-8.364411385741732e-09],C0074393,sertraline,TREATS,C0010414,Infection by Cryptococcus neoformans
+"[5363, 9, 588]",[-8.371990212197034e-09],C0040341,tobramycin,TREATS,C0004626,"Pneumonia, Bacterial"
+"[3848, 9, 12521]",[-8.394187567262179e-09],C0028902,ofloxacin,TREATS,C0694549,Community acquired pneumonia
+"[3956, 9, 4822]",[-8.439197785037322e-09],C0029997,oxazepam,TREATS,C0036341,Schizophrenia
+"[2535, 9, 322]",[-8.450819599659098e-09],C0019134,heparin,TREATS,C0002874,Aplastic Anemia
+"[3361, 9, 15817]",[-8.516336080788278e-09],C0025241,melphalan,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[10722, 9, 506]",[-8.524850159119524e-09],C0383429,alemtuzumab,TREATS,C0003873,Rheumatoid Arthritis
+"[3659, 9, 3915]",[-8.59730597824182e-09],C0027360,naltrexone,TREATS,C0029408,Degenerative polyarthritis
+"[5491, 9, 4531]",[-8.622949465575402e-09],C0041041,trimethoprim,TREATS,C0034186,Pyelonephritis
+"[4229, 9, 4822]",[-8.624045477745312e-09],C0031935,pimozide,TREATS,C0036341,Schizophrenia
+"[816, 9, 4822]",[-8.679964302871213e-09],C0006462,buspirone,TREATS,C0036341,Schizophrenia
+"[10737, 9, 9308]",[-8.703615606009407e-09],C0387288,verteporfin,TREATS,C0242383,Age related macular degeneration
+"[5845, 9, 4822]",[-8.74240857484665e-09],C0049506,mirtazapine,TREATS,C0036341,Schizophrenia
+"[3459, 9, 1430]",[-8.78357919731343e-09],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0010674,Cystic Fibrosis
+"[2854, 9, 241]",[-8.808504148305474e-09],C0021547,inositol,TREATS,C0002395,Alzheimer's Disease
+"[12688, 9, 187]",[-8.838109799569338e-09],C0701928,Special K drug,TREATS,C0001973,"Alcoholic Intoxication, Chronic"
+"[3361, 9, 3249]",[-8.907017345904933e-09],C0025241,melphalan,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[3460, 9, 9684]",[-8.935880480009928e-09],C0025826,methyltestosterone,TREATS,C0271623,Hypogonadotropic hypogonadism
+"[2086, 9, 9250]",[-8.948261687180548e-09],C0015846,fentanyl,TREATS,C0238425,Hemoglobin SS disease with crisis
+"[837, 9, 1772]",[-8.957741215454007e-09],C0006644,caffeine,TREATS,C0013404,Dyspnea
+"[1419, 9, 4005]",[-9.170468828756384e-09],C0010590,cycloserine,TREATS,C0030319,Panic Disorder
+"[4424, 9, 4822]",[-9.26203291840011e-09],C0033405,promethazine,TREATS,C0036341,Schizophrenia
+"[3963, 9, 5387]",[-9.289967017878098e-09],C0030049,oxycodone,TREATS,C0040460,Toothache
+"[3514, 9, 4775]",[-9.369450992835482e-09],C0026187,minocycline,TREATS,C0035854,Rosacea
+"[17859, 9, 2528]",[-9.441675885568657e-09],C4292380,Coumafene,TREATS,C0019080,Hemorrhage
+"[3843, 9, 4177]",[-9.622787899843388e-09],C0028833,octreotide,TREATS,C0031511,Pheochromocytoma
+"[13838, 9, 3915]",[-9.737244788254884e-09],C0893761,lacosamide,TREATS,C0029408,Degenerative polyarthritis
+"[4588, 9, 1363]",[-9.755030561109379e-09],C0034665,ranitidine,TREATS,C0010200,Coughing
+"[4440, 9, 929]",[-9.780955601002006e-09],C0033497,propranolol,TREATS,C0007134,Renal Cell Carcinoma
+"[14455, 9, 539]",[-9.782270105063162e-09],C1142985,ezetimibe,TREATS,C0004153,Atherosclerosis
+"[3012, 9, 3837]",[-9.855096294586474e-09],C0022614,ketamine,TREATS,C0028768,Obsessive-Compulsive Disorder
+"[1566, 9, 454]",[-9.86884973741553e-09],C0011785,dexetimide,TREATS,C0003467,Anxiety
+"[5454, 9, 5715]",[-9.914751686324053e-09],C0040864,triamcinolone,TREATS,C0042900,Vitiligo
+"[5678, 9, 3230]",[-9.99884708363652e-09],C0042646,vidarabine,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[3610, 9, 539]",[-1.0007913608944818e-08],C0026933,mycophenolic acid,TREATS,C0004153,Atherosclerosis
+"[1218, 9, 11445]",[-1.0078445633610045e-08],C0009010,clomipramine,TREATS,C0497327,Dementia
+"[15483, 9, 4489]",[-1.0146854911852188e-08],C1456408,liraglutide,TREATS,C0033860,Psoriasis
+"[3801, 9, 13887]",[-1.0148421658584539e-08],C0028351,norepinephrine,TREATS,C0917798,Cerebral Ischemia
+"[5872, 9, 1579]",[-1.0151181228934547e-08],C0050940,lansoprazole,TREATS,C0011854,"Diabetes Mellitus, Insulin-Dependent"
+"[6048, 9, 2709]",[-1.0218632162661834e-08],C0054836,carvedilol,TREATS,C0020542,Pulmonary Hypertension
+"[7504, 9, 2709]",[-1.0369216596473052e-08],C0113293,dexmedetomidine,TREATS,C0020542,Pulmonary Hypertension
+"[5254, 9, 927]",[-1.0428169439080648e-08],C0039771,theophylline,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[6366, 9, 3837]",[-1.0437958053444163e-08],C0061851,ondansetron,TREATS,C0028768,Obsessive-Compulsive Disorder
+"[5242, 9, 3591]",[-1.0451475240813579e-08],C0039663,dronabinol,TREATS,C0026838,Muscle Spasticity
+"[7653, 9, 7739]",[-1.0538053096809108e-08],C0143993,sufentanil,TREATS,C0150055,Chronic pain
+"[10122, 9, 2833]",[-1.0719800158653925e-08],C0302583,iron,TREATS,C0021390,Inflammatory Bowel Diseases
+"[1416, 9, 3736]",[-1.072248245748142e-08],C0010583,cyclophosphamide,TREATS,C0027873,Neuromyelitis Optica
+"[12241, 9, 4822]",[-1.080813571974204e-08],C0606070,tocofersolan,TREATS,C0036341,Schizophrenia
+"[10046, 9, 241]",[-1.081619238618714e-08],C0289313,rosiglitazone,TREATS,C0002395,Alzheimer's Disease
+"[6227, 9, 10314]",[-1.0894169122366293e-08],C0059364,enocitabine,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[17060, 9, 3844]",[-1.0916062720411901e-08],C2983887,timolol anhydrous,TREATS,C0028840,Ocular Hypertension
+"[843, 9, 15797]",[-1.0923002058405018e-08],C0006674,calcitriol,TREATS,C1527383,Morphea
+"[8837, 9, 5667]",[-1.1110454778417989e-08],C0205758,racepinephrine,TREATS,C0042510,Ventricular Fibrillation
+"[10064, 9, 1578]",[-1.1127310628467058e-08],C0293359,insulin lispro,TREATS,C0011849,Diabetes Mellitus
+"[3211, 9, 3680]",[-1.1179772663183485e-08],C0024002,lorazepam,TREATS,C0027497,Nausea
+"[3862, 9, 3680]",[-1.1259230880966697e-08],C0028978,omeprazole,TREATS,C0027497,Nausea
+"[6008, 9, 1123]",[-1.1289381873780258e-08],C0054201,budesonide,TREATS,C0008312,Primary Biliary Cholangitis
+"[4795, 9, 10958]",[-1.1289910339939979e-08],C0036079,salicylic acid,TREATS,C0406317,Chronic small plaque psoriasis
+"[1438, 9, 14038]",[-1.130800342252769e-08],C0010725,citicoline,TREATS,C0948008,Ischemic stroke
+"[6767, 9, 16060]",[-1.131061200254635e-08],C0072980,sirolimus,TREATS,C1621958,Glioblastoma Multiforme
+"[13362, 9, 3617]",[-1.1498704211021504e-08],C0796392,bevacizumab,TREATS,C0026987,Myelofibrosis
+"[6710, 9, 3763]",[-1.152957729289028e-08],C0071304,isradipine,TREATS,C0028043,Nicotine Dependence
+"[7504, 9, 3680]",[-1.1547768963282579e-08],C0113293,dexmedetomidine,TREATS,C0027497,Nausea
+"[6295, 9, 927]",[-1.1549651013353923e-08],C0060389,finasteride,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[3459, 9, 929]",[-1.157388851424912e-08],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0007134,Renal Cell Carcinoma
+"[10030, 9, 546]",[-1.1596964277771349e-08],C0286651,atorvastatin,TREATS,C0004238,Atrial Fibrillation
+"[16055, 9, 4810]",[-1.164965013344954e-08],C1619966,abatacept,TREATS,C0036202,Sarcoidosis
+"[13362, 9, 14382]",[-1.1706212887929723e-08],C0796392,bevacizumab,TREATS,C1135868,Gestational Trophoblastic Neoplasms
+"[14603, 9, 3249]",[-1.1812262279420338e-08],C1176309,bortezomib,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[3503, 9, 11445]",[-1.1858880988313558e-08],C0026056,midazolam,TREATS,C0497327,Dementia
+"[3808, 9, 4822]",[-1.1942793420871567e-08],C0028420,nortriptyline,TREATS,C0036341,Schizophrenia
+"[6980, 9, 187]",[-1.201786670179672e-08],C0078844,zonisamide,TREATS,C0001973,"Alcoholic Intoxication, Chronic"
+"[2434, 9, 3680]",[-1.2021417639118681e-08],C0018546,haloperidol,TREATS,C0027497,Nausea
+"[9956, 9, 3249]",[-1.2087108203218122e-08],C0282386,levofloxacin,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[843, 9, 5708]",[-1.2215616962407694e-08],C0006674,calcitriol,TREATS,C0042870,Vitamin D Deficiency
+"[3138, 9, 1866]",[-1.224551127165796e-08],C0023566,levonorgestrel,TREATS,C0014175,Endometriosis
+"[4436, 9, 4002]",[-1.2437309848678524e-08],C0033487,propofol,TREATS,C0030305,Pancreatitis
+"[18257, 9, 3736]",[-1.24754100383484e-08],C4741328,rituximab-abbs,TREATS,C0027873,Neuromyelitis Optica
+"[14458, 9, 7056]",[-1.2551955030914996e-08],C1144149,lenalidomide,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[9018, 9, 927]",[-1.2703536000913118e-08],C0218640,lenograstim,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[6050, 9, 3926]",[-1.2787388037338587e-08],C0055003,cefepime,TREATS,C0029443,Osteomyelitis
+"[16833, 9, 927]",[-1.2866188114912802e-08],C2721771,levofolinic acid,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[9451, 9, 1594]",[-1.28758497197623e-08],C0246415,docetaxel,TREATS,C0011991,Diarrhea
+"[3218, 9, 927]",[-1.288494377860161e-08],C0024071,lucanthone,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[6860, 9, 3926]",[-1.2895679191160525e-08],C0075870,tazobactam,TREATS,C0029443,Osteomyelitis
+"[1660, 9, 4822]",[-1.2929406878470218e-08],C0012522,diphenhydramine,TREATS,C0036341,Schizophrenia
+"[15981, 9, 3763]",[-1.3060535763997905e-08],C1569608,varenicline,TREATS,C0028043,Nicotine Dependence
+"[10122, 9, 9600]",[-1.3155155187405398e-08],C0302583,iron,TREATS,C0264716,Chronic heart failure
+"[14454, 9, 4821]",[-1.3175417201694017e-08],C1142933,rimonabant,TREATS,C0036337,Schizoaffective Disorder
+"[6633, 9, 11445]",[-1.3456504355247034e-08],C0069751,oxcarbazepine,TREATS,C0497327,Dementia
+"[4363, 9, 3736]",[-1.3713028934603244e-08],C0032950,prednisolone,TREATS,C0027873,Neuromyelitis Optica
+"[1965, 9, 1866]",[-1.3766102924250845e-08],C0014912,estradiol,TREATS,C0014175,Endometriosis
+"[4436, 9, 1122]",[-1.3817897936974077e-08],C0033487,propofol,TREATS,C0008311,Cholangitis
+"[8979, 9, 929]",[-1.396420667987286e-08],C0210657,pemetrexed,TREATS,C0007134,Renal Cell Carcinoma
+"[231, 9, 2468]",[-1.401745741702598e-08],C0002335,alprostadil,TREATS,C0018801,Heart failure
+"[3362, 9, 3581]",[-1.4020295147076922e-08],C0025242,memantine,TREATS,C0026769,Multiple Sclerosis
+"[6555, 9, 9813]",[-1.4171095408244128e-08],C0066677,modafinil,TREATS,C0278987,Metastatic non-small cell lung cancer
+"[14599, 9, 13576]",[-1.4228611178168649e-08],C1176020,sunitinib,TREATS,C0860594,"Malignant melanoma, metastatic"
+"[5459, 9, 11445]",[-1.4233719980438764e-08],C0040879,triazolam,TREATS,C0497327,Dementia
+"[6652, 9, 4311]",[-1.4244498025561825e-08],C0070166,clopidogrel,TREATS,C0032463,Polycythemia Vera
+"[18044, 9, 926]",[-1.4343251919513023e-08],C4529301,bevacizumab-awwb,TREATS,C0007129,Merkel cell carcinoma
+"[229, 9, 4822]",[-1.4385419078166706e-08],C0002333,alprazolam,TREATS,C0036341,Schizophrenia
+"[14350, 9, 4810]",[-1.4385721058829404e-08],C1122087,adalimumab,TREATS,C0036202,Sarcoidosis
+"[890, 9, 8418]",[-1.4514464297121776e-08],C0006982,carbidopa,TREATS,C0184567,Acute onset pain
+"[3778, 9, 11445]",[-1.4533481085265976e-08],C0028126,nitrazepam,TREATS,C0497327,Dementia
+"[6767, 9, 2870]",[-1.4718978036398767e-08],C0072980,sirolimus,TREATS,C0021670,insulinoma
+"[5640, 9, 588]",[-1.4793176461580515e-08],C0042313,vancomycin,TREATS,C0004626,"Pneumonia, Bacterial"
+"[5229, 9, 15270]",[-1.4823814176168071e-08],C0039601,testosterone,TREATS,C1384606,Dyspareunia
+"[14458, 9, 3249]",[-1.4866541775404585e-08],C1144149,lenalidomide,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[8837, 9, 3983]",[-1.4885939592090836e-08],C0205758,racepinephrine,TREATS,C0030193,Pain
+"[12538, 9, 14039]",[-1.5008936316007748e-08],C0699278,Polopiryna,TREATS,C0948089,Acute Coronary Syndrome
+"[7197, 9, 11445]",[-1.5473812453592473e-08],C0085208,bupropion,TREATS,C0497327,Dementia
+"[12320, 9, 7056]",[-1.560355045171491e-08],C0672708,vorinostat,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[7202, 9, 11445]",[-1.5699635369514908e-08],C0085228,fluvoxamine,TREATS,C0497327,Dementia
+"[9018, 9, 3983]",[-1.5729971991618186e-08],C0218640,lenograstim,TREATS,C0030193,Pain
+"[14370, 9, 11767]",[-1.5735828640117688e-08],C1135135,erlotinib,TREATS,C0553580,Ewings sarcoma
+"[13153, 9, 7734]",[-1.5738949699084515e-08],C0770565,dexamethasone phosphate,TREATS,C0149948,Acute otitis externa
+"[8179, 9, 1123]",[-1.5768751637779133e-08],C0178882,ursodeoxycholate,TREATS,C0008312,Primary Biliary Cholangitis
+"[6555, 9, 14733]",[-1.5881381543181305e-08],C0066677,modafinil,TREATS,C1269683,Major Depressive Disorder
+"[12705, 9, 1549]",[-1.5923443896781464e-08],C0717758,etanercept,TREATS,C0011633,Dermatomyositis
+"[6909, 9, 2690]",[-1.5998514513171358e-08],C0076829,topiramate,TREATS,C0020473,Hyperlipidemia
+"[7645, 9, 502]",[-1.6329174457041518e-08],C0142825,sodium citrate,TREATS,C0003864,Arthritis
+"[5344, 9, 2492]",[-1.646384362175013e-08],C0040233,timolol,TREATS,C0018916,Hemangioma
+"[1901, 9, 1363]",[-1.6628142418539937e-08],C0014479,ephedrine,TREATS,C0010200,Coughing
+"[6991, 9, 16695]",[-1.6718402662263543e-08],C0079083,carboplatin,TREATS,C2585890,Nonsquamous nonsmall cell neoplasm of lung
+"[6785, 9, 687]",[-1.6804783342649898e-08],C0073379,riluzole,TREATS,C0005586,Bipolar Disorder
+"[2177, 9, 241]",[-1.692085582760683e-08],C0016377,flurbiprofen,TREATS,C0002395,Alzheimer's Disease
+"[4403, 9, 1123]",[-1.6969742944183963e-08],C0033228,fenofibrate,TREATS,C0008312,Primary Biliary Cholangitis
+"[4026, 9, 3930]",[-1.697019946789169e-08],C0030520,parathyroid hormone,TREATS,C0029456,Osteoporosis
+"[6767, 9, 10314]",[-1.70857390457968e-08],C0072980,sirolimus,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[1416, 9, 322]",[-1.71269647353256e-08],C0010583,cyclophosphamide,TREATS,C0002874,Aplastic Anemia
+"[5242, 9, 3581]",[-1.7337745461531995e-08],C0039663,dronabinol,TREATS,C0026769,Multiple Sclerosis
+"[8906, 9, 5300]",[-1.7372821403682792e-08],C0206460,enoxaparin,TREATS,C0040053,Thrombosis
+"[12241, 9, 3621]",[-1.739799948552445e-08],C0606070,tocofersolan,TREATS,C0027051,Myocardial Infarction
+"[3659, 9, 2833]",[-1.7576921251816202e-08],C0027360,naltrexone,TREATS,C0021390,Inflammatory Bowel Diseases
+"[6420, 9, 9300]",[-1.758483669789257e-08],C0063657,"insulin, neutral",TREATS,C0242339,Dyslipidemias
+"[4979, 9, 76]",[-1.7689854914237912e-08],C0037659,somatostatin,TREATS,C0001206,Acromegaly
+"[3963, 9, 1319]",[-1.775759983502212e-08],C0030049,oxycodone,TREATS,C0009806,Constipation
+"[3756, 9, 539]",[-1.7807263219538072e-08],C0027996,niacin,TREATS,C0004153,Atherosclerosis
+"[4424, 9, 3670]",[-1.7866277346456627e-08],C0033405,promethazine,TREATS,C0027424,Nasal congestion (finding)
+"[1671, 9, 506]",[-1.8048849526053345e-08],C0012582,dipyridamole,TREATS,C0003873,Rheumatoid Arthritis
+"[14344, 9, 869]",[-1.8235306598057832e-08],C1120386,micafungin,TREATS,C0006840,Candidiasis
+"[2415, 9, 3581]",[-1.8326916872979382e-08],C0018312,guanabenz,TREATS,C0026769,Multiple Sclerosis
+"[1416, 9, 5751]",[-1.866104426540005e-08],C0010583,cyclophosphamide,TREATS,C0043208,Wolman Disease
+"[5686, 9, 4720]",[-1.887373102249512e-08],C0042679,vincristine,TREATS,C0035335,Retinoblastoma
+"[10722, 9, 3249]",[-1.907948998791653e-08],C0383429,alemtuzumab,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[18742, 9, 926]",[-1.924624370985839e-08],C5834323,INT-230-6 COMPONENT CISPLATIN,TREATS,C0007129,Merkel cell carcinoma
+"[14000, 9, 927]",[-1.9455868027762335e-08],C0937950,darbepoetin alfa,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[10578, 9, 506]",[-1.945842953432475e-08],C0357126,epoetin alfa,TREATS,C0003873,Rheumatoid Arthritis
+"[1914, 9, 3985]",[-1.9482001789583592e-08],C0014563,epinephrine,TREATS,C0030201,"Pain, Postoperative"
+"[4363, 9, 15817]",[-1.9490514091557998e-08],C0032950,prednisolone,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[17091, 9, 4731]",[-1.9567076847692988e-08],C2987648,afatinib,TREATS,C0035412,Rhabdomyosarcoma
+"[3503, 9, 3837]",[-1.9572146570112636e-08],C0026056,midazolam,TREATS,C0028768,Obsessive-Compulsive Disorder
+"[17060, 9, 2309]",[-1.98144718410731e-08],C2983887,timolol anhydrous,TREATS,C0017601,Glaucoma
+"[6895, 9, 927]",[-1.9823160002374607e-08],C0076612,thymalfasin,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[6401, 9, 3230]",[-1.9919422555858546e-08],C0063041,leflunomide,TREATS,C0024141,"Lupus Erythematosus, Systemic"
+"[6823, 9, 4288]",[-2.0105627385191838e-08],C0074554,simvastatin,TREATS,C0032285,Pneumonia
+"[3017, 9, 7733]",[-2.020353839782274e-08],C0022635,ketoprofen,TREATS,C0149931,Migraine Disorders
+"[3139, 9, 8418]",[-2.03073220461647e-08],C0023570,levodopa,TREATS,C0184567,Acute onset pain
+"[9956, 9, 12521]",[-2.046936131705479e-08],C0282386,levofloxacin,TREATS,C0694549,Community acquired pneumonia
+"[581, 9, 3763]",[-2.051500480604318e-08],C0004609,baclofen,TREATS,C0028043,Nicotine Dependence
+"[1965, 9, 374]",[-2.068649784803256e-08],C0014912,estradiol,TREATS,C0003125,Anorexia Nervosa
+"[8162, 9, 3579]",[-2.095362283682789e-08],C0178487,ascorbate,TREATS,C0026764,Multiple Myeloma
+"[13995, 9, 2309]",[-2.1085551082933307e-08],C0937916,travoprost,TREATS,C0017601,Glaucoma
+"[14358, 9, 7056]",[-2.1098948366216064e-08],C1134452,MTC-DOX,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[12320, 9, 15817]",[-2.115362995880332e-08],C0672708,vorinostat,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[12538, 9, 4311]",[-2.1246997050639038e-08],C0699278,Polopiryna,TREATS,C0032463,Polycythemia Vera
+"[6864, 9, 4720]",[-2.1676001438208914e-08],C0076080,temozolomide,TREATS,C0035335,Retinoblastoma
+"[14370, 9, 929]",[-2.1942000216768065e-08],C1135135,erlotinib,TREATS,C0007134,Renal Cell Carcinoma
+"[12568, 9, 14733]",[-2.2436944746573317e-08],C0700189,Lithonate,TREATS,C1269683,Major Depressive Disorder
+"[6767, 9, 15817]",[-2.2583352077276686e-08],C0072980,sirolimus,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[16018, 9, 10958]",[-2.2607045124800607e-08],C1608841,ustekinumab,TREATS,C0406317,Chronic small plaque psoriasis
+"[13083, 9, 11445]",[-2.2810258570871156e-08],C0753678,paliperidone,TREATS,C0497327,Dementia
+"[4364, 9, 2492]",[-2.3126652592964092e-08],C0032952,prednisone,TREATS,C0018916,Hemangioma
+"[3527, 9, 15817]",[-2.3143940097725135e-08],C0026259,mitoxantrone,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[3843, 9, 1585]",[-2.334228454969889e-08],C0028833,octreotide,TREATS,C0011884,Diabetic Retinopathy
+"[6980, 9, 687]",[-2.3438561314037543e-08],C0078844,zonisamide,TREATS,C0005586,Bipolar Disorder
+"[11666, 9, 2870]",[-2.3540151161682843e-08],C0541315,everolimus,TREATS,C0021670,insulinoma
+"[1416, 9, 3617]",[-2.364722817560505e-08],C0010583,cyclophosphamide,TREATS,C0026987,Myelofibrosis
+"[11702, 9, 1311]",[-2.364749462913096e-08],C0544368,hydrocortamate,TREATS,C0009766,Allergic Conjunctivitis
+"[14358, 9, 3249]",[-2.3732431131406884e-08],C1134452,MTC-DOX,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[8837, 9, 4118]",[-2.475423954706457e-08],C0205758,racepinephrine,TREATS,C0031099,Periodontitis
+"[18742, 9, 3579]",[-2.5484938603881346e-08],C5834323,INT-230-6 COMPONENT CISPLATIN,TREATS,C0026764,Multiple Myeloma
+"[11702, 9, 2833]",[-2.554712708047191e-08],C0544368,hydrocortamate,TREATS,C0021390,Inflammatory Bowel Diseases
+"[1197, 9, 14039]",[-2.5613422494075166e-08],C0008845,citalopram,TREATS,C0948089,Acute Coronary Syndrome
+"[14370, 9, 4311]",[-2.5627443278608553e-08],C1135135,erlotinib,TREATS,C0032463,Polycythemia Vera
+"[8976, 9, 3261]",[-2.5695459981989188e-08],C0209368,mycophenolate mofetil,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[3458, 9, 13591]",[-2.574515001185773e-08],C0025815,methylprednisolone,TREATS,C0867389,Chronic graft-versus-host disease
+"[808, 9, 4118]",[-2.6876744385617712e-08],C0006400,bupivacaine,TREATS,C0031099,Periodontitis
+"[6649, 9, 9250]",[-2.7084720244374694e-08],C0070108,paregoric,TREATS,C0238425,Hemoglobin SS disease with crisis
+"[11702, 9, 2312]",[-2.7182450068607977e-08],C0544368,hydrocortamate,TREATS,C0017612,"Glaucoma, Open-Angle"
+"[58, 9, 16615]",[-2.7203196140135333e-08],C0001047,acetylcysteine,TREATS,C2267227,Bulimia Nervosa
+"[7548, 9, 1594]",[-2.7223338250337292e-08],C0123931,irinotecan,TREATS,C0011991,Diarrhea
+"[14599, 9, 16060]",[-2.7542725433704618e-08],C1176020,sunitinib,TREATS,C1621958,Glioblastoma Multiforme
+"[1965, 9, 8036]",[-2.7568553662149498e-08],C0014912,estradiol,TREATS,C0162836,Hidradenitis Suppurativa
+"[4744, 9, 7739]",[-2.7660908230586756e-08],C0035527,riboflavin,TREATS,C0150055,Chronic pain
+"[11600, 9, 13543]",[-2.7799456958632618e-08],C0525079,bendamustine,TREATS,C0855112,Diffuse large B-cell lymphoma refractory
+"[13153, 9, 15793]",[-2.8161670329041044e-08],C0770565,dexamethasone phosphate,TREATS,C1527336,Sjogren's Syndrome
+"[18257, 9, 3261]",[-2.85352239615122e-08],C4741328,rituximab-abbs,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[3424, 9, 16695]",[-2.865165704690753e-08],C0025598,metformin,TREATS,C2585890,Nonsquamous nonsmall cell neoplasm of lung
+"[10060, 9, 17040]",[-2.9095112097365927e-08],C0292818,ritonavir,TREATS,C2973725,Pulmonary arterial hypertension
+"[10722, 9, 322]",[-2.9433120829480686e-08],C0383429,alemtuzumab,TREATS,C0002874,Aplastic Anemia
+"[5678, 9, 10314]",[-2.9496163733711e-08],C0042646,vidarabine,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[15596, 9, 4720]",[-2.9509857668585937e-08],C1513105,Melphalanum,TREATS,C0035335,Retinoblastoma
+"[18257, 9, 7056]",[-2.955765765477736e-08],C4741328,rituximab-abbs,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[12324, 9, 3281]",[-2.990792324908398e-08],C0673892,artesunic acid,TREATS,C0024530,Malaria
+"[1718, 9, 3289]",[-3.0177663035146907e-08],C0013030,dopamine,TREATS,C0024586,Malignant Carcinoid Syndrome
+"[6152, 9, 3376]",[-3.0591998267937015e-08],C0057144,daptomycin,TREATS,C0025289,Meningitis
+"[6692, 9, 1578]",[-3.064915077288788e-08],C0071097,pioglitazone,TREATS,C0011849,Diabetes Mellitus
+"[13138, 9, 4002]",[-3.071919607577911e-08],C0770343,pancrelipase,TREATS,C0030305,Pancreatitis
+"[12320, 9, 3110]",[-3.125510161794409e-08],C0672708,vorinostat,TREATS,C0023449,Acute lymphocytic leukemia
+"[11666, 9, 811]",[-3.145100180290683e-08],C0541315,everolimus,TREATS,C0006413,Burkitt Lymphoma
+"[5841, 9, 15817]",[-3.1494145957822184e-08],C0049065,decitabine,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[6055, 9, 4531]",[-3.151604488493831e-08],C0055014,ceftibuten,TREATS,C0034186,Pyelonephritis
+"[12285, 9, 322]",[-3.154625005663547e-08],C0663182,daclizumab,TREATS,C0002874,Aplastic Anemia
+"[14669, 9, 1753]",[-3.1880130535455464e-08],C1258986,p-hydroxyphenolacetamide,TREATS,C0013274,Patent ductus arteriosus
+"[11858, 9, 4002]",[-3.21452944263001e-08],C0573951,glyceryl trinitrate,TREATS,C0030305,Pancreatitis
+"[18044, 9, 9240]",[-3.233162004789847e-08],C4529301,bevacizumab-awwb,TREATS,C0238198,Gastrointestinal Stromal Tumors
+"[6227, 9, 811]",[-3.3505642704767524e-08],C0059364,enocitabine,TREATS,C0006413,Burkitt Lymphoma
+"[1531, 9, 869]",[-3.3721850201118286e-08],C0011479,deoxycholic acid,TREATS,C0006840,Candidiasis
+"[4026, 9, 2699]",[-3.401932602287161e-08],C0030520,parathyroid hormone,TREATS,C0020503,"Hyperparathyroidism, Secondary"
+"[5272, 9, 4720]",[-3.4211769417424875e-08],C0039871,thiotepa,TREATS,C0035335,Retinoblastoma
+"[581, 9, 9203]",[-3.4756482136799605e-08],C0004609,baclofen,TREATS,C0236663,Alcohol withdrawal syndrome
+"[3362, 9, 4821]",[-3.479049937027412e-08],C0025242,memantine,TREATS,C0036337,Schizoaffective Disorder
+"[817, 9, 3261]",[-3.5273206577812743e-08],C0006463,busulfan,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[14453, 9, 4703]",[-3.5712975687829385e-08],C1142738,anidulafungin,TREATS,C0035243,Respiratory Tract Infections
+"[13341, 9, 811]",[-3.673011050864261e-08],C0795597,cytarabine liposome,TREATS,C0006413,Burkitt Lymphoma
+"[14163, 9, 3983]",[-3.7055396973073584e-08],C0972314,etoricoxib,TREATS,C0030193,Pain
+"[17555, 9, 12498]",[-3.743820187196434e-08],C3872000,pyridoxal phosphate anhydrous,TREATS,C0686347,Tardive Dyskinesia
+"[5250, 9, 1551]",[-3.767578959923412e-08],C0039736,thalidomide,TREATS,C0011644,Scleroderma
+"[8976, 9, 15817]",[-3.779184254426582e-08],C0209368,mycophenolate mofetil,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[2363, 9, 9677]",[-3.866356479420574e-08],C0017861,glycerol,TREATS,C0271429,Acute otitis media
+"[13692, 9, 14038]",[-3.8739848662316945e-08],C0872913,tenecteplase,TREATS,C0948008,Ischemic stroke
+"[3445, 9, 1549]",[-3.941772774851415e-08],C0025677,methotrexate,TREATS,C0011633,Dermatomyositis
+"[6692, 9, 306]",[-3.948120763652696e-08],C0071097,pioglitazone,TREATS,C0002736,Amyotrophic Lateral Sclerosis
+"[10722, 9, 9035]",[-4.0096516329413134e-08],C0383429,alemtuzumab,TREATS,C0220756,"Niemann-Pick Disease, Type C"
+"[9486, 9, 4810]",[-4.047141288765488e-08],C0252643,bosentan,TREATS,C0036202,Sarcoidosis
+"[17174, 9, 5294]",[-4.056508373651013e-08],C3256601,calcium ascorbate anhydrous,TREATS,C0040028,"Thrombocythemia, Essential"
+"[4979, 9, 4356]",[-4.060389358073735e-08],C0037659,somatostatin,TREATS,C0032897,Prader-Willi Syndrome
+"[3505, 9, 3763]",[-4.062163583284928e-08],C0026088,mifepristone,TREATS,C0028043,Nicotine Dependence
+"[10722, 9, 15817]",[-4.06318889645263e-08],C0383429,alemtuzumab,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[6692, 9, 1866]",[-4.0837146997318996e-08],C0071097,pioglitazone,TREATS,C0014175,Endometriosis
+"[15657, 9, 4812]",[-4.122398777894887e-08],C1516119,sorafenib,TREATS,C0036220,Kaposi Sarcoma
+"[18044, 9, 13576]",[-4.134120956678089e-08],C4529301,bevacizumab-awwb,TREATS,C0860594,"Malignant melanoma, metastatic"
+"[6048, 9, 17040]",[-4.139208442666131e-08],C0054836,carvedilol,TREATS,C2973725,Pulmonary arterial hypertension
+"[567, 9, 929]",[-4.1863302158162696e-08],C0004475,azacitidine,TREATS,C0007134,Renal Cell Carcinoma
+"[5841, 9, 3122]",[-4.1908176484639625e-08],C0049065,decitabine,TREATS,C0023480,"Leukemia, Myelomonocytic, Chronic"
+"[3527, 9, 3110]",[-4.3666648963380794e-08],C0026259,mitoxantrone,TREATS,C0023449,Acute lymphocytic leukemia
+"[3459, 9, 15817]",[-4.396107300408403e-08],C0025819,Methylprednisolone Hemisuccinate,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[5841, 9, 929]",[-4.45742536214766e-08],C0049065,decitabine,TREATS,C0007134,Renal Cell Carcinoma
+"[3426, 9, 3681]",[-4.473439574326221e-08],C0025605,methadone,TREATS,C0027498,Nausea and vomiting
+"[1718, 9, 76]",[-4.599219494139106e-08],C0013030,dopamine,TREATS,C0001206,Acromegaly
+"[5678, 9, 3249]",[-4.610745207855871e-08],C0042646,vidarabine,TREATS,C0024305,"Lymphoma, Non-Hodgkin"
+"[18742, 9, 16695]",[-4.6167322409473854e-08],C5834323,INT-230-6 COMPONENT CISPLATIN,TREATS,C2585890,Nonsquamous nonsmall cell neoplasm of lung
+"[16336, 9, 2113]",[-4.6296690925373696e-08],C1880288,desvenlafaxine,TREATS,C0016053,Fibromyalgia
+"[15833, 9, 2951]",[-4.665020014726906e-08],C1533126,milnacipran,TREATS,C0022104,Irritable Bowel Syndrome
+"[180, 9, 17040]",[-4.66936818099839e-08],C0001927,salbutamol,TREATS,C2973725,Pulmonary arterial hypertension
+"[3459, 9, 3736]",[-4.738850023500163e-08],C0025819,Methylprednisolone Hemisuccinate,TREATS,C0027873,Neuromyelitis Optica
+"[14669, 9, 3915]",[-4.7879495923552895e-08],C1258986,p-hydroxyphenolacetamide,TREATS,C0029408,Degenerative polyarthritis
+"[10044, 9, 9250]",[-4.853184520925424e-08],C0288672,abciximab,TREATS,C0238425,Hemoglobin SS disease with crisis
+"[11623, 9, 14038]",[-4.857936630742188e-08],C0529793,sildenafil,TREATS,C0948008,Ischemic stroke
+"[1586, 9, 3763]",[-4.9100865595619325e-08],C0011892,diamorphine,TREATS,C0028043,Nicotine Dependence
+"[16048, 9, 10495]",[-4.9236216881354267e-08],C1619629,deferasirox,TREATS,C0346421,Chronic eosinophilic leukemia
+"[1416, 9, 3110]",[-4.927311891833597e-08],C0010583,cyclophosphamide,TREATS,C0023449,Acute lymphocytic leukemia
+"[3445, 9, 4720]",[-4.933270147944313e-08],C0025677,methotrexate,TREATS,C0035335,Retinoblastoma
+"[3481, 9, 4703]",[-4.941480113984653e-08],C0025942,miconazole,TREATS,C0035243,Respiratory Tract Infections
+"[7219, 9, 10314]",[-5.017356485836899e-08],C0085272,leuprorelin,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[3805, 9, 1866]",[-5.049199813811356e-08],C0028368,norgestrel,TREATS,C0014175,Endometriosis
+"[3756, 9, 2690]",[-5.057502150407345e-08],C0027996,niacin,TREATS,C0020473,Hyperlipidemia
+"[3469, 9, 3926]",[-5.078774023559163e-08],C0025872,metronidazole,TREATS,C0029443,Osteomyelitis
+"[1981, 9, 374]",[-5.148666204490837e-08],C0015011,ethinylestradiol,TREATS,C0003125,Anorexia Nervosa
+"[2142, 9, 927]",[-5.200397268367851e-08],C0016278,flucytosine,TREATS,C0007131,Non-Small Cell Lung Carcinoma
+"[4353, 9, 14707]",[-5.4392060633290384e-08],C0032856,povidone,TREATS,C1262117,Fungal keratitis
+"[2366, 9, 9695]",[-5.461910745907517e-08],C0017890,glycine,TREATS,C0272286,Thrombocytopenia due to platelet alloimmunization
+"[1416, 9, 13053]",[-5.4651131620175875e-08],C0010583,cyclophosphamide,TREATS,C0751967,"Multiple Sclerosis, Relapsing-Remitting"
+"[3761, 9, 2690]",[-5.492532650919202e-08],C0028027,nicotinamide,TREATS,C0020473,Hyperlipidemia
+"[3644, 9, 17040]",[-5.574068140390409e-08],C0027235,ipratropium,TREATS,C2973725,Pulmonary arterial hypertension
+"[817, 9, 5751]",[-5.708218964173284e-08],C0006463,busulfan,TREATS,C0043208,Wolman Disease
+"[817, 9, 9035]",[-5.721390294866069e-08],C0006463,busulfan,TREATS,C0220756,"Niemann-Pick Disease, Type C"
+"[817, 9, 15817]",[-5.767725497207721e-08],C0006463,busulfan,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[14126, 9, 322]",[-6.066215263444974e-08],C0962603,alefacept,TREATS,C0002874,Aplastic Anemia
+"[11623, 9, 1752]",[-6.09787278449403e-08],C0529793,sildenafil,TREATS,C0013264,"Muscular Dystrophy, Duchenne"
+"[18742, 9, 3726]",[-6.108600558718535e-08],C5834323,INT-230-6 COMPONENT CISPLATIN,TREATS,C0027819,Neuroblastoma
+"[6525, 9, 517]",[-6.158484922025309e-08],C0066005,meropenem,TREATS,C0003962,Ascites
+"[18742, 9, 10914]",[-6.448139799886121e-08],C5834323,INT-230-6 COMPONENT CISPLATIN,TREATS,C0401160,Chemotherapy-induced nausea and vomiting
+"[13341, 9, 15817]",[-6.456807000176923e-08],C0795597,cytarabine liposome,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[14669, 9, 3983]",[-6.51733742529359e-08],C1258986,p-hydroxyphenolacetamide,TREATS,C0030193,Pain
+"[521, 9, 15817]",[-6.547193720507494e-08],C0003993,asparaginase,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[12320, 9, 3086]",[-6.720099321455564e-08],C0672708,vorinostat,TREATS,C0023269,leiomyosarcoma
+"[8162, 9, 5294]",[-6.788433637439084e-08],C0178487,ascorbate,TREATS,C0040028,"Thrombocythemia, Essential"
+"[5414, 9, 3875]",[-6.830998700024793e-08],C0040610,tramadol,TREATS,C0029104,Opioid withdrawal
+"[13692, 9, 4510]",[-7.02756111081726e-08],C0872913,tenecteplase,TREATS,C0034065,Pulmonary Embolism
+"[18257, 9, 9695]",[-7.070451601975947e-08],C4741328,rituximab-abbs,TREATS,C0272286,Thrombocytopenia due to platelet alloimmunization
+"[10722, 9, 3574]",[-7.344740993175947e-08],C0383429,alemtuzumab,TREATS,C0026709,Mucopolysaccharidosis VI
+"[13109, 9, 4821]",[-7.40130872145528e-08],C0765273,bexarotene,TREATS,C0036337,Schizoaffective Disorder
+"[5686, 9, 2492]",[-7.49271791278261e-08],C0042679,vincristine,TREATS,C0018916,Hemangioma
+"[6008, 9, 4408]",[-7.556886316706368e-08],C0054201,budesonide,TREATS,C0033246,Proctitis
+"[3445, 9, 15817]",[-7.568385029799174e-08],C0025677,methotrexate,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[15475, 9, 4311]",[-7.68814345519786e-08],C1455147,dasatinib,TREATS,C0032463,Polycythemia Vera
+"[4543, 9, 12498]",[-7.739834728681672e-08],C0034263,pyridoxal,TREATS,C0686347,Tardive Dyskinesia
+"[1660, 9, 3670]",[-7.957191172636158e-08],C0012522,diphenhydramine,TREATS,C0027424,Nasal congestion (finding)
+"[11702, 9, 136]",[-8.109219606922125e-08],C0544368,hydrocortamate,TREATS,C0001627,Congenital adrenal hyperplasia
+"[12705, 9, 3148]",[-8.164114717601478e-08],C0717758,etanercept,TREATS,C0023646,Lichen Planus
+"[6646, 9, 3617]",[-8.204023771440916e-08],C0070093,teriparatide,TREATS,C0026987,Myelofibrosis
+"[7171, 9, 10314]",[-8.233896409137742e-08],C0085149,tacrolimus,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[16764, 9, 15817]",[-8.251346628185274e-08],C2699562,dasatinib anhydrous,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[7426, 9, 3122]",[-8.316216337789228e-08],C0092777,clofarabine,TREATS,C0023480,"Leukemia, Myelomonocytic, Chronic"
+"[817, 9, 1551]",[-8.364544612504687e-08],C0006463,busulfan,TREATS,C0011644,Scleroderma
+"[12812, 9, 502]",[-8.375704396712536e-08],C0725616,"citric acid, anhydrous",TREATS,C0003864,Arthritis
+"[3554, 9, 3875]",[-8.61840163679517e-08],C0026549,morphine,TREATS,C0029104,Opioid withdrawal
+"[6980, 9, 4821]",[-8.635932857714579e-08],C0078844,zonisamide,TREATS,C0036337,Schizoaffective Disorder
+"[9510, 9, 15817]",[-8.729742972946042e-08],C0257685,zoledronic acid,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[18044, 9, 16060]",[-8.919098348769694e-08],C4529301,bevacizumab-awwb,TREATS,C1621958,Glioblastoma Multiforme
+"[7368, 9, 7056]",[-9.283748170219042e-08],C0086444,dexrazoxane,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[7548, 9, 16060]",[-9.337519202290423e-08],C0123931,irinotecan,TREATS,C1621958,Glioblastoma Multiforme
+"[1965, 9, 9060]",[-9.594031524784441e-08],C0014912,estradiol,TREATS,C0221074,"Depression, Postpartum"
+"[6795, 9, 5220]",[-9.64760360488981e-08],C0073631,ketorolac,TREATS,C0039520,Tenosynovitis
+"[6525, 9, 588]",[-1.0056520238777011e-07],C0066005,meropenem,TREATS,C0004626,"Pneumonia, Bacterial"
+"[14734, 9, 3110]",[-1.0071146050449897e-07],C1269691,Escherichia coli asparaginase,TREATS,C0023449,Acute lymphocytic leukemia
+"[8837, 9, 2463]",[-1.0308553299864798e-07],C0205758,racepinephrine,TREATS,C0018790,Cardiac Arrest
+"[5686, 9, 11767]",[-1.0430714070253089e-07],C0042679,vincristine,TREATS,C0553580,Ewings sarcoma
+"[14358, 9, 3110]",[-1.0506596481718589e-07],C1134452,MTC-DOX,TREATS,C0023449,Acute lymphocytic leukemia
+"[11702, 9, 2951]",[-1.0918827086925376e-07],C0544368,hydrocortamate,TREATS,C0022104,Irritable Bowel Syndrome
+"[10722, 9, 5751]",[-1.0990582666181581e-07],C0383429,alemtuzumab,TREATS,C0043208,Wolman Disease
+"[3445, 9, 3122]",[-1.1115434261910195e-07],C0025677,methotrexate,TREATS,C0023480,"Leukemia, Myelomonocytic, Chronic"
+"[14603, 9, 3603]",[-1.1214878981036236e-07],C1176309,bortezomib,TREATS,C0026896,Myasthenia Gravis
+"[1998, 9, 4720]",[-1.1364416963033364e-07],C0015133,etoposide,TREATS,C0035335,Retinoblastoma
+"[11666, 9, 10314]",[-1.148935879768942e-07],C0541315,everolimus,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[4354, 9, 14707]",[-1.1497896679202313e-07],C0032857,povidone-iodine,TREATS,C1262117,Fungal keratitis
+"[1196, 9, 16621]",[-1.169424450608858e-07],C0008838,cisplatin,TREATS,C2316304,Human epidermal growth factor 2 negative carcinoma of breast
+"[13806, 9, 4311]",[-1.1870005067748934e-07],C0887557,sodium ascorbate,TREATS,C0032463,Polycythemia Vera
+"[6227, 9, 15817]",[-1.2194657017516874e-07],C0059364,enocitabine,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[14669, 9, 4069]",[-1.277023784496123e-07],C1258986,p-hydroxyphenolacetamide,TREATS,C0030807,Pemphigus
+"[15809, 9, 10314]",[-1.2878221866685635e-07],C1529660,Ribomustin,TREATS,C0334634,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"
+"[4911, 9, 2951]",[-1.3048833125139936e-07],C0037138,simethicone,TREATS,C0022104,Irritable Bowel Syndrome
+"[6080, 9, 10958]",[-1.3568646295425424e-07],C0055573,choline salicylate,TREATS,C0406317,Chronic small plaque psoriasis
+"[7536, 9, 374]",[-1.361288610723932e-07],C0123091,quetiapine,TREATS,C0003125,Anorexia Nervosa
+"[5678, 9, 7056]",[-1.3906229412441462e-07],C0042646,vidarabine,TREATS,C0079774,Peripheral T-Cell Lymphoma
+"[6864, 9, 11767]",[-1.4998659025877714e-07],C0076080,temozolomide,TREATS,C0553580,Ewings sarcoma
+"[15645, 9, 9684]",[-1.5396710750792408e-07],C1515405,Virosterone,TREATS,C0271623,Hypogonadotropic hypogonadism
+"[15581, 9, 9250]",[-1.5506333284065477e-07],C1512536,Dimorphone,TREATS,C0238425,Hemoglobin SS disease with crisis
+"[5922, 9, 11405]",[-1.5852243961944623e-07],C0052416,arsenic trioxide,TREATS,C0476089,Endometrial Carcinoma
+"[7368, 9, 15817]",[-1.7088729009628878e-07],C0086444,dexrazoxane,TREATS,C1531702,Acute lymphoblastic leukemia - category
+"[3210, 9, 4887]",[-1.8013683700246474e-07],C0023992,loperamide,TREATS,C0036992,Short Bowel Syndrome
+"[14358, 9, 3261]",[-1.8361448894665955e-07],C1134452,MTC-DOX,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[14603, 9, 3261]",[-1.861448595263937e-07],C1176309,bortezomib,TREATS,C0024419,Waldenstrom Macroglobulinemia
+"[14358, 9, 3086]",[-1.8672665191843407e-07],C1134452,MTC-DOX,TREATS,C0023269,leiomyosarcoma
+"[16087, 9, 1549]",[-1.9923568572721706e-07],C1690432,denosumab,TREATS,C0011633,Dermatomyositis
+"[3139, 9, 16060]",[-2.2557004797363334e-07],C0023570,levodopa,TREATS,C1621958,Glioblastoma Multiforme
+"[5636, 9, 3723]",[-2.280140449784085e-07],C0042291,valproic acid,TREATS,C0027796,Neuralgia
+"[8162, 9, 4311]",[-2.3177125285656075e-07],C0178487,ascorbate,TREATS,C0032463,Polycythemia Vera
+"[3963, 9, 501]",[-2.4927868480517645e-07],C0030049,oxycodone,TREATS,C0003862,Arthralgia
+"[7548, 9, 11767]",[-2.5243289769605326e-07],C0123931,irinotecan,TREATS,C0553580,Ewings sarcoma
+"[6227, 9, 3110]",[-2.6455700208316557e-07],C0059364,enocitabine,TREATS,C0023449,Acute lymphocytic leukemia
+"[17174, 9, 14064]",[-2.7207931907469174e-07],C3256601,calcium ascorbate anhydrous,TREATS,C0949083,Hospital acquired pneumonia
+"[14603, 9, 3617]",[-2.8006877528241603e-07],C1176309,bortezomib,TREATS,C0026987,Myelofibrosis
+"[8162, 9, 14064]",[-3.1294482027988124e-07],C0178487,ascorbate,TREATS,C0949083,Hospital acquired pneumonia
