@@ -328,7 +328,7 @@ if selection_key in csv_file_mapping:
             # Collect relevant files based on `test_dataset`
             # Select files for table display based on negative_sampling
             table_keys = [
-                key for key in csv_file_mapping if key[0] == negative_sampling and key[1] == model_name and key[4] == test_dataset
+                key for key in csv_file_mapping if key[0] == negative_sampling and key[4] == test_dataset
             ]
             table_files = [csv_file_mapping[key] for key in table_keys]
 
@@ -352,11 +352,11 @@ if selection_key in csv_file_mapping:
             # Select files for graph display based on graph_choice
             if graph_choice == "Both":
                 graph_keys = [
-                    key for key in csv_file_mapping if key[1] == model_name and key[4] == test_dataset
+                    key for key in csv_file_mapping if  key[4] == test_dataset
                 ]
             else:
                 graph_keys = [
-                    key for key in csv_file_mapping if key[0] == graph_choice and key[1] == model_name and key[4] == test_dataset
+                    key for key in csv_file_mapping if key[0] == graph_choice and key[4] == test_dataset
                 ]
             graph_files = [csv_file_mapping[key] for key in graph_keys]
 
