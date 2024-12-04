@@ -431,7 +431,5 @@ st.write(f"#### `{deneme}`")
 verifai_url = "https://app.verifai-project.com/main"
 st.components.v1.iframe(verifai_url, width=800, height=600, scrolling=True)
 
-<script>
-    document.write('<p>Visit the <a href="https://verifai-project.com" target="_blank">VerifAI Project</a> for more details.</p>');
-</script>
+st.write("For more information, visit the [VerifAI Project](https://verifai-project.com) website.")
 
