@@ -304,13 +304,16 @@ if selection_key in csv_file_mapping:
     file_path = csv_file_mapping[selection_key]
     try:
         df = pd.read_csv(file_path)
-        # Function to convert links to clickable format
-        def make_clickable(cell_content):
-            if "http" in cell_content:  # Check if the cell has a link
-                parts = cell_content.split(": ", 1)
-                if len(parts) > 1:
-                    text, url = parts
-                    return f"{text}: <a href='{url}' target='_blank'>{url}</a>"
+        # Function to convert multiple links into clickable format
+        def make_clickable_list(cell_content):
+            if isinstance(cell_content, list):  # Check if the cell contains a list
+                html_links = []
+                for item in cell_content:
+                    parts = item.split(": ", 1)
+                    if len(parts) > 1:
+                        text, url = parts
+                        html_links.append(f"{text}: <a href='{url}' target='_blank'>{url}</a>")
+                return "<br>".join(html_links)  # Join links with a line break
             return cell_content
         
         # Apply the function to the 'Details' column
