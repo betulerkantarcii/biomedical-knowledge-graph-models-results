@@ -415,7 +415,7 @@ else:
 #Set the title of your Streamlit app
 st.title("Verifai Project for Validation")
 # Add a description below the title
-st.write(f"This app embeds the Verifai Project application directly into the Streamlit interface. "
+st.write(f"This app embeds the Verifai Project application directly into the Streamlit interface. ",
          f"You can search for 'Can `{lomefloxacin}` be used in the treatment of `{Acute gonococcal cervicitis}`?'")
 
 # Embed the external web app using an iframe
