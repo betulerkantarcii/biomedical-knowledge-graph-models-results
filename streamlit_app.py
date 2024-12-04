@@ -411,3 +411,10 @@ if selection_key in csv_file_mapping:
         st.error(f"File `{file_path}` not found. Please check the file path or upload the file.")
 else:
     st.warning(f"No CSV file matches the selected combination '{selection_key}'. Please check your selections.")
+
+#Set the title of your Streamlit app
+st.title("Verifai Project Embedded in Streamlit")
+
+# Embed the external web app using an iframe
+verifai_url = "https://app.verifai-project.com/main"
+st.components.v1.iframe(verifai_url, width=800, height=600, scrolling=True)
