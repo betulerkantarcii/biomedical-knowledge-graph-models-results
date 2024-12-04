@@ -414,9 +414,20 @@ else:
 
 #Set the title of your Streamlit app
 st.title("Verifai Project for Validation")
-# Add a description below the title
-st.write(f"This app embeds the Verifai Project application directly into the Streamlit interface. "
-         f"You can search for 'Can lomefloxacin be used in the treatment of Acute gonococcal cervicitis?'")
+# Add VerifAI BIOMED explanation
+st.markdown("""
+VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the biomedical domain (PubMed). It serves as an educational and decision-support engine for biology, chemistry, and medicine students and professionals. It is powered by our self-hosted fine-tuned instance of the Mistral model.  
+You can [register/login and try VerifAI BIOMED here](https://app.verifai-project.com/).
+""", unsafe_allow_html=True)
+
+# Add description and styled question
+st.markdown("""
+This app embeds the Verifai Project application directly into the Streamlit interface.  
+
+<span style="font-size:20px; color:blue;">
+You can search for <strong>Can <i>lomefloxacin</i> be used in the treatment of <i>Acute gonococcal cervicitis</i>?</strong>
+</span>
+""", unsafe_allow_html=True)
 
 # Embed the external web app using an iframe
 verifai_url = "https://app.verifai-project.com/main"
