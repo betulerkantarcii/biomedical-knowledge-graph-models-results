@@ -306,15 +306,6 @@ if selection_key in csv_file_mapping:
         df = pd.read_csv(file_path)
         st.write(f"### Data from `{file_path}`:")
         st.dataframe(df, use_container_width=True)
-
-       # Option to download filtered data
-        csv = df.to_csv(index=False)
-        st.download_button(
-            label="Download Data as CSV",
-            data=csv,
-            file_name=file_path.split("/")[-1],
-            mime="text/csv",
-        )
         
         # Filter specific columns and show in another table
         desired_columns = st.multiselect("Select Columns to Display in a Separate Table", df.columns)
@@ -333,42 +324,69 @@ if selection_key in csv_file_mapping:
                 .sort_values(by="count", ascending=False)
                 .head(5)
             )
-            st.write("### Top 5 relation common among top 10 rank in all models")
+            st.write("### Graph")
             # Collect relevant files based on `test_dataset`
-            # Collect relevant files based on `test_dataset`
-            matching_files = [
-                path for key, path in csv_file_mapping.items() if key[-1] == test_dataset
+            # Select files for table display based on negative_sampling
+            table_keys = [
+                key for key in csv_file_mapping if key[0] == negative_sampling and key[1] == model_name and key[4] == test_dataset
             ]
+            table_files = [csv_file_mapping[key] for key in table_keys]
 
-            # Process the relevant files
-            combined_data = []
-            for file in matching_files:
+            # Process the selected files for table display
+            table_data = []
+            for file in table_files:
                 try:
                     temp_df = pd.read_csv(file)
-                    # Ensure sorting by Model Score (descending) and select top 10 rows
-                    if "Model Score" in temp_df.columns:
-                        top_10 = temp_df.head(10)
-                        combined_data.append(top_10)
-                    else:
-                        st.warning(f"'Model Score' column not found in file: {file}")
+                    table_data.append(temp_df)
                 except FileNotFoundError:
                     st.warning(f"File `{file}` not found. Skipping...")
 
-            if combined_data:
-                # Combine all top 10 rows from all relevant files
-                combined_df = pd.concat(combined_data, ignore_index=True)
+            # Add dropdown for graph creation
+            graph_choice = st.selectbox(
+                "Select Graph Type for Analysis:",
+                ["Basic", "Custom", "Both"],
+                index=["Basic", "Custom"].index(negative_sampling),  # Default to match negative_sampling
+                help="Choose the data type for graph analysis"
+            )
 
-                # Check if necessary columns exist
-                if "SUBJECT_NAME" in combined_df.columns and "OBJECT_NAME" in combined_df.columns:
-                    # Group by SUBJECT_NAME and OBJECT_NAME to count occurrences across files
+            # Select files for graph display based on graph_choice
+            if graph_choice == "Both":
+                graph_keys = [
+                    key for key in csv_file_mapping if key[1] == model_name and key[4] == test_dataset
+                ]
+            else:
+                graph_keys = [
+                    key for key in csv_file_mapping if key[0] == graph_choice and key[1] == model_name and key[4] == test_dataset
+                ]
+            graph_files = [csv_file_mapping[key] for key in graph_keys]
+
+            # Process the selected files for graph display
+            graph_data = []
+            for file in graph_files:
+                try:
+                    temp_df = pd.read_csv(file)
+                    # Sort by Model Score and select top 10 rows
+                    if "Model Score" in temp_df.columns:
+                        top_10 = temp_df.head(10)
+                        graph_data.append(top_10)
+                except FileNotFoundError:
+                    st.warning(f"File `{file}` not found. Skipping...")
+
+            if graph_data:
+                combined_graph_df = pd.concat(graph_data, ignore_index=True)
+
+                # Group by SUBJECT_NAME and OBJECT_NAME
+                if "SUBJECT_NAME" in combined_graph_df.columns and "OBJECT_NAME" in combined_graph_df.columns:
                     top_common = (
-                        combined_df
+                        combined_graph_df
                         .groupby(["SUBJECT_NAME", "OBJECT_NAME"])
                         .size()
                         .reset_index(name="count")
                         .sort_values(by="count", ascending=False)
-                        .head(5)  # Get top 5 by highest count
+                        .head(5)
                     )
+
+                    st.write(f"### Top 5 Common Relationships for `{graph_choice}` Negative Sampling")
                     st.dataframe(top_common)
 
                     # Prepare data for the bar chart
@@ -380,6 +398,14 @@ if selection_key in csv_file_mapping:
                 else:
                     st.warning("The required columns ('SUBJECT_NAME', 'OBJECT_NAME') are missing in the files.")
             
+            # Option to download filtered data
+            csv = df.to_csv(index=False)
+            st.download_button(
+                label="Download Data as CSV",
+                data=csv,
+                file_name=file_path.split("/")[-1],
+                mime="text/csv",
+            )
     except FileNotFoundError:
         st.error(f"File `{file_path}` not found. Please check the file path or upload the file.")
 else:
