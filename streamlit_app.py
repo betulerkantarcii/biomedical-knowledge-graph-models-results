@@ -418,7 +418,7 @@ st.title("Verifai Project for Validation")
 deneme = "Can Lomefloxacin be used in the treatment of Acute gonococcal cervicitis ?"
 # Add VerifAI BIOMED explanation
 st.markdown("""
-VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the biomedical domain (PubMed). It serves as an educational and decision-support engine for biology, chemistry, and medicine students and professionals.
+"VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the biomedical domain (PubMed). It serves as an educational and decision-support engine for biology, chemistry, and medicine students and professionals."
 </br>
 </br>
 This app embeds the Verifai Project.
