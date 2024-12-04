@@ -320,7 +320,9 @@ if selection_key in csv_file_mapping:
         df['PubMed_URLs'] = df['PubMed_URLs'].apply(make_clickable)
 
         st.write(f"### Data from `{file_path}`:")
-        st.dataframe(df, use_container_width=True)
+        # Use st.markdown to display the DataFrame with links rendered as HTML
+        st.markdown(df.to_html(escape=False, index=False), unsafe_allow_html=True)
+        #st.dataframe(df, use_container_width=True)
         
         # Filter specific columns and show in another table
         desired_columns = st.multiselect("Select Columns to Display in a Separate Table", df.columns)
