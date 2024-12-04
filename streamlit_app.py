@@ -419,7 +419,8 @@ deneme = "Can lomefloxacin be used in the treatment of Acute gonococcal cervicit
 st.markdown("""
 VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the biomedical domain (PubMed). It serves as an educational and decision-support engine for biology, chemistry, and medicine students and professionals.
 </br>
-This app embeds the Verifai Project application.
+</br>
+This app embeds the Verifai Project.
 """, unsafe_allow_html=True) 
 
 st.write("For example, search for")
