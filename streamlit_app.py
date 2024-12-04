@@ -356,7 +356,7 @@ if selection_key in csv_file_mapping:
                 "Select Graph Type for Analysis:",
                 ["Basic", "Custom", "Both"],
                 index=["Basic", "Custom"].index(negative_sampling),  # Default to match negative_sampling
-                help="Choose the data type for graph analysis"
+                help="Choose the negative sampling type for graph analysis"
             )
 
             # Select files for graph display based on graph_choice
