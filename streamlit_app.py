@@ -306,6 +306,15 @@ if selection_key in csv_file_mapping:
         df = pd.read_csv(file_path)
         st.write(f"### Data from `{file_path}`:")
         st.dataframe(df, use_container_width=True)
+
+       # Option to download filtered data
+        csv = df.to_csv(index=False)
+        st.download_button(
+            label="Download Data as CSV",
+            data=csv,
+            file_name=file_path.split("/")[-1],
+            mime="text/csv",
+        )
         
         # Filter specific columns and show in another table
         desired_columns = st.multiselect("Select Columns to Display in a Separate Table", df.columns)
@@ -371,14 +380,6 @@ if selection_key in csv_file_mapping:
                 else:
                     st.warning("The required columns ('SUBJECT_NAME', 'OBJECT_NAME') are missing in the files.")
             
-            # Option to download filtered data
-            csv = df.to_csv(index=False)
-            st.download_button(
-                label="Download Data as CSV",
-                data=csv,
-                file_name=file_path.split("/")[-1],
-                mime="text/csv",
-            )
     except FileNotFoundError:
         st.error(f"File `{file_path}` not found. Please check the file path or upload the file.")
 else:
