@@ -415,7 +415,7 @@ else:
 
 #Set the title of your Streamlit app
 st.title("Verifai Project for Validation")
-deneme = "Can _Lomefloxacin_ be used in the treatment of _Acute gonococcal cervicitis_"
+deneme = "Can Lomefloxacin be used in the treatment of Acute gonococcal cervicitis ?"
 # Add VerifAI BIOMED explanation
 st.markdown("""
 VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the biomedical domain (PubMed). It serves as an educational and decision-support engine for biology, chemistry, and medicine students and professionals.
