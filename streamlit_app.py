@@ -420,8 +420,6 @@ deneme = "Can Lomefloxacin be used in the treatment of Acute gonococcal cervicit
 st.markdown("""
 "VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the biomedical domain (PubMed). It serves as an educational and decision-support engine for biology, chemistry, and medicine students and professionals."
 </br>
-</br>
-This app embeds the Verifai Project.
 """, unsafe_allow_html=True) 
 
 st.write("For example, search for")
@@ -430,6 +428,6 @@ st.write(f"#### `{deneme}`")
 # Embed the external web app using an iframe
 verifai_url = "https://app.verifai-project.com/main"
 st.components.v1.iframe(verifai_url, width=800, height=600, scrolling=True)
-
+st.write("This app embeds the Verifai Project.")
 st.write("For more information, visit the [VerifAI Project](https://verifai-project.com) website.")
 
