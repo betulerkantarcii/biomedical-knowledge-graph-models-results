@@ -334,7 +334,7 @@ if selection_key in csv_file_mapping:
                 .sort_values(by="count", ascending=False)
                 .head(5)
             )
-            st.write("### Graph")
+            st.title("Graph")
             # Collect relevant files based on `test_dataset`
             # Select files for table display based on negative_sampling
             table_keys = [
@@ -415,7 +415,7 @@ else:
 
 #Set the title of your Streamlit app
 st.title("Verifai Project for Validation")
-deneme = "Can Lomefloxacin be used in the treatment of Acute gonococcal cervicitis ?"
+search = "Can Lomefloxacin be used in the treatment of Acute gonococcal cervicitis ?"
 # Add VerifAI BIOMED explanation
 st.markdown("""
 "VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the biomedical domain (PubMed). It serves as an educational and decision-support engine for biology, chemistry, and medicine students and professionals."
@@ -423,7 +423,7 @@ st.markdown("""
 """, unsafe_allow_html=True) 
 
 st.write("For example, search for")
-st.write(f"#### `{deneme}`")
+st.write(f"#### `{search}`")
 
 # Embed the external web app using an iframe
 verifai_url = "https://app.verifai-project.com/main"
