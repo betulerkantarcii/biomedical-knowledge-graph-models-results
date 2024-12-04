@@ -386,7 +386,7 @@ if selection_key in csv_file_mapping:
                         .head(5)
                     )
 
-                    st.write(f"### Top 5 Common Relationships for `{graph_choice}` Negative Sampling")
+                    st.write(f"### Top 5 Common Relationships Among Top 10 Ranked Results ({graph_choice} Negative Sampling, {test_dataset})")
                     st.dataframe(top_common)
 
                     # Prepare data for the bar chart
