@@ -414,20 +414,15 @@ else:
 
 #Set the title of your Streamlit app
 st.title("Verifai Project for Validation")
+deneme = "Can lomefloxacin be used in the treatment of Acute gonococcal cervicitis"
 # Add VerifAI BIOMED explanation
 st.markdown("""
-VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the biomedical domain (PubMed). It serves as an educational and decision-support engine for biology, chemistry, and medicine students and professionals.  
-""", unsafe_allow_html=True)
+VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the biomedical domain (PubMed). It serves as an educational and decision-support engine for biology, chemistry, and medicine students and professionals.
+</br>
+This app embeds the Verifai Project application.
+""", unsafe_allow_html=True) 
 
-# Add description and styled question
-st.markdown("""
-This app embeds the Verifai Project application.  
-
-<span> For example, search for: </span>
-<span style="font-size:20px; color:green;">
-<strong>Can <i>lomefloxacin</i> be used in the treatment of <i>Acute gonococcal cervicitis</i>?</strong></br>
-</span>
-""", unsafe_allow_html=True)
+st.write(`{deneme}`)
 
 # Embed the external web app using an iframe
 verifai_url = "https://app.verifai-project.com/main"
