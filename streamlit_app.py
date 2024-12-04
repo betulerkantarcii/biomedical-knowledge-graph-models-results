@@ -360,8 +360,6 @@ if selection_key in csv_file_mapping:
                         .sort_values(by="count", ascending=False)
                         .head(5)  # Get top 5 by highest count
                     )
-
-                    st.write("### Top 5 Common Relationships Among Top 10 by Model Score Across Files")
                     st.dataframe(top_common)
 
                     # Prepare data for the bar chart
