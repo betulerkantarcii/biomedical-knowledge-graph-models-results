@@ -304,8 +304,18 @@ if selection_key in csv_file_mapping:
     file_path = csv_file_mapping[selection_key]
     try:
         df = pd.read_csv(file_path)
-        # Use st.markdown to display the DataFrame with links rendered as HTML
-        st.markdown(df.to_html(escape=False, index=False), unsafe_allow_html=True)
+        # Function to convert links to clickable format
+        def make_clickable(cell_content):
+            if "http" in cell_content:  # Check if the cell has a link
+                parts = cell_content.split(": ", 1)
+                if len(parts) > 1:
+                    text, url = parts
+                    return f"{text}: <a href='{url}' target='_blank'>{url}</a>"
+            return cell_content
+        
+        # Apply the function to the 'Details' column
+        df['PubMed_URLs'] = df['PubMed_URLs'].apply(make_clickable)
+
         st.write(f"### Data from `{file_path}`:")
         st.dataframe(df, use_container_width=True)
         
