@@ -422,7 +422,7 @@ VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the 
 This app embeds the Verifai Project application.
 """, unsafe_allow_html=True) 
 
-st.write(f"#### For example, search for `{deneme}`")
+st.write(f"For example, search for #### `{deneme}`")
 
 # Embed the external web app using an iframe
 verifai_url = "https://app.verifai-project.com/main"
