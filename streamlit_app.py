@@ -421,9 +421,9 @@ VerifAI BIOMED is a deployed version of VerifAI core, indexing abstracts in the 
 
 # Add description and styled question
 st.markdown("""
-This app embeds the Verifai Project application directly into this interface.  
+This app embeds the Verifai Project application.  
 
-<span> For example, search for </span>
+<span> For example, search for: </span>
 <span style="font-size:20px; color:green;">
 <strong>Can <i>lomefloxacin</i> be used in the treatment of <i>Acute gonococcal cervicitis</i>?</strong></br>
 </span>
